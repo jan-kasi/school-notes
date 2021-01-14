@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="153.206298828125" y="-145.91170247395917" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="566.75480143229174" posy="636.31420898437625" width="197" height="64" side="left" fold="false" treesize="1654" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="580.75480143229174" posy="650.31420898437625" maxwidth="200">
+        <text data="Ancient Greece: on the nature of Soul"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="806.75480143229174" posy="322.31420898437534" width="65" height="46" side="right" fold="false" treesize="1026" color="#fcaf3e" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="820.75480143229174" posy="336.31420898437534" maxwidth="200">
+            <text data="Plato"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="2" posx="971.75480143229197" posy="-167.68579101562489" width="219" height="118" side="right" fold="false" treesize="118" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="985.75480143229197" posy="-153.68579101562489" maxwidth="200">
+                <text data="the soul (greek: psyche)&#10;some immortal and immaterial essence in the human being which can survive death"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="3" posx="971.75480143229197" posy="77.314208984375114" width="222" height="154" side="right" fold="false" treesize="408" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="985.75480143229197" posy="91.314208984375114" maxwidth="200">
+                <text data="Platonic dualism: the soul is separate from the body. The soul is the rational element of thought, the mind, awareness, consciousness, and the essence of us"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="4" posx="1293.754801432292" posy="-49.685791015624886" width="189" height="118" side="right" fold="false" treesize="118" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1307.754801432292" posy="-35.685791015624886" maxwidth="200">
+                    <text data="from cycles: life and death are a cycle of opposites, something must remain between them"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="5" posx="1293.754801432292" posy="68.314208984375114" width="223" height="172" side="right" fold="false" treesize="172" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1307.754801432292" posy="82.314208984375114" maxwidth="200">
+                    <text data="from recollection: anamenesis (remembering from the realm of forms) is how we derive knowledge from previouus existence in the realm of forms. The soul must have lived before"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="6" posx="1293.754801432292" posy="240.31420898437534" width="214" height="118" side="right" fold="false" treesize="118" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1307.754801432292" posy="254.31420898437534" maxwidth="200">
+                    <text data="affinity argment:&#10;soul has a close resemelance to things which don't die, the body does not."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="7" posx="971.75480143229197" posy="390.31420898437523" width="214" height="82" side="right" fold="false" treesize="146" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="985.75480143229197" posy="404.31420898437523" maxwidth="200">
+                <text data="issues with this are to do with criticisms to Plato's theory of forms"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="8" posx="1285.754801432292" posy="358.31420898437534" width="227" height="100" side="right" fold="false" treesize="100" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1299.754801432292" posy="372.31420898437534" maxwidth="200">
+                    <text data="object and idea connection:&#10;how does an object attempt to be like an idea?"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="9" posx="1285.754801432292" posy="458.31420898437523" width="164" height="46" side="right" fold="false" treesize="46" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1299.754801432292" posy="472.31420898437523" maxwidth="200">
+                    <text data="third man problem"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="10" posx="971.75480143229197" posy="658.31420898437511" width="158" height="46" side="right" fold="false" treesize="354" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="985.75480143229197" posy="672.31420898437511" maxwidth="200">
+                <text data="general criticisms"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="11" posx="1229.754801432292" posy="504.31420898437523" width="193" height="82" side="right" fold="false" treesize="82" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1243.754801432292" posy="518.31420898437523" maxwidth="200">
+                    <text data="that life and death are opposites, or in some unbroken cycle"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="12" posx="1229.754801432292" posy="586.31420898437511" width="224" height="118" side="right" fold="false" treesize="118" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1243.754801432292" posy="600.31420898437511" maxwidth="200">
+                    <text data="anamenesis doesn't mean the soul lives on, these could be implanted memories and dissapear with the death of the body"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="13" posx="1229.754801432292" posy="704.31420898437511" width="218" height="154" side="right" fold="false" treesize="154" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1243.754801432292" posy="718.31420898437511" maxwidth="200">
+                    <text data="although the soul an contemplate abstract and immaterial ideas, it can contemplate physical things too, such as the body, does it have an affinity with immortality?"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="14" posx="806.75480143229174" posy="1149.314208984375" width="90" height="46" side="right" fold="false" treesize="628" color="#fcaf3e" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="820.75480143229174" posy="1163.314208984375" maxwidth="200">
+            <text data="Aristotle"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="15" posx="996.75480143229197" posy="858.31420898437511" width="208" height="100" side="right" fold="false" treesize="100" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1010.754801432292" posy="872.31420898437511" maxwidth="200">
+                <text data="the soul (psyche) is the ability of an organism to things and is not a thing in its own right"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="16" posx="996.75480143229197" posy="958.31420898437511" width="225" height="100" side="right" fold="false" treesize="100" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1010.754801432292" posy="972.31420898437511" maxwidth="200">
+                <text data="the soul is not an independant, distinct, non-physical essence within a human"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="17" posx="996.75480143229197" posy="1058.314208984375" width="185" height="100" side="right" fold="false" treesize="100" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1010.754801432292" posy="1072.314208984375" maxwidth="200">
+                <text data="the soul is the form, scheme, or principle which shapes a living being"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="18" posx="996.75480143229197" posy="1158.314208984375" width="218" height="100" side="right" fold="false" treesize="100" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1010.754801432292" posy="1172.314208984375" maxwidth="200">
+                <text data="the best way to determine a soul'd nature is to study what it does and how it functions"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="19" posx="996.75480143229197" posy="1258.314208984375" width="217" height="64" side="right" fold="false" treesize="64" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1010.754801432292" posy="1272.314208984375" maxwidth="200">
+                <text data="the soul is a &quot;form&quot; of life rather than a thing itself"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="20" posx="996.75480143229197" posy="1322.314208984375" width="223" height="82" side="right" fold="false" treesize="82" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1010.754801432292" posy="1336.314208984375" maxwidth="200">
+                <text data="reason and awareness are natural apabilities of physical beings"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="21" posx="996.75480143229197" posy="1404.314208984375" width="222" height="82" side="right" fold="false" treesize="82" color="#fcaf3e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1010.754801432292" posy="1418.314208984375" maxwidth="200">
+                <text data="If form is not matter/physical nor an idea, what is it?"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

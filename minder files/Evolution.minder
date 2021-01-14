@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="dark" label="Dark" index="0"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="199.47193346545009" y="141.71923506818712" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="590.02806653454923" posy="428.56970536150038" width="179" height="46" side="left" fold="false" treesize="602" layout="Manual" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="604.02806653454923" posy="442.56970536150038" maxwidth="200">
+        <text data="&quot;The Ascent of Man&quot;"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="869.02806653454923" posy="396.56970536150038" width="130" height="46" side="right" fold="false" treesize="602" color="#c6262e" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="883.02806653454923" posy="410.56970536150038" maxwidth="200">
+            <text data="The rift valley"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="2" posx="1099.0280665345492" posy="227.56970536150038" width="102" height="46" side="right" fold="false" treesize="264" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1113.0280665345492" posy="241.56970536150038" maxwidth="200">
+                <text data="Early man"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="3" posx="1301.0280665345492" posy="118.56970536150038" width="222" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1315.0280665345492" posy="132.56970536150038" maxwidth="200">
+                    <text data="Clearly human, but clearly not us"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="4" posx="1301.0280665345492" posy="259.56970536150038" width="120" height="46" side="right" fold="false" treesize="200" color="#f37329" colorroot="true" layout="Manual" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1315.0280665345492" posy="273.56970536150038" maxwidth="200">
+                    <text data="Neandethals"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="5" posx="1521.0280665345492" posy="182.56970536150038" width="225" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Manual" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1535.0280665345492" posy="196.56970536150038" maxwidth="200">
+                        <text data="We destroyed neandethals"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="6" posx="1521.0280665345492" posy="228.56970536150038" width="208" height="154" side="right" fold="false" treesize="154" color="#f37329" colorroot="false" layout="Manual" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1535.0280665345492" posy="242.56970536150038" maxwidth="200">
+                        <text data="We have neandethal blood. Therefore God allowed two species to drive one into extinciton and rape them, or for them to mix DNA and then kill one off."/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="7" posx="1099.0280665345492" posy="464.56970536150038" width="221" height="82" side="right" fold="false" treesize="246.09210205078125" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1113.0280665345492" posy="478.56970536150038" maxwidth="200">
+                <text data="Along each layer they find samples of different types of fossils"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="8" posx="1418.0014552064242" posy="391.56970536150038" width="144" height="46" side="right" fold="false" treesize="64" color="#f37329" colorroot="true" layout="Manual" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1432.0014552064242" posy="405.56970536150038" maxwidth="200">
+                    <text data="Mass extinction"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="9" posx="1681.1620997376742" posy="382.47760331071913" width="221" height="64" side="right" fold="false" treesize="64" color="#f37329" colorroot="false" layout="Manual" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1695.1620997376742" posy="396.47760331071913" maxwidth="200">
+                        <text data="Daily extinction and MASS extinction"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="10" posx="1420.0280665345492" posy="514.56970536150038" width="165" height="46" side="right" fold="false" treesize="182" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1434.0280665345492" posy="528.56970536150038" maxwidth="200">
+                    <text data="Evolution emerges"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="11" posx="1685.0280665345492" posy="446.56970536150038" width="210" height="100" side="right" fold="false" treesize="100" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1699.0280665345492" posy="460.56970536150038" maxwidth="200">
+                        <text data="Observe similarities that look similar to the thing before but are not identical"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="12" posx="1685.0280665345492" posy="546.56970536150038" width="218" height="82" side="right" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1699.0280665345492" posy="560.56970536150038" maxwidth="200">
+                        <text data="When comparing extemities they are much different"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="13" posx="1099.0280665345492" posy="651.56970536150038" width="211" height="46" side="right" fold="false" treesize="92" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1113.0280665345492" posy="665.56970536150038" maxwidth="200">
+                <text data="Rock that is clearly older"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="14" posx="1410.0280665345492" posy="628.56970536150038" width="140" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1424.0280665345492" posy="642.56970536150038" maxwidth="200">
+                    <text data="Age of creation"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="15" posx="1410.0280665345492" posy="674.56970536150038" width="77" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1424.0280665345492" posy="688.56970536150038" maxwidth="200">
+                    <text data="Fossils"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="16" posx="776.58928479626798" posy="498.51785599626601" width="201" height="64" side="right" fold="false" treesize="64" color="#bb8b8b" colorroot="true" layout="Manual" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="790.58928479626798" posy="512.51785599626601" maxwidth="200">
+            <text data="Jay Brenowski designed the Dresden Bombing"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="17" posx="605.52806653454923" posy="182.12259232439101" width="148" height="46" side="left" fold="false" treesize="238.16864013671875" layout="Manual" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="619.52806653454923" posy="196.12259232439101" maxwidth="200">
+        <text data="Darwin's finches"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="18" posx="842.90031995251798" posy="12.953952187672257" width="193" height="64" side="right" fold="false" treesize="110" color="#c6262e" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="856.90031995251798" posy="26.953952187672257" maxwidth="200">
+            <text data="Beaks adapted to deal with the food source"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="19" posx="1135.900319952518" posy="-10.046047812327743" width="195" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1149.900319952518" posy="3.9539521876722574" maxwidth="200">
+                <text data="Predicts shape of beak from food source"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="20" posx="1135.900319952518" posy="53.953952187672257" width="213" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1149.900319952518" posy="67.953952187672257" maxwidth="200">
+                <text data="Things adapt and change"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="21" posx="852.79656018689298" posy="137.62076126970351" width="197" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="866.79656018689298" posy="151.62076126970351" maxwidth="200">
+            <text data="Slightly different beaks"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="30" posx="635.02806653454923" posy="665.16849076189101" width="89" height="46" side="left" fold="false" treesize="287.68798828125" layout="Manual" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="649.02806653454923" posy="679.16849076189101" maxwidth="200">
+        <text data="Dawkins"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="22" posx="797.51579846814298" posy="656.75079667009413" width="195" height="64" side="right" fold="false" treesize="287.68798828125" color="#c6262e" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="811.51579846814298" posy="670.75079667009413" maxwidth="200">
+            <text data="Laryngeal nerve of the giraffe"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="27" posx="748.39012708142423" posy="770.68878495134413" width="195" height="82" side="right" fold="false" treesize="210.5" color="#c6262e" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="762.39012708142423" posy="784.68878495134413" maxwidth="200">
+                <text data="Goes all the way down instead of just about 2 inches away"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="28" posx="1043.3901270814242" posy="733.93878495134413" width="211" height="100" side="right" fold="false" treesize="100" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1057.3901270814242" posy="747.93878495134413" maxwidth="200">
+                    <text data="2 metres long and wraps around through heart instead of just going 2 inches"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="23" posx="1043.3901270814242" posy="865.68878495134413" width="128" height="46" side="right" fold="false" treesize="110.5" color="#c6262e" colorroot="false" layout="Manual" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1057.3901270814242" posy="879.68878495134413" maxwidth="200">
+                    <text data="Imperfections"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="24" posx="1271.3901270814242" posy="833.93878495134413" width="190" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="true" layout="Manual" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1285.3901270814242" posy="847.93878495134413" maxwidth="200">
+                        <text data="Not intentional design"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="25" posx="1271.3901270814242" posy="879.93878495134413" width="94" height="46" side="right" fold="false" treesize="64.5" color="#f37329" colorroot="true" layout="Manual" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1285.3901270814242" posy="893.93878495134413" maxwidth="200">
+                        <text data="&quot;Legacy&quot;"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="26" posx="1465.3901270814242" posy="880.43878495134413" width="217" height="64" side="right" fold="false" treesize="64" color="#f37329" colorroot="false" layout="Manual" group="false">
+                          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <nodename posx="1479.3901270814242" posy="894.43878495134413" maxwidth="200">
+                            <text data="Relevance in the past but now dissapearing"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

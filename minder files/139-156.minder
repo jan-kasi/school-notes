@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="0"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="340.78947368450463" y="107.10526315681636" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="406.21052631549537" posy="382.89473684318364" width="87" height="46" side="left" fold="false" treesize="1032" layout="To right" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="420.21052631549537" posy="396.89473684318364" maxwidth="200">
+        <text data="139-156"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="561.21052631549537" posy="382.89473684318364" width="130" height="46" side="right" fold="false" treesize="1032" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="575.21052631549537" posy="396.89473684318364" maxwidth="200">
+            <text data="mental health"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="2" posx="791.21052631549537" posy="-110.10526315681636" width="191" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="-96.105263156816363" maxwidth="200">
+                <text data="reducing it to physical symptoms"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="3" posx="791.21052631549537" posy="-46.105263156816363" width="213" height="46" side="right" fold="false" treesize="46" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="-32.105263156816363" maxwidth="200">
+                <text data="e.g. alcoholism, anorexia"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="4" posx="791.21052631549537" posy="-0.10526315681636333" width="205" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="13.894736843183637" maxwidth="200">
+                <text data="physical prioritised over mental"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="5" posx="791.21052631549537" posy="63.894736843183637" width="193" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="77.894736843183637" maxwidth="200">
+                <text data="mental assumed to be fine if the physical improves"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="6" posx="791.21052631549537" posy="232.89473684318364" width="197" height="82" side="right" fold="false" treesize="256" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="246.89473684318364" maxwidth="200">
+                <text data="ineffective, YH is progressing to a worse state"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="7" posx="1088.2105263154954" posy="145.89473684318364" width="222" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1102.2105263154954" posy="159.89473684318364" maxwidth="200">
+                    <text data="YH's resistance to modern technology, medication, and society"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="8" posx="1088.2105263154954" posy="227.89473684318364" width="206" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1102.2105263154954" posy="241.89473684318364" maxwidth="200">
+                    <text data="lack of control over herself, control over her body is removed."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="9" posx="1088.2105263154954" posy="309.89473684318364" width="155" height="46" side="right" fold="false" treesize="46" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1102.2105263154954" posy="323.89473684318364" maxwidth="200">
+                    <text data="lack of autonomy"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="10" posx="1088.2105263154954" posy="355.89473684318364" width="210" height="46" side="right" fold="false" treesize="46" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1102.2105263154954" posy="369.89473684318364" maxwidth="200">
+                    <text data="standardised treatments"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="13" posx="791.21052631549537" posy="401.89473684318364" width="187" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="415.89473684318364" maxwidth="200">
+                <text data="recovered outside of psychiatric institution"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="14" posx="1078.2105263154954" posy="401.89473684318364" width="214" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1092.2105263154954" posy="415.89473684318364" maxwidth="200">
+                    <text data="retraumatised by BIL and doctors"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="15" posx="791.21052631549537" posy="524.89473684318364" width="158" height="46" side="right" fold="false" treesize="164" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="538.89473684318364" maxwidth="200">
+                <text data="medical staff cold"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="19" posx="1049.2105263154954" posy="465.89473684318364" width="179" height="46" side="right" fold="false" treesize="46" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1063.2105263154954" posy="479.89473684318364" maxwidth="200">
+                    <text data="&quot;intelligent but cold&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="22" posx="1049.2105263154954" posy="511.89473684318364" width="211" height="118" side="right" fold="false" treesize="118" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1063.2105263154954" posy="525.89473684318364" maxwidth="200">
+                    <text data="&quot;they don't even try to understand...they just force me to take medication, and stab me with needles&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="16" posx="791.21052631549537" posy="629.89473684318364" width="198" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="643.89473684318364" maxwidth="200">
+                <text data="denial of importance of her mental health"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="17" posx="791.21052631549537" posy="693.89473684318364" width="222" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="707.89473684318364" maxwidth="200">
+                <text data="p. 141 &quot;her schitzophrenia wasn't serious&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="18" posx="791.21052631549537" posy="775.89473684318364" width="218" height="64" side="right" fold="false" treesize="100" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="789.89473684318364" maxwidth="200">
+                <text data="&quot;impatient&quot;, &quot;fed up&quot; with YH"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="20" posx="1109.2105263154954" posy="757.89473684318364" width="190" height="100" side="right" fold="false" treesize="100" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1123.2105263154954" posy="771.89473684318364" maxwidth="200">
+                    <text data="see the patients as projects which lead to frustration if not completed"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="21" posx="791.21052631549537" posy="857.89473684318364" width="207" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="805.21052631549537" posy="871.89473684318364" maxwidth="200">
+                <text data="lack of access to mental health treatment"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

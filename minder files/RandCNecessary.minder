@@ -1,0 +1,392 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="978.77272727272702" y="1511.2177033475186" scale="1.5"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="-22.772727272727934" posy="-1021.2177033475183" width="195" height="46" side="right" fold="false" treesize="3239.9999999999977" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="-8.7727272727279342" posy="-1007.2177033475183" maxwidth="200">
+        <text data=" The word &quot;necessary&quot;"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="272.22727272727207" posy="-2445.2177033475159" width="43" height="46" side="right" fold="false" treesize="392" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="286.22727272727207" posy="-2431.2177033475159" maxwidth="200">
+            <text data="R:"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="2" posx="415.22727272727207" posy="-2618.2177033475141" width="199" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-2604.2177033475141" maxwidth="200">
+                <text data="can only be applied significantly to analytic propositions"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="3" posx="415.22727272727207" posy="-2536.2177033475141" width="218" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-2522.2177033475141" maxwidth="200">
+                <text data="those prepositions are self contradictory to deny"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="4" posx="415.22727272727207" posy="-2472.2177033475159" width="223" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-2458.2177033475159" maxwidth="200">
+                <text data="predicate contained within the subject"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="5" posx="415.22727272727207" posy="-2408.2177033475168" width="218" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-2394.2177033475168" maxwidth="200">
+                <text data="R can only admit to a necessary being if that being existence would be self contradictory to deny"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="6" posx="415.22727272727207" posy="-2308.2177033475168" width="220" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-2294.2177033475168" maxwidth="200">
+                <text data="&gt; &quot;a necessary proposition&quot; has got to be analytic &lt;"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="7" posx="272.22727272727207" posy="-2035.2177033475168" width="43" height="46" side="right" fold="false" treesize="428" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="286.22727272727207" posy="-2021.2177033475168" maxwidth="200">
+            <text data="C:"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="8" posx="415.22727272727207" posy="-2053.2177033475168" width="223" height="82" side="right" fold="false" treesize="428" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-2039.2177033475168" maxwidth="200">
+                <text data="'if there's a contingent being there is a necessary being'"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="9" posx="738.22727272727127" posy="-2226.2177033475159" width="221" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="752.22727272727127" posy="-2212.2177033475159" maxwidth="200">
+                    <text data="proposition is a necessary proposition"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="10" posx="738.22727272727127" posy="-2162.2177033475164" width="211" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="752.22727272727127" posy="-2148.2177033475164" maxwidth="200">
+                    <text data="agrees to call it analytic, although it isn't tautological"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="11" posx="738.22727272727127" posy="-2080.2177033475168" width="216" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="752.22727272727127" posy="-2066.2177033475168" maxwidth="200">
+                    <text data="necessary proposition only on the supposition that there is a contingent being."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="12" posx="738.22727272727127" posy="-1980.2177033475164" width="185" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="752.22727272727127" posy="-1966.2177033475164" maxwidth="200">
+                    <text data="knowledge of this contingent being is synthetic a posteriori"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="13" posx="738.22727272727127" posy="-1898.2177033475177" width="213" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="752.22727272727127" posy="-1884.2177033475177" maxwidth="200">
+                    <text data="once you know there is a contingent being, it follows that there's a necessary being."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="14" posx="272.22727272727207" posy="-1721.2177033475173" width="43" height="46" side="right" fold="false" treesize="200" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="286.22727272727207" posy="-1707.2177033475173" maxwidth="200">
+            <text data="R:"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="15" posx="415.22727272727207" posy="-1798.2177033475173" width="188" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-1784.2177033475173" maxwidth="200">
+                <text data="necessary being and contingent beings are phrases with no significance for russel"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="16" posx="415.22727272727207" posy="-1698.2177033475182" width="202" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-1684.2177033475182" maxwidth="200">
+                <text data="the word &quot;necessary&quot; seems to R useless except for analytic prepositions, not things"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="17" posx="272.22727272727207" posy="-1434.2177033475186" width="43" height="46" side="right" fold="false" treesize="374" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="286.22727272727207" posy="-1420.2177033475186" maxwidth="200">
+            <text data="C:"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="18" posx="415.22727272727207" posy="-1598.2177033475173" width="207" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-1584.2177033475173" maxwidth="200">
+                <text data="contingent being is a being which doesn't contain its own cause of existence"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="19" posx="415.22727272727207" posy="-1498.2177033475191" width="222" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-1484.2177033475191" maxwidth="200">
+                <text data="necessary being must and cannot not exist"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="20" posx="415.22727272727207" posy="-1434.2177033475186" width="223" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-1420.2177033475186" maxwidth="200">
+                <text data="accepts R can say there is no such being"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="21" posx="415.22727272727207" posy="-1370.2177033475177" width="214" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-1356.2177033475177" maxwidth="200">
+                <text data="doesn't believe R doesn't understand the terms"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="22" posx="415.22727272727207" posy="-1306.2177033475173" width="210" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-1292.2177033475173" maxwidth="200">
+                <text data="if he does, then how can he be entitled to say the being doesn't exist"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="23" posx="272.22727272727207" posy="-1028.2177033475182" width="43" height="46" side="right" fold="false" treesize="438" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="286.22727272727207" posy="-1014.2177033475182" maxwidth="200">
+            <text data="R:"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="24" posx="415.22727272727207" posy="-1197.2177033475182" width="220" height="64" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-1183.2177033475182" maxwidth="200">
+                <text data="what C says brings this to the ontological argument"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="25" posx="735.22727272727172" posy="-1224.2177033475182" width="219" height="118" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="749.22727272727172" posy="-1210.2177033475182" maxwidth="200">
+                    <text data="cosmological argument has same conclusion as ontological argument but different method to arrive at it"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="26" posx="415.22727272727207" posy="-1106.2177033475182" width="191" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-1092.2177033475182" maxwidth="200">
+                <text data="that is, a being whose existence is analytic"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="27" posx="415.22727272727207" posy="-937.21770334751852" width="219" height="46" side="right" fold="false" treesize="256" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-923.21770334751852" maxwidth="200">
+                <text data="R thinks this is impossible"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="28" posx="734.22727272727172" posy="-1042.2177033475186" width="188" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="748.22727272727172" posy="-1028.2177033475186" maxwidth="200">
+                    <text data="raises the question of what it is to exist"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="29" posx="734.22727272727172" posy="-978.21770334751852" width="189" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="748.22727272727172" posy="-964.21770334751852" maxwidth="200">
+                    <text data="a subject named can never be said to exist"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="30" posx="734.22727272727172" posy="-914.21770334751852" width="207" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="748.22727272727172" posy="-900.21770334751852" maxwidth="200">
+                    <text data="only a subject described can"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="31" posx="734.22727272727172" posy="-850.2177033475183" width="213" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="748.22727272727172" posy="-836.2177033475183" maxwidth="200">
+                    <text data="that existence is definitely not a predicate"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="32" posx="272.22727272727207" posy="-632.21770334751864" width="43" height="46" side="right" fold="false" treesize="354.00000000000006" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="286.22727272727207" posy="-618.21770334751864" maxwidth="200">
+            <text data="C:"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="33" posx="415.22727272727207" posy="-786.2177033475183" width="221" height="118" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-772.2177033475183" maxwidth="200">
+                <text data="R says it is bad syntax to say &quot;author name exists&quot;, you have to say &quot;description of author exists&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="34" posx="415.22727272727207" posy="-668.21770334751864" width="220" height="118" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-654.21770334751864" maxwidth="200">
+                <text data="thinks that R can say that world has no cause but not hold that &quot;the cause of world exists&quot; is without meaning"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="35" posx="415.22727272727207" posy="-550.21770334751886" width="225" height="118" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-536.21770334751886" maxwidth="200">
+                <text data="most people would undertand the premise in question &quot;does cause of world exist&quot; even if they disagree about the answer"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="36" posx="272.22727272727207" posy="-223.21770334751784" width="43" height="46" side="right" fold="false" treesize="464" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="286.22727272727207" posy="-209.21770334751784" maxwidth="200">
+            <text data="R:"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="37" posx="415.22727272727207" posy="-432.21770334751807" width="187" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-418.21770334751807" maxwidth="200">
+                <text data="yes, the question has meaning"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="38" posx="415.22727272727207" posy="-368.21770334751807" width="190" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-354.21770334751807" maxwidth="200">
+                <text data="but to say &quot;God is the cause&quot; uses god as a proper name."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="39" posx="415.22727272727207" posy="-286.21770334751807" width="209" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-272.21770334751807" maxwidth="200">
+                <text data="to then say &quot;God exists&quot; is without meaning"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="40" posx="415.22727272727207" posy="-222.21770334751784" width="211" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-208.21770334751784" maxwidth="200">
+                <text data="so it can't follow from an analytic proposition that something exists"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="41" posx="415.22727272727207" posy="-140.21770334751761" width="219" height="172" side="right" fold="false" treesize="172" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="-126.21770334751761" maxwidth="200">
+                <text data="&quot;the existent round-square&quot; looks like an analytic proposition but doesn't actually exist. i.e. the analytic proposition is meaningless and analytic can't hold something exists. "/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="42" posx="272.22727272727207" posy="72.782296652482273" width="222" height="136" side="right" fold="false" treesize="218" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="286.22727272727207" posy="86.782296652482273" maxwidth="200">
+            <text data="R: A being that must exist and cannot not exist, would surely, according to you, be a being whose essence involves existence."/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="43" posx="594.22727272727195" posy="31.782296652482273" width="220" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="608.22727272727195" posy="45.782296652482273" maxwidth="200">
+                <text data="C: won't argue from God's essense as we cannot know it"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="44" posx="594.22727272727195" posy="113.78229665248227" width="211" height="136" side="right" fold="false" treesize="136" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="608.22727272727195" posy="127.78229665248227" maxwidth="200">
+                <text data="R: sees the distinction. if someone had enough knowledge and saw God could say that he is a being whose essense involves existence"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="45" posx="272.22727272727207" posy="412.78229665248227" width="43" height="46" side="right" fold="false" treesize="372" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="286.22727272727207" posy="426.78229665248227" maxwidth="200">
+            <text data="C:"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="46" posx="415.22727272727207" posy="249.78229665248227" width="163" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="263.78229665248227" maxwidth="200">
+                <text data="we don't know the essence a priori."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="47" posx="415.22727272727207" posy="313.78229665248227" width="223" height="118" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="327.78229665248227" maxwidth="200">
+                <text data="It is only a posteriori through our experience of the world that we come to a knowledge of the existence of that being."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="48" posx="415.22727272727207" posy="431.78229665248227" width="208" height="190" side="right" fold="false" treesize="190" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="429.22727272727207" posy="445.78229665248227" maxwidth="200">
+                <text data="the essence and existence must be identical.&#10;if God's essence and God's existence was not identical, then some sufficient reason for this existence would have to be found beyond God."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

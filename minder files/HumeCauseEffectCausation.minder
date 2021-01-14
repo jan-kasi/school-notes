@@ -1,0 +1,731 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-208.25680038255064" y="1419.2581773150373" scale="0.5"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="728.25680038255041" posy="-1048.2581773150391" width="196" height="64" side="left" fold="false" treesize="4818.0000000000036" layout="To right" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="742.25680038255041" posy="-1034.2581773150391" maxwidth="200">
+        <text data="Why a cause is always necessary"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="1024.25680038255" posy="-3425.2581773150405" width="201" height="64" side="right" fold="false" treesize="64" color="#e9b96e" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="-3411.2581773150405" maxwidth="200">
+            <text data="https://davidhume.org/texts/t/1/3/3"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="2" posx="1024.25680038255" posy="-2992.2581773150405" width="60" height="46" side="right" fold="false" treesize="783.99999999999955" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="-2978.2581773150405" maxwidth="200">
+            <text data="78-9"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="3" posx="1184.2568003825502" posy="-3334.2581773150414" width="206" height="64" side="right" fold="false" treesize="118" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1198.2568003825502" posy="-3320.2581773150414" maxwidth="200">
+                <text data="What hume will attempt to argue against"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="4" posx="1490.2568003825504" posy="-3361.2581773150414" width="228" height="118" side="right" fold="false" treesize="118" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1504.2568003825504" posy="-3347.2581773150414" maxwidth="200">
+                    <text data="&quot;Tis a general maxim in philosophy that, *whatever begins to exist, must have a cause of existence*.&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="5" posx="1184.2568003825502" posy="-3243.2581773150414" width="202" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1198.2568003825502" posy="-3229.2581773150414" maxwidth="200">
+                <text data="Often taken for granted with no proof given nor demanded"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="6" posx="1184.2568003825502" posy="-3161.2581773150414" width="220" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1198.2568003825502" posy="-3147.2581773150414" maxwidth="200">
+                <text data="Suposed to be founded on intuition"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="7" posx="1184.2568003825502" posy="-2869.2581773150414" width="197" height="64" side="right" fold="false" treesize="520" color="#729fcf" colorroot="true" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1198.2568003825502" posy="-2855.2581773150414" maxwidth="200">
+                <text data="&quot;the idea of knowledge above-explain'd&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="8" posx="1481.2568003825504" posy="-3097.2581773150414" width="210" height="64" side="right" fold="false" treesize="64" color="#729fcf" colorroot="true" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1495.2568003825504" posy="-3083.2581773150414" maxwidth="200">
+                    <text data="Hume's empirical axiom:&#10;The Copy Principle"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="9" posx="1481.2568003825504" posy="-3033.2581773150405" width="190" height="82" side="right" fold="false" treesize="82" color="#729fcf" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1495.2568003825504" posy="-3019.2581773150405" maxwidth="200">
+                    <text data="All constituents of our thoughts come from experience"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="10" posx="1481.2568003825504" posy="-2846.2581773150414" width="222" height="82" side="right" fold="false" treesize="292" color="#729fcf" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1495.2568003825504" posy="-2832.2581773150414" maxwidth="200">
+                    <text data="Contents of the mind are called *perceptions*. They are divided into:"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="11" posx="1803.25680038255" posy="-2951.2581773150405" width="221" height="100" side="right" fold="false" treesize="100" color="#729fcf" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1817.25680038255" posy="-2937.2581773150405" maxwidth="200">
+                        <text data="*Impressions*, originate from the senses.&#10;Impressions are of either *sensation* or *reflection*"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="12" posx="1803.25680038255" posy="-2851.2581773150414" width="195" height="64" side="right" fold="false" treesize="64" color="#729fcf" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1817.25680038255" posy="-2837.2581773150414" maxwidth="200">
+                        <text data="*Ideas*, originate from intellect"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="13" posx="1803.25680038255" posy="-2787.2581773150414" width="217" height="64" side="right" fold="false" treesize="64" color="#729fcf" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1817.25680038255" posy="-2773.2581773150414" maxwidth="200">
+                        <text data="All our ideas are products of impressions"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="14" posx="1803.25680038255" posy="-2723.2581773150414" width="200" height="64" side="right" fold="false" treesize="64" color="#729fcf" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1817.25680038255" posy="-2709.2581773150414" maxwidth="200">
+                        <text data="The mind may combine them"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="15" posx="1481.2568003825504" posy="-2659.2581773150414" width="212" height="82" side="right" fold="false" treesize="82" color="#729fcf" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1495.2568003825504" posy="-2645.2581773150414" maxwidth="200">
+                    <text data="natural and philosophical associations of ideas by the mind. "/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="16" posx="1793.256800382549" posy="-2650.2581773150414" width="164" height="64" side="right" fold="false" treesize="64" color="#729fcf" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1807.256800382549" posy="-2636.2581773150414" maxwidth="200">
+                        <text data="only some provide certainty"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="17" posx="1024.25680038255" posy="-2426.2581773150405" width="46" height="46" side="right" fold="false" treesize="348" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="-2412.2581773150405" maxwidth="200">
+            <text data="79"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="18" posx="1170.2568003825502" posy="-2535.2581773150414" width="218" height="118" side="right" fold="false" treesize="202.00000000000003" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="-2521.2581773150414" maxwidth="200">
+                <text data="&quot;All certainty arises from the comparison of ideas, and from the discovery of such relations as are unalterable&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="19" posx="1488.2568003825504" posy="-2577.2581773150414" width="122" height="46" side="right" fold="false" treesize="46" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1502.2568003825504" posy="-2563.2581773150414" maxwidth="200">
+                    <text data="resemblance"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="20" posx="1488.2568003825504" posy="-2531.2581773150414" width="196" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1502.2568003825504" posy="-2517.2581773150414" maxwidth="200">
+                    <text data="proportions in quantity and number"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="21" posx="1488.2568003825504" posy="-2467.2581773150414" width="193" height="46" side="right" fold="false" treesize="46" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1502.2568003825504" posy="-2453.2581773150414" maxwidth="200">
+                    <text data="degrees of any quality"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="22" posx="1488.2568003825504" posy="-2421.2581773150405" width="109" height="46" side="right" fold="false" treesize="46" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1502.2568003825504" posy="-2407.2581773150405" maxwidth="200">
+                    <text data="contrariety"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="23" posx="1170.2568003825502" posy="-2375.2581773150396" width="223" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="-2361.2581773150396" maxwidth="200">
+                <text data="But the maxim in question uses none"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="24" posx="1170.2568003825502" posy="-2302.2581773150396" width="185" height="64" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="-2288.2581773150396" maxwidth="200">
+                <text data="So it is not intuitively certain"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="25" posx="1455.2568003825504" posy="-2311.2581773150396" width="222" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1469.2568003825504" posy="-2297.2581773150396" maxwidth="200">
+                    <text data="For it to be, one must deny these as being the *only* &quot;infallible relations&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="26" posx="1024.25680038255" posy="-1906.2581773150396" width="69" height="46" side="right" fold="false" treesize="692.00000000000023" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="-1892.2581773150396" maxwidth="200">
+            <text data="79-80"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="27" posx="1193.2568003825502" posy="-2183.2581773150405" width="220" height="154" side="right" fold="false" treesize="246" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1207.2568003825502" posy="-2169.2581773150405" maxwidth="200">
+                <text data="We cannot demonstrate that every existence has a cause *without* showing that it is impossible for anything to begin to exist without a cause"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="28" posx="1513.2568003825504" posy="-2229.2581773150405" width="213" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1527.2568003825504" posy="-2215.2581773150405" maxwidth="200">
+                    <text data="You have to show it's impossible for something to exist without a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="29" posx="1513.2568003825504" posy="-2147.2581773150405" width="208" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1527.2568003825504" posy="-2133.2581773150405" maxwidth="200">
+                    <text data="If you cannot prove this, you cannot hold that everything has a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="30" posx="1513.2568003825504" posy="-2065.2581773150414" width="197" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1527.2568003825504" posy="-2051.2581773150414" maxwidth="200">
+                    <text data="There cannot be a demonstrable proof for this"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="31" posx="1193.2568003825502" posy="-1819.2581773150396" width="184" height="118" side="right" fold="false" treesize="446" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1207.2568003825502" posy="-1805.2581773150396" maxwidth="200">
+                <text data="All distinct ideas are separable from each other, and cause and effect are evidently distinct"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="32" posx="1477.2568003825504" posy="-1983.2581773150396" width="219" height="100" side="right" fold="false" treesize="100" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1491.2568003825504" posy="-1969.2581773150396" maxwidth="200">
+                    <text data="We can imagine an object in non-existence and then in existence without relating it to a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="33" posx="1477.2568003825504" posy="-1883.2581773150396" width="219" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1491.2568003825504" posy="-1869.2581773150396" maxwidth="200">
+                    <text data="So separation of the idea of a cause from existence is possible for the mind"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="34" posx="1477.2568003825504" posy="-1801.2581773150396" width="226" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1491.2568003825504" posy="-1787.2581773150396" maxwidth="200">
+                    <text data="So the actual separation is possible as it implies no contradictions or absurdity"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="35" posx="1477.2568003825504" posy="-1719.2581773150396" width="211" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1491.2568003825504" posy="-1705.2581773150396" maxwidth="200">
+                    <text data="So it is impossible to refute by reasoning from ideas"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="36" posx="1477.2568003825504" posy="-1637.2581773150387" width="222" height="100" side="right" fold="false" treesize="100" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1491.2568003825504" posy="-1623.2581773150387" maxwidth="200">
+                    <text data="*Without* these ideas it is impossible to demonstrate the *necessity* of a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="37" posx="1024.25680038255" posy="-1305.2581773150391" width="46" height="46" side="right" fold="false" treesize="510" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="-1291.2581773150391" maxwidth="200">
+            <text data="80"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="38" posx="1170.2568003825502" posy="-1475.2581773150391" width="223" height="386" side="right" fold="false" treesize="510" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="-1461.2581773150391" maxwidth="200">
+                <text data="Will argue against:&#10;&#10;P1. All points in time and space where we can suppose an object exists are equal&#10;P2. No cause which fixes existence to a time and space&#10;P3. It will never have something to begin to be&#10;P3. It will remain in eternal suspension and never be&#10;&#10;i.e. everything must have a cause otherwise there is nothing to &quot;fix its beginning&quot; and make it be in space and time"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="39" posx="1493.2568003825504" posy="-1537.2581773150382" width="221" height="100" side="right" fold="false" treesize="100" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1507.2568003825504" posy="-1523.2581773150382" maxwidth="200">
+                    <text data="There is no more difficulty in assuming time and place be fixed without a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="40" posx="1493.2568003825504" posy="-1437.2581773150391" width="202" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1507.2568003825504" posy="-1423.2581773150391" maxwidth="200">
+                    <text data="The first question is always, *whether* the object shall exist or not"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="41" posx="1493.2568003825504" posy="-1355.2581773150396" width="206" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1507.2568003825504" posy="-1341.2581773150396" maxwidth="200">
+                    <text data="The next, *when* and *where* it shall begin to exist"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="42" posx="1493.2568003825504" posy="-1273.2581773150391" width="221" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1507.2568003825504" posy="-1259.2581773150391" maxwidth="200">
+                    <text data="If removing a cause is absurd for one, it also has to be for the other"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="43" posx="1493.2568003825504" posy="-1191.2581773150396" width="220" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1507.2568003825504" posy="-1177.2581773150396" maxwidth="200">
+                    <text data="If this isn't clear without a proof, the other also requires a proof"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="44" posx="1493.2568003825504" posy="-1109.2581773150396" width="210" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1507.2568003825504" posy="-1095.2581773150396" maxwidth="200">
+                    <text data="the absurdity of one can therefore not be proof of the other"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="45" posx="1024.25680038255" posy="-737.25817731503867" width="69" height="46" side="right" fold="false" treesize="626" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="-723.25817731503867" maxwidth="200">
+            <text data="80-81"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="46" posx="1193.2568003825502" posy="-835.75817731503776" width="220" height="243" side="right" fold="false" treesize="626" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1207.2568003825502" posy="-821.75817731503776" maxwidth="200">
+                <text data="Will argue against:&#10;&#10;P.1 Not everything has a cause&#10;P2. If something wanted a cause (to exist), it would produce itself&#10;P3. This would mean it existed before it existed, which is impossible&#10;P4. Therefore everything must have a cause"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="47" posx="1513.2568003825504" posy="-1027.2581773150382" width="212" height="100" side="right" fold="false" treesize="100" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1527.2568003825504" posy="-1013.2581773150382" maxwidth="200">
+                    <text data="Plainly inconclusive as it supposes in the denial of a cause that there must be a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="48" posx="1513.2568003825504" posy="-927.25817731503776" width="223" height="118" side="right" fold="false" treesize="118" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1527.2568003825504" posy="-913.25817731503776" maxwidth="200">
+                    <text data="i.e. There must be a cause, so this is taken to be itself; it is its own cause because there must be a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="49" posx="1836.25680038255" posy="-909.25817731503776" width="211" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1850.25680038255" posy="-895.25817731503776" maxwidth="200">
+                        <text data="It is evidently a contradiction if this were the case, but it's not"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="50" posx="1513.2568003825504" posy="-809.25817731503867" width="220" height="118" side="right" fold="false" treesize="118" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1527.2568003825504" posy="-795.25817731503867" maxwidth="200">
+                    <text data="BUT:&#10;To say something comes into existence without a cause is not to affirm that it is its own cause "/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="51" posx="1513.2568003825504" posy="-691.25817731503776" width="220" height="100" side="right" fold="false" treesize="100" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1527.2568003825504" posy="-677.25817731503776" maxwidth="200">
+                    <text data="By excluding all external causes, it even more strongly excludes itself as being its own cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="52" posx="1513.2568003825504" posy="-537.25817731503821" width="214" height="82" side="right" fold="false" treesize="190" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1527.2568003825504" posy="-523.25817731503821" maxwidth="200">
+                    <text data="An object which exists without a cause is not its own cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="53" posx="1827.25680038255" posy="-591.25817731503867" width="228" height="190" side="right" fold="false" treesize="190" color="#d15252" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1841.25680038255" posy="-577.25817731503867" maxwidth="200">
+                        <text data="Supposing one follows from the other is to suppose the very maxim in question and take it for granted:&#10;that it is impossible to exist without a cause, but on removing one cause you must resort to another"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="54" posx="1024.25680038255" posy="-239.75817731503867" width="46" height="46" side="right" fold="false" treesize="369" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="-225.75817731503867" maxwidth="200">
+            <text data="81"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="55" posx="1170.2568003825502" posy="-401.25817731503867" width="222" height="369" side="right" fold="false" treesize="369" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="-387.25817731503867" maxwidth="200">
+                <text data="Will argue against:&#10;&#10;P1. Something is produced without a cause&#10;P2. Therefore it is produced by nothing&#10;P3. &quot;Nothing&quot; can never be a cause no more than it can be something (e.g. a cube)&#10;P4. We percieve nothing to not be somethig (e.g. not a cube)&#10;P5. By this same intuition we percieve &quot;nothing&quot; can never be a cause&#10;P6. Therefore every object has a real cause for existence"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="56" posx="1492.2568003825504" posy="-248.75817731503867" width="216" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1506.2568003825504" posy="-234.75817731503867" maxwidth="200">
+                    <text data="Same as the above, Begs the question"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="57" posx="1024.25680038255" posy="144.74182268496088" width="69" height="46" side="right" fold="false" treesize="400" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="158.74182268496088" maxwidth="200">
+            <text data="81-82"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="58" posx="1193.2568003825502" posy="-32.25817731503912" width="215" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1207.2568003825502" posy="-18.25817731503912" maxwidth="200">
+                <text data="All 3 are grounded on the same fallacy of begging the question."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="59" posx="1193.2568003825502" posy="49.74182268496088" width="221" height="118" side="right" fold="false" treesize="118" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1207.2568003825502" posy="63.74182268496088" maxwidth="200">
+                <text data="We must *really* exclude *all* causes. i.e Not suppose the thing itself or &quot;nothingness&quot; to be a cause, or anything ese."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="60" posx="1193.2568003825502" posy="167.74182268496043" width="204" height="136" side="right" fold="false" treesize="136" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1207.2568003825502" posy="181.74182268496043" maxwidth="200">
+                <text data="Supposes that if ecerything has a cause, then excluding other causes means we must accept the onject or nothing as causes."/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="61" posx="1497.2568003825504" posy="212.74182268496043" width="222" height="46" side="right" fold="false" treesize="46" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1511.2568003825504" posy="226.74182268496043" maxwidth="200">
+                    <text data="But this begs the question"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="62" posx="1193.2568003825502" posy="303.74182268496043" width="209" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1207.2568003825502" posy="317.74182268496043" maxwidth="200">
+                <text data="Therefore maxim cannot be taken for granted"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="63" posx="1024.25680038255" posy="621.24182268496315" width="46" height="46" side="right" fold="false" treesize="553" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="635.24182268496315" maxwidth="200">
+            <text data="82"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="64" posx="1170.2568003825502" posy="522.74182268496043" width="221" height="243" side="right" fold="false" treesize="553" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="536.74182268496043" maxwidth="200">
+                <text data="Will argue against:&#10;&#10;P1. Effect is a relative term&#10;P2. Cause is the correlative term&#10;P3. Every effect pressuposes a cause&#10;P4. Therefore every effect *must* have a cause, as it is implied in the very idea of effect."/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="65" posx="1491.2568003825504" posy="367.74182268496133" width="200" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1505.2568003825504" posy="381.74182268496133" maxwidth="200">
+                    <text data="This doesn't prove everything has a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="66" posx="1491.2568003825504" posy="431.74182268496133" width="220" height="153" side="right" fold="false" treesize="153" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1505.2568003825504" posy="445.74182268496133" maxwidth="200">
+                    <text data="The same as:&#10;P1. Every husband must have a wife&#10;P2. Therefore every man must be marry'd&#10;&#10;P2 doesn't follow from P1."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="67" posx="1491.2568003825504" posy="584.74182268496315" width="218" height="118" side="right" fold="false" treesize="118" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1505.2568003825504" posy="598.74182268496315" maxwidth="200">
+                    <text data="&quot;Everything having a cause as every effect has a cause&quot; doesn't follow, no more than P2 follows from P1."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="68" posx="1491.2568003825504" posy="702.74182268496315" width="208" height="118" side="right" fold="false" treesize="118" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1505.2568003825504" posy="716.74182268496315" maxwidth="200">
+                    <text data="The true question is whether every object which begins to exist must owe this existence to a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="69" posx="1491.2568003825504" posy="820.74182268496406" width="209" height="100" side="right" fold="false" treesize="100" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1505.2568003825504" posy="834.74182268496406" maxwidth="200">
+                    <text data="This Hume asserts to be neither intuitively nor demonstratively certain, given these arguments"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="70" posx="1024.25680038255" posy="1133.7418226849641" width="46" height="46" side="right" fold="false" treesize="472" color="#d15252" colorroot="true" layout="To right" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1038.25680038255" posy="1147.7418226849641" maxwidth="200">
+            <text data="82"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="71" posx="1170.2568003825502" posy="920.74182268496224" width="206" height="118" side="right" fold="false" treesize="118" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="934.74182268496224" maxwidth="200">
+                <text data="It is not from knowledge or reasoning that we derive the opinion of cause being a necessity to everything"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="72" posx="1170.2568003825502" posy="1038.7418226849622" width="191" height="100" side="right" fold="false" treesize="100" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="1052.7418226849622" maxwidth="200">
+                <text data="Therefore it must necessarily arise from observation and experience"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="73" posx="1170.2568003825502" posy="1138.7418226849641" width="218" height="82" side="right" fold="false" treesize="82" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="1152.7418226849641" maxwidth="200">
+                <text data="The next natural question is *how* it gives rise to this"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="74" posx="1170.2568003825502" posy="1220.7418226849641" width="212" height="172" side="right" fold="false" treesize="172" color="#d15252" colorroot="false" layout="To right" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1184.2568003825502" posy="1234.7418226849641" maxwidth="200">
+                <text data="Hume shall conclude it is more convinient to ask:&#10;- Why must certain causes necessarily have such particular effects?&#10;- Why do we from an inference from one to another?">
+                  <color>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="50" end="51" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                    <range start="118" end="119" extra="rgb(255,0,0)"/>
+                  </color>
+                </text>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="75" posx="1482.2568003825504" posy="1274.7418226849641" width="158" height="64" side="right" fold="false" treesize="64" color="#d15252" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1496.2568003825504" posy="1288.7418226849641" maxwidth="200">
+                    <text data="THE PROBLEM OF INDUCTION"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <connections>
+    <connection from_id="11" to_id="12" drag_x="1685.705240728862" drag_y="-2872.1239655301833">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 8" connectiontwidth="100"/>
+      <title>impressions more vivid than ideas</title>
+      <note></note>
+    </connection>
+  </connections>
+  <stickers/>
+</minder>

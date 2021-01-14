@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="dark" label="Dark" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-7100.1187793107829" y="-4533.4670110332445" scale="0.10000000000000001"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="7548.1187793107774" posy="4387.305267869182" width="207" height="46" side="left" fold="false" treesize="804" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="7562.1187793107774" posy="4401.305267869182" maxwidth="200">
+        <text data="BIL opinion of Yeong-hye"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="25" posx="7232.1187793107774" posy="4182.305267869182" width="216" height="118" side="left" fold="false" treesize="466" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7246.1187793107774" posy="4196.305267869182" maxwidth="200">
+            <text data="&quot;It was only when he was introduced to her sister that he realised what it was his new wife was missing.&quot; (63)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="26" posx="7013.1187793107774" posy="4026.305267869182" width="119" height="46" side="left" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7027.1187793107774" posy="4040.305267869182" maxwidth="200">
+                <text data="An epiphany"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="27" posx="6738.1187793107774" posy="4008.305267869182" width="175" height="82" side="left" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6752.1187793107774" posy="4022.305267869182" maxwidth="200">
+                    <text data="Sees Yeong-hye in a better light than Mr Cheong"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="28" posx="6999.1187793107774" posy="4090.305267869182" width="133" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7013.1187793107774" posy="4104.305267869182" maxwidth="200">
+                <text data="Unfaithfulness"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="29" posx="7073.1187793107774" posy="4136.305267869182" width="59" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7087.1187793107774" posy="4150.305267869182" maxwidth="200">
+                <text data="Lust"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="30" posx="6933.1187793107774" posy="4241.305267869182" width="199" height="82" side="left" fold="false" treesize="200" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6947.1187793107774" posy="4255.305267869182" maxwidth="200">
+                <text data="Agrees with Mr Cheong but doesn't find In-hye attractive himself"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="31" posx="6609.1187793107774" posy="4182.305267869182" width="224" height="118" side="left" fold="false" treesize="118" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6623.1187793107774" posy="4196.305267869182" maxwidth="200">
+                    <text data="Even though In-hye might be more attractive, Yeong-hye has something else. Almost like an aura/her being"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="32" posx="6620.1187793107774" posy="4300.305267869182" width="213" height="82" side="left" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6634.1187793107774" posy="4314.305267869182" maxwidth="200">
+                    <text data="It could even be the wish to have something which isn't his"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="33" posx="7015.1187793107774" posy="4382.305267869182" width="117" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7029.1187793107774" posy="4396.305267869182" maxwidth="200">
+                <text data="Individuality"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="34" posx="6955.1187793107774" posy="4428.305267869182" width="177" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6969.1187793107774" posy="4442.305267869182" maxwidth="200">
+                <text data="Fantasy, mysterious"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="17" posx="7227.1187793107774" posy="4530.305267869182" width="221" height="226" side="left" fold="false" treesize="338" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7241.1187793107774" posy="4544.305267869182" maxwidth="200">
+            <text data="Obsession with mongolian mark &amp; Yeong-hye. &quot;He spent a long time searching...for a way to free himself from the hold this image had on him, but nothing else would do as a substitute. Another image as intense and enticing as this one simply didn't exist.&quot; (60)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="18" posx="6947.1187793107774" posy="4474.305267869182" width="180" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6961.1187793107774" posy="4488.305267869182" maxwidth="200">
+                <text data="Symbol of innocence"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="19" posx="6919.1187793107774" posy="4520.305267869182" width="208" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6933.1187793107774" posy="4534.305267869182" maxwidth="200">
+                <text data="As an object/piece of art"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="20" posx="6704.1187793107774" posy="4520.305267869182" width="115" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6718.1187793107774" posy="4534.305267869182" maxwidth="200">
+                    <text data="Ornamental"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="21" posx="6914.1187793107774" posy="4566.305267869182" width="213" height="136" side="left" fold="false" treesize="136" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6928.1187793107774" posy="4580.305267869182" maxwidth="200">
+                <text data="Commentary of women's position in Korea: as decorative objects to be admired and possessed; focus on appearance and innocence/dependability"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="22" posx="6916.1187793107774" posy="4702.305267869182" width="211" height="64" side="left" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6930.1187793107774" posy="4716.305267869182" maxwidth="200">
+                <text data="Lack of interaction/direct engagement"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="23" posx="7040.1187793107774" posy="4766.305267869182" width="87" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7054.1187793107774" posy="4780.305267869182" maxwidth="200">
+                <text data="&quot;image&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="24" posx="6757.1187793107774" posy="4766.305267869182" width="183" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6771.1187793107774" posy="4780.305267869182" maxwidth="200">
+                    <text data="Constructed, created"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="1" posx="7855.1187793107774" posy="4351.305267869182" width="220" height="118" side="right" fold="false" treesize="742" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7869.1187793107774" posy="4365.305267869182" maxwidth="200">
+            <text data="&quot;...remembering how it had felt to carry her o his back...just enough to reveal the blue brand of the Mongolian Mark.&quot; (65)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="2" posx="8175.1187793107774" posy="4204.305267869182" width="209" height="118" side="right" fold="false" treesize="448" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8189.1187793107774" posy="4218.305267869182" maxwidth="200">
+                <text data="Juxtaposition of sexual imagery &quot;her body pressed up against his&quot; &quot;and staining his clothes with her blood&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="3" posx="8484.1187793107783" posy="4039.305267869182" width="179" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8498.1187793107783" posy="4053.305267869182" maxwidth="200">
+                    <text data="Like the nightmares."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="4" posx="8484.1187793107783" posy="4085.305267869182" width="213" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8498.1187793107783" posy="4099.305267869182" maxwidth="200">
+                    <text data="Yeong-hye does not want this"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="5" posx="8484.1187793107783" posy="4149.305267869182" width="131" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8498.1187793107783" posy="4163.305267869182" maxwidth="200">
+                    <text data="BIL wants this"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="6" posx="8484.1187793107783" posy="4195.305267869182" width="207" height="82" side="right" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8498.1187793107783" posy="4209.305267869182" maxwidth="200">
+                    <text data="Yeong-hye's repulsion at violence and blood. BIL relishes it"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="7" posx="8484.1187793107783" posy="4318.305267869182" width="223" height="82" side="right" fold="false" treesize="164" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8498.1187793107783" posy="4332.305267869182" maxwidth="200">
+                    <text data="Blood comes from suicide attmept and potential loss of life"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="8" posx="8807.1187793107783" posy="4277.305267869182" width="210" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="8821.1187793107783" posy="4291.305267869182" maxwidth="200">
+                        <text data="He did not sy a word while it was happenning."/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="9" posx="8807.1187793107783" posy="4341.305267869182" width="211" height="100" side="right" fold="false" treesize="100" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="8821.1187793107783" posy="4355.305267869182" maxwidth="200">
+                        <text data="Shift from perspective. Instead of him being passive, he is enjoying it quite a lot."/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="10" posx="8484.1187793107783" posy="4441.305267869182" width="189" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8498.1187793107783" posy="4455.305267869182" maxwidth="200">
+                    <text data="Childhood/parenthood"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="11" posx="8175.1187793107774" posy="4487.305267869182" width="163" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8189.1187793107774" posy="4501.305267869182" maxwidth="200">
+                <text data="Morbid fascination"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="12" posx="8175.1187793107774" posy="4533.305267869182" width="73" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8189.1187793107774" posy="4547.305267869182" maxwidth="200">
+                <text data="Image"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="13" posx="8175.1187793107774" posy="4579.305267869182" width="176" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8189.1187793107774" posy="4593.305267869182" maxwidth="200">
+                <text data="Perverted attraction"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="14" posx="8175.1187793107774" posy="4625.305267869182" width="116" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8189.1187793107774" posy="4639.305267869182" maxwidth="200">
+                <text data="Self-interest"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="15" posx="8175.1187793107774" posy="4671.305267869182" width="206" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8189.1187793107774" posy="4685.305267869182" maxwidth="200">
+                <text data="Not suitable to situation"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="16" posx="8175.1187793107774" posy="4717.305267869182" width="226" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8189.1187793107774" posy="4731.305267869182" maxwidth="200">
+                <text data="Ritualistic imagery. Very image focused perspective"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+    <node id="35" posx="7549.1187793107774" posy="5845.4515487936615" width="205" height="64" side="left" fold="false" treesize="612" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="7563.1187793107774" posy="5859.4515487936615" maxwidth="200">
+        <text data="BIL opinions on In-hye &amp; his domestic life"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="40" posx="7228.1187793107774" posy="5640.4515487936615" width="221" height="226" side="left" fold="false" treesize="364" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7242.1187793107774" posy="5654.4515487936615" maxwidth="200">
+            <text data="&quot;Her face, figure and thoughtful nature all combined to form the spitting image of the woman he'd spent so long trying to find...unnable to find put his finger on just what it was that he felt she was lacking, he made up his mind to marry her.&quot; (63)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="41" posx="6956.1187793107774" posy="5571.4515487936615" width="172" height="64" side="left" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6970.1187793107774" posy="5585.4515487936615" maxwidth="200">
+                <text data="Both Mr C and BIL's insecurities"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="42" posx="6938.1187793107774" posy="5635.4515487936615" width="190" height="82" side="left" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6952.1187793107774" posy="5649.4515487936615" maxwidth="200">
+                <text data="Both feel In-hye is too good for them, makes them feel insecure"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="43" posx="6906.1187793107774" posy="5717.4515487936615" width="222" height="82" side="left" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6920.1187793107774" posy="5731.4515487936615" maxwidth="200">
+                <text data="Yeong-hye is the one they can control, someone who is not as good."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="44" posx="6935.1187793107774" posy="5799.4515487936615" width="193" height="136" side="left" fold="false" treesize="136" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6949.1187793107774" posy="5813.4515487936615" maxwidth="200">
+                <text data="Want someone to be better than. Women expected to be worse, even though BIL is grateful, he feels inadequate."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="36" posx="7241.1187793107774" posy="5945.4515487936615" width="208" height="136" side="left" fold="false" treesize="156" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7255.1187793107774" posy="5959.4515487936615" maxwidth="200">
+            <text data="&quot;...of responsible compassion...She's a good womman, he thought.The kind of woman whose goodness is oppressive.&quot; (65)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="37" posx="6936.1187793107774" posy="5935.4515487936615" width="205" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6950.1187793107774" posy="5949.4515487936615" maxwidth="200">
+                <text data="Drawn into BIL's opinion"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="38" posx="7019.1187793107774" posy="5981.4515487936615" width="122" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7033.1187793107774" posy="5995.4515487936615" maxwidth="200">
+                <text data="Wants more."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="39" posx="6917.1187793107774" posy="6027.4515487936615" width="224" height="64" side="left" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6931.1187793107774" posy="6041.4515487936615" maxwidth="200">
+                <text data="Feels opressed even though he has good things"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="58" posx="7228.1187793107774" posy="6105.4515487936615" width="221" height="64" side="left" fold="false" treesize="92" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7242.1187793107774" posy="6119.4515487936615" maxwidth="200">
+            <text data="&quot;He was grateful...without a word of complaint.&quot; (62)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="59" posx="6925.1187793107774" posy="6091.4515487936615" width="203" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6939.1187793107774" posy="6105.4515487936615" maxwidth="200">
+                <text data="Reluctance, acceptance"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="60" posx="6735.1187793107774" posy="6091.4515487936615" width="90" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6749.1187793107774" posy="6105.4515487936615" maxwidth="200">
+                    <text data="In denial"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="61" posx="7011.1187793107774" posy="6137.4515487936615" width="117" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7025.1187793107774" posy="6151.4515487936615" maxwidth="200">
+                <text data="Wants more"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="48" posx="7854.1187793107774" posy="5772.4515487936615" width="206" height="100" side="right" fold="false" treesize="484" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7868.1187793107774" posy="5786.4515487936615" maxwidth="200">
+            <text data="'...she was constantly exhausted...&quot;...spend time with his father too, doesn't he?&quot;' (62)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="49" posx="8160.1187793107774" posy="5580.4515487936615" width="83" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8174.1187793107774" posy="5594.4515487936615" maxwidth="200">
+                <text data="Indirect"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="50" posx="8160.1187793107774" posy="5626.4515487936615" width="83" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8174.1187793107774" posy="5640.4515487936615" maxwidth="200">
+                <text data="Passive"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="51" posx="8160.1187793107774" posy="5672.4515487936615" width="223" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8174.1187793107774" posy="5686.4515487936615" maxwidth="200">
+                <text data="Doesn't state real desires, resignation"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="52" posx="8160.1187793107774" posy="5736.4515487936615" width="209" height="82" side="right" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8174.1187793107774" posy="5750.4515487936615" maxwidth="200">
+                <text data="Wants to be agreed with instead of making a demand"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="53" posx="8160.1187793107774" posy="5850.4515487936615" width="205" height="64" side="right" fold="false" treesize="128" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8174.1187793107774" posy="5864.4515487936615" maxwidth="200">
+                <text data="Undermines idealisation and aspiration of Mr C"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="54" posx="8465.1187793107783" posy="5818.4515487936615" width="206" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8479.1187793107783" posy="5832.4515487936615" maxwidth="200">
+                    <text data="They don't feel like they are aspirational"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="55" posx="8465.1187793107783" posy="5882.4515487936615" width="203" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8479.1187793107783" posy="5896.4515487936615" maxwidth="200">
+                    <text data="Only show/publicise the good"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="56" posx="8768.1187793107783" posy="5891.4515487936615" width="131" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="8782.1187793107783" posy="5905.4515487936615" maxwidth="200">
+                        <text data="Commentary?"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="57" posx="8160.1187793107774" posy="5946.4515487936615" width="218" height="118" side="right" fold="false" treesize="118" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8174.1187793107774" posy="5960.4515487936615" maxwidth="200">
+                <text data="Narrative perspective used to show how every character views the other with envy/wants something more"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="45" posx="7854.1187793107774" posy="6078.4515487936615" width="223" height="82" side="right" fold="false" treesize="110" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7868.1187793107774" posy="6092.4515487936615" maxwidth="200">
+            <text data="'&quot;You're late,&quot; his wife said, making an effort not to sound too put out.' (62)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="46" posx="8177.1187793107774" posy="6064.4515487936615" width="194" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8191.1187793107774" posy="6078.4515487936615" maxwidth="200">
+                <text data="Free indirect discourse"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="47" posx="8177.1187793107774" posy="6110.4515487936615" width="162" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8191.1187793107774" posy="6124.4515487936615" maxwidth="200">
+                <text data="He believes she is annoyed/irritable"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+    <node id="62" posx="7559.1187793107774" posy="6789.5271916973052" width="185" height="46" side="left" fold="false" treesize="578" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="7573.1187793107774" posy="6803.5271916973052" maxwidth="200">
+        <text data="BIL opinion of himself"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="71" posx="7242.1187793107774" posy="6717.5271916973052" width="217" height="190" side="left" fold="false" treesize="578" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7256.1187793107774" posy="6731.5271916973052" maxwidth="200">
+            <text data="&quot;If it hadn't been for the image he would never have had to go through this anxiety...In the end, he found himself unable to claim...he knew the answers to these questions, though he'd been so sure before&quot; (61)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="72" posx="6967.1187793107774" posy="6523.5271916973052" width="175" height="64" side="left" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6981.1187793107774" posy="6537.5271916973052" maxwidth="200">
+                <text data="Less afraid to admit shortcomings"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="73" posx="7026.1187793107774" posy="6587.5271916973052" width="116" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7040.1187793107774" posy="6601.5271916973052" maxwidth="200">
+                <text data="Loss of face"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="74" posx="7008.1187793107774" posy="6633.5271916973052" width="134" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7022.1187793107774" posy="6647.5271916973052" maxwidth="200">
+                <text data="Confuscianism"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="75" posx="6958.1187793107774" posy="6679.5271916973052" width="184" height="64" side="left" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6972.1187793107774" posy="6693.5271916973052" maxwidth="200">
+                <text data="Idea of being normal, strong, etc."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="76" posx="6922.1187793107774" posy="6826.5271916973052" width="220" height="82" side="left" fold="false" treesize="248" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6936.1187793107774" posy="6840.5271916973052" maxwidth="200">
+                <text data="Views himself as suffering (even though he probably isn't)"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="77" posx="6725.1187793107774" posy="6743.5271916973052" width="97" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6739.1187793107774" posy="6757.5271916973052" maxwidth="200">
+                    <text data="&quot;anxiety&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="78" posx="6702.1187793107774" posy="6789.5271916973052" width="120" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6716.1187793107774" posy="6803.5271916973052" maxwidth="200">
+                    <text data="&quot;discomfort&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="79" posx="6727.1187793107774" posy="6835.5271916973052" width="95" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6741.1187793107774" posy="6849.5271916973052" maxwidth="200">
+                    <text data="&quot;unease&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="80" posx="6710.1187793107774" posy="6881.5271916973052" width="112" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6724.1187793107774" posy="6895.5271916973052" maxwidth="200">
+                    <text data="&quot;agonizing&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="81" posx="6672.1187793107774" posy="6936.5271916973052" width="150" height="46" side="left" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="6686.1187793107774" posy="6950.5271916973052" maxwidth="200">
+                    <text data="&quot;suffer this fear&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="82" posx="6403.1187793107774" posy="6927.5271916973052" width="169" height="64" side="left" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="6417.1187793107774" posy="6941.5271916973052" maxwidth="200">
+                        <text data="&quot;of everything he'd achieved&quot;"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="83" posx="7002.1187793107774" posy="6991.5271916973052" width="140" height="46" side="left" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="7016.1187793107774" posy="7005.5271916973052" maxwidth="200">
+                <text data="Blames himself"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="84" posx="6939.1187793107774" posy="7037.5271916973052" width="203" height="64" side="left" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="6953.1187793107774" posy="7051.5271916973052" maxwidth="200">
+                <text data="Vague about obsession, denial"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="63" posx="7844.1187793107774" posy="6699.5271916973052" width="219" height="226" side="right" fold="false" treesize="284" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="7858.1187793107774" posy="6713.5271916973052" maxwidth="200">
+            <text data="&quot;He put his baseball cap on, uncomfortable at the thought of his balding crown being on show...He wanted to pummel his cheeks until the blood showed through beneath his black beard, and smash his ugly lips, swollen with desire, with the sole of his shoe.&quot; (62)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="64" posx="8163.1187793107774" posy="6670.5271916973052" width="189" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8177.1187793107774" posy="6684.5271916973052" maxwidth="200">
+                <text data="Physical suffering and distress"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="65" posx="8163.1187793107774" posy="6766.5271916973052" width="169" height="46" side="right" fold="false" treesize="110" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8177.1187793107774" posy="6780.5271916973052" maxwidth="200">
+                <text data="Evokes YH's dream"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="66" posx="8432.1187793107783" posy="6734.5271916973052" width="214" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8446.1187793107783" posy="6748.5271916973052" maxwidth="200">
+                    <text data="YH hurts others, he hurts himself"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="67" posx="8432.1187793107783" posy="6798.5271916973052" width="149" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8446.1187793107783" posy="6812.5271916973052" maxwidth="200">
+                    <text data="Hhis insecurities"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="68" posx="8163.1187793107774" posy="6844.5271916973052" width="203" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8177.1187793107774" posy="6858.5271916973052" maxwidth="200">
+                <text data="Wants to be normal, YH wants to be different"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="69" posx="8466.1187793107783" posy="6844.5271916973052" width="204" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="8480.1187793107783" posy="6858.5271916973052" maxwidth="200">
+                    <text data="He is attracted to those who are different"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="70" posx="8163.1187793107774" posy="6908.5271916973052" width="143" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="8177.1187793107774" posy="6922.5271916973052" maxwidth="200">
+                <text data="Self destruction"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-1887.6842105276883" y="-1024.7631578948349" scale="0.25"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="2662.6842105276883" posy="1518.7631578948349" width="151" height="46" side="left" fold="false" treesize="2280" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="2676.6842105276883" posy="1532.7631578948349" maxwidth="200">
+        <text data="Sufficient reason"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="2913.6842105276883" posy="401.76315789483522" width="208" height="46" side="right" fold="false" treesize="46" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="415.76315789483522" maxwidth="200">
+            <text data="C: adequate explanation"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="2" posx="2913.6842105276883" posy="447.76315789483522" width="187" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="461.76315789483522" maxwidth="200">
+            <text data="For C this is a total explanation to which nothing can be added"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="3" posx="3200.6842105276883" posy="447.76315789483522" width="222" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3214.6842105276883" posy="461.76315789483522" maxwidth="200">
+                <text data="almost like an explanation must be analytic/contain everything within itself?"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="4" posx="2913.6842105276883" posy="529.7631578948351" width="191" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="543.7631578948351" maxwidth="200">
+            <text data="R finds this an impossibility and something which shouldn't be asked for"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="5" posx="2913.6842105276883" posy="670.76315789483488" width="201" height="100" side="right" fold="false" treesize="182" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="684.76315789483488" maxwidth="200">
+            <text data="R thinks the word universe is a &quot;handy word&quot; but which has no meaning"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="6" posx="3214.6842105276883" posy="629.76315789483488" width="202" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3228.6842105276883" posy="643.76315789483488" maxwidth="200">
+                <text data="C objects that a meaningless word can't be useful"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="7" posx="3214.6842105276883" posy="711.76315789483488" width="215" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3228.6842105276883" posy="725.76315789483488" maxwidth="200">
+                <text data="R responds with words like &quot;the&quot; or &quot;than&quot; not meaning some object but being useful"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="8" posx="2913.6842105276883" posy="811.76315789483488" width="201" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="825.76315789483488" maxwidth="200">
+            <text data="C doesn't say that the totality of objects (universe) is a different from its components"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="9" posx="2913.6842105276883" posy="911.76315789483488" width="214" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="925.76315789483488" maxwidth="200">
+            <text data="R objects that there isn't a reason to think there is a cause for the totality"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="10" posx="2913.6842105276883" posy="993.76315789483488" width="213" height="172" side="right" fold="false" treesize="172" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="1007.7631578948349" maxwidth="200">
+            <text data="R objects that C is commiting a fallacy of composition, &quot;every man who exists has a mother...therefore the human race must have a mother&quot; which is obviously false"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="11" posx="2913.6842105276883" posy="1210.7631578948349" width="222" height="136" side="right" fold="false" treesize="226" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="1224.7631578948349" maxwidth="200">
+            <text data="C: If I were saying &quot;every object has a phenomenal cause, therefore, the whole series has a phenomenal cause,&quot; there would be a parity"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="12" posx="3235.6842105276883" posy="1165.7631578948349" width="221" height="226" side="right" fold="false" treesize="226" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3249.6842105276883" posy="1179.7631578948349" maxwidth="200">
+                <text data="; but I'm not saying that; I'm saying, every object has a phenomenal cause if you insist on the infinity of the series -- but the series of phenomenal causes is an insufficient explanation of the series. Therefore, the series has not a phenomenal cause but a transcendent cause."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="13" posx="2913.6842105276883" posy="1441.7631578948349" width="216" height="118" side="right" fold="false" treesize="218" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="1455.7631578948349" maxwidth="200">
+            <text data="C: if saying that every phenomenal object has a cause therefore series has a phenomenal cause, then yes."/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="14" posx="3229.6842105276883" posy="1391.7631578948349" width="206" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3243.6842105276883" posy="1405.7631578948349" maxwidth="200">
+                <text data="C: but claims not saying this"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="15" posx="3229.6842105276883" posy="1455.7631578948349" width="218" height="154" side="right" fold="false" treesize="154" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3243.6842105276883" posy="1469.7631578948349" maxwidth="200">
+                <text data="instead, every p.object has a p.cause. but insisting on an infinity of the series is an insufficient explanation of it. therefore the series has a transcendent cause"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="16" posx="2913.6842105276883" posy="1609.7631578948349" width="214" height="118" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="1623.7631578948349" maxwidth="200">
+            <text data="R: this assumes that the whole world has a cause, not just that all within it does. he sees no ground for this claim"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="17" posx="2913.6842105276883" posy="1918.7631578948349" width="43" height="46" side="right" fold="false" treesize="428" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="1932.7631578948349" maxwidth="200">
+            <text data="C:"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="18" posx="3056.6842105276883" posy="1727.7631578948349" width="214" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3070.6842105276883" posy="1741.7631578948349" maxwidth="200">
+                <text data="series is either caused or uncaused"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="19" posx="3056.6842105276883" posy="1791.7631578948349" width="213" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3070.6842105276883" posy="1805.7631578948349" maxwidth="200">
+                <text data="if it is casued, the cause must be external/outside series"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="20" posx="3056.6842105276883" posy="1873.7631578948349" width="212" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3070.6842105276883" posy="1887.7631578948349" maxwidth="200">
+                <text data="if it isn't it is sufficient to itself, which is what C calls necessary"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="21" posx="3056.6842105276883" posy="1955.7631578948349" width="204" height="136" side="right" fold="false" treesize="136" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3070.6842105276883" posy="1969.7631578948349" maxwidth="200">
+                <text data="each member is contingent, C+R agreed that total has no reality apart from members, therefore it can't be necessary"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="22" posx="3056.6842105276883" posy="2091.7631578948349" width="175" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3070.6842105276883" posy="2105.7631578948349" maxwidth="200">
+                <text data="therefore it can't be uncaused"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="23" posx="3331.6842105276887" posy="2100.7631578948349" width="205" height="46" side="right" fold="false" treesize="46" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="3345.6842105276887" posy="2114.7631578948349" maxwidth="200">
+                    <text data="so it must have a cause"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="24" posx="2913.6842105276883" posy="2155.7631578948349" width="187" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="2169.7631578948349" maxwidth="200">
+            <text data="R: it is possible to concieve of uncaused things"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="25" posx="2913.6842105276883" posy="2237.7631578948349" width="222" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="2251.7631578948349" maxwidth="200">
+            <text data="C: people may be able to concieve this theoretically but are unable to apply it"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="26" posx="2913.6842105276883" posy="2319.7631578948349" width="220" height="262" side="right" fold="false" treesize="262" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="2333.7631578948349" maxwidth="200">
+            <text data="R: if one looks for causes, that does not necessarily imply that there are causes everywhere. &#10;&gt; &quot;A man may look for gold without assuming that there is gold everywhere; if he finds gold, well and good, if he doesn't he's had bad luck. look for causes.&quot; &lt; this is the same when one looks for causes"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="27" posx="3233.6842105276883" posy="2377.7631578948349" width="209" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3247.6842105276883" posy="2391.7631578948349" maxwidth="200">
+                <text data="C: thinks one does make this assumption"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="28" posx="3233.6842105276883" posy="2441.7631578948349" width="215" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3247.6842105276883" posy="2455.7631578948349" maxwidth="200">
+                <text data="R: expects it to be found, but doesn't assume it *will* be found"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="29" posx="2913.6842105276883" posy="2581.7631578948349" width="223" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="2927.6842105276883" posy="2595.7631578948349" maxwidth="200">
+            <text data="R's main point is therefore that it is illegitimate to question the cause of the world"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

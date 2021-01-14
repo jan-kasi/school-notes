@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="0"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="1" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-100.32411732253604" y="-291.04805165064727" scale="0.5"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="887.32411732253649" posy="447.04805165064727" width="65" height="46" side="left" fold="false" treesize="814" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="901.32411732253649" posy="461.04805165064727" maxwidth="200">
+        <text data="Plato"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="2" posx="1052.3241173225365" posy="154.04805165064715" width="174" height="64" side="right" fold="false" treesize="246" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1066.3241173225365" posy="168.04805165064715" maxwidth="200">
+            <text data="rationality involving objectivity"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="3" posx="1326.3241173225365" posy="63.048051650647153" width="222" height="82" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1340.3241173225365" posy="77.048051650647153" maxwidth="200">
+                <text data="capable of considering the world independant of our perspective"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="6" posx="1326.3241173225365" posy="145.04805165064715" width="205" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1340.3241173225365" posy="159.04805165064715" maxwidth="200">
+                <text data="without desire, impulse, instinct"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="7" posx="1326.3241173225365" posy="209.04805165064727" width="203" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1340.3241173225365" posy="223.04805165064727" maxwidth="200">
+                <text data="self control, ability to justify belief with sound reason rather than interests"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="9" posx="1052.3241173225365" posy="346.04805165064727" width="204" height="64" side="right" fold="false" treesize="138" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1066.3241173225365" posy="360.04805165064727" maxwidth="200">
+            <text data="All humans have a soul, made of three parts"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="10" posx="1356.3241173225365" posy="309.04805165064727" width="78" height="46" side="right" fold="false" treesize="46" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1370.3241173225365" posy="323.04805165064727" maxwidth="200">
+                <text data="reason"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="14" posx="1534.3241173225365" posy="309.04805165064727" width="160" height="46" side="right" fold="false" treesize="46" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1548.3241173225365" posy="323.04805165064727" maxwidth="200">
+                    <text data="unique to humans"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="11" posx="1356.3241173225365" posy="355.04805165064727" width="85" height="46" side="right" fold="false" treesize="46" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1370.3241173225365" posy="369.04805165064727" maxwidth="200">
+                <text data="impulse"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="12" posx="1356.3241173225365" posy="401.04805165064727" width="84" height="46" side="right" fold="false" treesize="46" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1370.3241173225365" posy="415.04805165064727" maxwidth="200">
+                <text data="passion"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="15" posx="1052.3241173225365" posy="447.04805165064727" width="196" height="46" side="right" fold="false" treesize="46" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1066.3241173225365" posy="461.04805165064727" maxwidth="200">
+            <text data="poisoned well example"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="16" posx="1052.3241173225365" posy="493.04805165064727" width="170" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1066.3241173225365" posy="507.04805165064727" maxwidth="200">
+            <text data="strong phenomenal justification"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="17" posx="1322.3241173225365" posy="493.04805165064727" width="185" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1336.3241173225365" posy="507.04805165064727" maxwidth="200">
+                <text data="irrational drives and ability for self control"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="18" posx="1052.3241173225365" posy="589.04805165064727" width="197" height="64" side="right" fold="false" treesize="128" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1066.3241173225365" posy="603.04805165064727" maxwidth="200">
+            <text data="short term sacrifice for long term gain"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="19" posx="1349.3241173225365" posy="557.04805165064727" width="183" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1363.3241173225365" posy="571.04805165064727" maxwidth="200">
+                <text data="complex form of self-interested instinct?"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="20" posx="1349.3241173225365" posy="621.04805165064727" width="210" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1363.3241173225365" posy="635.04805165064727" maxwidth="200">
+                <text data="not necessarily separate from other animals"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="21" posx="1052.3241173225365" posy="758.04805165064727" width="70" height="46" side="right" fold="false" treesize="192" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1066.3241173225365" posy="772.04805165064727" maxwidth="200">
+            <text data="forms"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="22" posx="1222.3241173225365" posy="685.04805165064727" width="209" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1236.3241173225365" posy="699.04805165064727" maxwidth="200">
+                <text data="realm of forms accesible to humans"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="27" posx="1531.3241173225365" posy="694.04805165064727" width="184" height="46" side="right" fold="false" treesize="46" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1545.3241173225365" posy="708.04805165064727" maxwidth="200">
+                    <text data="this makes us unique"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="24" posx="1222.3241173225365" posy="749.04805165064727" width="203" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1236.3241173225365" posy="763.04805165064727" maxwidth="200">
+                <text data="this is how we gain knowledge about things"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="25" posx="1222.3241173225365" posy="813.04805165064727" width="175" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1236.3241173225365" posy="827.04805165064727" maxwidth="200">
+                <text data="human rationality is special"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+    <node id="28" posx="868.82411732253649" posy="1200.0480516506473" width="102" height="46" side="left" fold="false" treesize="492" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="882.82411732253649" posy="1214.0480516506473" maxwidth="200">
+        <text data="Descartes"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="29" posx="1070.8241173225365" posy="1109.0480516506473" width="221" height="82" side="right" fold="false" treesize="346" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1084.8241173225365" posy="1123.0480516506473" maxwidth="200">
+            <text data="self-evident indubitable truths are the foundations of reason"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="31" posx="1391.8241173225365" posy="977.04805165064727" width="133" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1405.8241173225365" posy="991.04805165064727" maxwidth="200">
+                <text data="law of identity&#10;a = a"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="32" posx="1391.8241173225365" posy="1041.0480516506473" width="205" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1405.8241173225365" posy="1055.0480516506473" maxwidth="200">
+                <text data="law of non-contradiction&#10;a =/= ~a"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="33" posx="1391.8241173225365" posy="1105.0480516506473" width="214" height="82" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1405.8241173225365" posy="1119.0480516506473" maxwidth="200">
+                <text data="law of excluded middle&#10;&quot;everything is either true or false&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="34" posx="1391.8241173225365" posy="1187.0480516506473" width="223" height="136" side="right" fold="false" treesize="136" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1405.8241173225365" posy="1201.0480516506473" maxwidth="200">
+                <text data="principle of sufficient reason&#10;principle of causality, there is a sufficient explanation for everything that is"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="37" posx="1714.8241173225365" posy="1223.0480516506473" width="161" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1728.8241173225365" posy="1237.0480516506473" maxwidth="200">
+                    <text data="often not included because Hume"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="38" posx="1070.8241173225365" posy="1323.0480516506473" width="214" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1084.8241173225365" posy="1337.0480516506473" maxwidth="200">
+            <text data="ability to do reason in pursuit of real knowledge"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="39" posx="1070.8241173225365" posy="1387.0480516506473" width="217" height="82" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1084.8241173225365" posy="1401.0480516506473" maxwidth="200">
+            <text data="reason is special because it gives knowledge of eternal certainties"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="40" posx="885.32411732253649" posy="1678.0480516506468" width="69" height="46" side="left" fold="false" treesize="264" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="899.32411732253649" posy="1692.0480516506468" maxwidth="200">
+        <text data="Why?"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="41" posx="1054.3241173225365" posy="1596.0480516506468" width="102" height="46" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1068.3241173225365" posy="1610.0480516506468" maxwidth="200">
+            <text data="autonomy"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="42" posx="1256.3241173225365" posy="1569.0480516506468" width="216" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1270.3241173225365" posy="1583.0480516506468" maxwidth="200">
+                <text data="phenomenally, we are able to control ourselves.&#10;there is something above desire perhaps"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="43" posx="1054.3241173225365" posy="1687.0480516506468" width="105" height="46" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1068.3241173225365" posy="1701.0480516506468" maxwidth="200">
+            <text data="objectivity"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="44" posx="1259.3241173225365" posy="1669.0480516506468" width="193" height="82" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1273.3241173225365" posy="1683.0480516506468" maxwidth="200">
+                <text data="we seem to be able to think outside our own perspective"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="45" posx="1054.3241173225365" posy="1769.0480516506468" width="106" height="46" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1068.3241173225365" posy="1783.0480516506468" maxwidth="200">
+            <text data="knowledge"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="46" posx="1260.3241173225365" posy="1751.0480516506468" width="216" height="82" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1274.3241173225365" posy="1765.0480516506468" maxwidth="200">
+                <text data="we understand the world, not just react to stimuli (perhaps)"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

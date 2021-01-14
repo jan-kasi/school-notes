@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="0"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-2290.00048828125" y="-2210.4999999999995" scale="0.25"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="3067.9999999999995" posy="2340.4999999999991" width="196" height="64" side="left" fold="false" treesize="2397.0000000000009" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="3081.9999999999995" posy="2354.4999999999991" maxwidth="200">
+        <text data="Abrahamic religions: raising a spiritual body"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="22" posx="3363.9999999999991" posy="1173.9999999999991" width="214" height="471" side="right" fold="false" treesize="471" color="#85b339" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="3377.9999999999991" posy="1187.9999999999991" maxwidth="200">
+            <text data="Creation:&#10;&#10;Everything God makes is very good&#10;&#10;God shapes man from dust and man will return to dust&#10;&#10;God breathes life into humans&#10;&#10;God names the humans, humans are God's&#10;&#10;Humans are superior to other animals but must care for them&#10;&#10;Humans are in the image of God&#10;&#10;Humans have gained knowledge of Good and Evil"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="24" posx="3363.9999999999991" posy="2008" width="85" height="46" side="right" fold="false" treesize="772.00000000000023" color="#85b339" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="3377.9999999999991" posy="2022" maxwidth="200">
+            <text data="Judaism"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="25" posx="3549" posy="1644.9999999999995" width="197" height="64" side="right" fold="false" treesize="64" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3563" posy="1658.9999999999995" maxwidth="200">
+                <text data="traditionally a monistic view"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="26" posx="3549" posy="1708.9999999999998" width="223" height="172" side="right" fold="false" treesize="172" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3563" posy="1722.9999999999998" maxwidth="200">
+                <text data="*nefesh* (hebrew, life/breath) is sometimes translated as &quot;soul&quot; but no distinguished non-physical essence separate to the body, i.e. this translation is somewhat misleding"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="27" posx="3549" posy="1880.9999999999995" width="185" height="64" side="right" fold="false" treesize="64" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3563" posy="1894.9999999999995" maxwidth="200">
+                <text data="humans are physical, created beings"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="28" posx="3549" posy="1945" width="223" height="118" side="right" fold="false" treesize="118" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3563" posy="1959" maxwidth="200">
+                <text data="possibility of life after death is focused on the renewal of the *body* and recreation of the *physical world*. Ressurection. "/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="29" posx="3549" posy="2063" width="221" height="82" side="right" fold="false" treesize="82" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3563" posy="2077" maxwidth="200">
+                <text data="life must inhabit a body, a form which is purified and dedicated to God"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="30" posx="3549" posy="2145" width="212" height="118" side="right" fold="false" treesize="118" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3563" posy="2159" maxwidth="200">
+                <text data="God:&#10;omniscient, posseses ability to give things life, controls all nature, cares for his people"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="31" posx="3549" posy="2263" width="222" height="154" side="right" fold="false" treesize="154" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3563" posy="2277" maxwidth="200">
+                <text data="Judaism argues from a monoistic view of nature (as unity, good, and God's unique creation) that huma life is also monistic: inhabiting a pure body by God's will."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="32" posx="3363.9999999999991" posy="2630" width="112" height="46" side="right" fold="false" treesize="472" color="#85b339" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="3377.9999999999991" posy="2644" maxwidth="200">
+            <text data="Christianity"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="33" posx="3576" posy="2417" width="205" height="82" side="right" fold="false" treesize="82" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3590" posy="2431" maxwidth="200">
+                <text data="ressurection from death proven by Jesus' ressurection"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="34" posx="3576" posy="2499" width="223" height="136" side="right" fold="false" treesize="136" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3590" posy="2513" maxwidth="200">
+                <text data="Paul warns of the weakness of the &quot;flesh&quot;, with parallel views to the Indian ascetic tradition and that the body pollutes the mind"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="35" posx="3576" posy="2635" width="220" height="136" side="right" fold="false" treesize="136" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3590" posy="2649" maxwidth="200">
+                <text data="&quot;the flesh desires what is contrary to the Spirit, and the Spirit what is contrary to the flesh&quot; the body must be overcome to recieve the Spirit of God"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="36" posx="3576" posy="2771" width="215" height="118" side="right" fold="false" treesize="118" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3590" posy="2785" maxwidth="200">
+                <text data="the body will be raised to a pure, transformed, spiritual body; the true self is found in physical form"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="38" posx="3363.9999999999991" posy="2975" width="206" height="100" side="right" fold="false" treesize="272" color="#85b339" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="3377.9999999999991" posy="2989" maxwidth="200">
+            <text data="Judaism and Christianity both argue for a &quot;transformational&quot; monoism"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="39" posx="3670" posy="2889" width="220" height="82" side="right" fold="false" treesize="82" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3684" posy="2903" maxwidth="200">
+                <text data="accept the impurity of the body and need for discipline of it"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="40" posx="3670" posy="2971" width="217" height="190" side="right" fold="false" treesize="190" color="#85b339" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="3684" posy="2985" maxwidth="200">
+                <text data="the solution to the body's probems is a transformation of the body by God's creative power, instead of a separation of the soul from the body or a dominance from the mind or soul over the body"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="46" posx="3363.9999999999991" posy="3161" width="204" height="82" side="right" fold="false" treesize="82" color="#85b339" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="3377.9999999999991" posy="3175" maxwidth="200">
+            <text data="monoism argued *from* theology, and a specific idea of God and theism"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="42" posx="3363.9999999999991" posy="3243" width="214" height="100" side="right" fold="false" treesize="100" color="#85b339" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="3377.9999999999991" posy="3257" maxwidth="200">
+            <text data="denying the specific theism stops the conclusion as the body is not God's creation"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="43" posx="3363.9999999999991" posy="3343" width="223" height="46" side="right" fold="false" treesize="46" color="#85b339" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="3377.9999999999991" posy="3357" maxwidth="200">
+            <text data="goodness can be criticised"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="44" posx="3363.9999999999991" posy="3389" width="192" height="100" side="right" fold="false" treesize="100" color="#85b339" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="3377.9999999999991" posy="3403" maxwidth="200">
+            <text data="creation could be an illusion, as Hindu, Buddhist, and Platonic thought claims"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="45" posx="3363.9999999999991" posy="3489" width="212" height="82" side="right" fold="false" treesize="82" color="#85b339" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="3377.9999999999991" posy="3503" maxwidth="200">
+            <text data="mind-body problems, the mind still seems distinct from the body"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

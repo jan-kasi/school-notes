@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="0"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-971.19083658854197" y="-535.68212890624864" scale="0.5"/>
+  <images/>
+  <nodes>
+    <node id="26" posx="1363.730631510417" posy="902" width="132" height="46" side="left" fold="false" treesize="1764.0000000000007" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1377.730631510417" posy="916" maxwidth="200">
+        <text data="Ancient Indida"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="15" posx="1595.730631510417" posy="396.99999999999932" width="96" height="46" side="right" fold="false" treesize="754" color="#729fcf" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1609.730631510417" posy="410.99999999999932" maxwidth="200">
+            <text data="Hinduism"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="8" posx="1791.7306315104172" posy="42.999999999999545" width="220" height="118" side="right" fold="false" treesize="118" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1805.7306315104172" posy="56.999999999999545" maxwidth="200">
+                <text data="Samsara: endless cycle of life which humans are unable to overcome and the mental despair this brings"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="9" posx="1791.7306315104172" posy="160.99999999999955" width="207" height="100" side="right" fold="false" treesize="100" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1805.7306315104172" posy="174.99999999999955" maxwidth="200">
+                <text data="the focus upon the body as the center of awareness perpetuates this cycle"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="11" posx="1791.7306315104172" posy="260.99999999999955" width="214" height="82" side="right" fold="false" treesize="82" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1805.7306315104172" posy="274.99999999999955" maxwidth="200">
+                <text data="body needs to be subject to the discipline of the mind"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="13" posx="1791.7306315104172" posy="342.99999999999955" width="208" height="64" side="right" fold="false" treesize="64" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1805.7306315104172" posy="356.99999999999955" maxwidth="200">
+                <text data="constant bodily cravings are evidence for this"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="10" posx="1791.7306315104172" posy="406.99999999999932" width="223" height="136" side="right" fold="false" treesize="136" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1805.7306315104172" posy="420.99999999999932" maxwidth="200">
+                <text data="Avidaya: the state of ignorance of a life focused on preserving the physical and gaining desires of the body is unaware of the samsara."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="14" posx="1791.7306315104172" posy="542.99999999999909" width="206" height="136" side="right" fold="false" treesize="136" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1805.7306315104172" posy="556.99999999999909" maxwidth="200">
+                <text data="the categories of mind and body are part of an inner spiritual conflict of humans striving to an enlightened state of &quot;liberation&quot;, Moksha"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="17" posx="1791.7306315104172" posy="678.99999999999955" width="206" height="118" side="right" fold="false" treesize="118" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1805.7306315104172" posy="692.99999999999955" maxwidth="200">
+                <text data="offers a powefull narrativeof the human condition, both what we need and how it feels to need/want things"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="16" posx="1595.730631510417" posy="815" width="107" height="46" side="right" fold="false" treesize="82" color="#729fcf" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1609.730631510417" posy="829" maxwidth="200">
+            <text data="Asceticism"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="18" posx="1802.7306315104172" posy="797" width="187" height="82" side="right" fold="false" treesize="82" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1816.7306315104172" posy="811" maxwidth="200">
+                <text data="subduing the body by denying the things it needs"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="19" posx="1595.730631510417" posy="1320.0000000000009" width="154" height="46" side="right" fold="false" treesize="928" color="#729fcf" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1609.730631510417" posy="1334.0000000000009" maxwidth="200">
+            <text data="Bhuddist thought"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="20" posx="1849.7306315104172" posy="879" width="216" height="100" side="right" fold="false" treesize="100" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="893" maxwidth="200">
+                <text data="the Middle Path, a way to control desires without denying them and to be clear of distraction"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="22" posx="1849.7306315104172" posy="979" width="210" height="154" side="right" fold="false" treesize="154" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="993" maxwidth="200">
+                <text data="instead of a struggle between mind and body, the Noble Eightfold Path can provide a way to control desires through mental effort without denying them"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="28" posx="1849.7306315104172" posy="1133.0000000000007" width="216" height="82" side="right" fold="false" treesize="82" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="1147.0000000000007" maxwidth="200">
+                <text data="not to dominate the body but work with it and together"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="23" posx="1849.7306315104172" posy="1215.0000000000009" width="211" height="82" side="right" fold="false" treesize="82" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="1229.0000000000009" maxwidth="200">
+                <text data="a good life supports the body without giving in to every craving"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="24" posx="1849.7306315104172" posy="1297.0000000000009" width="139" height="46" side="right" fold="false" treesize="46" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="1311.0000000000009" maxwidth="200">
+                <text data="Annata: no self"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="25" posx="1849.7306315104172" posy="1343.0000000000009" width="218" height="136" side="right" fold="false" treesize="136" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="1357.0000000000009" maxwidth="200">
+                <text data="there is no fixed self or eternal element to be reborn into another body, what we regard as &quot;us&quot; is an ever-changing stream of consciousness"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="27" posx="1849.7306315104172" posy="1479.0000000000009" width="223" height="82" side="right" fold="false" treesize="82" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="1493.0000000000009" maxwidth="200">
+                <text data="the mind is just as changeable and impermament as the body"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="29" posx="1849.7306315104172" posy="1561.0000000000009" width="206" height="100" side="right" fold="false" treesize="100" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="1575.0000000000009" maxwidth="200">
+                <text data="if everything sis impermament (Bhuddist thought), then so must the self be"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="30" posx="1849.7306315104172" posy="1661.0000000000009" width="164" height="64" side="right" fold="false" treesize="64" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="1675.0000000000009" maxwidth="200">
+                <text data="our thoughts and characters change"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="31" posx="1849.7306315104172" posy="1725.0000000000007" width="219" height="82" side="right" fold="false" treesize="82" color="#729fcf" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1863.7306315104172" posy="1739.0000000000007" maxwidth="200">
+                <text data="we can become attatched to or egoistic about our own spiritual quests"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

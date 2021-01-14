@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="dark" label="Dark" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-263.84678247943248" y="-348.65394511818886" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="987.44736841693475" posy="582.78947368264198" width="189" height="46" side="left" fold="false" treesize="976" layout="Vertical" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1001.4473684169348" posy="596.78947368264198" maxwidth="200">
+        <text data="Arguments about God"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="977.94736841693475" posy="400.78947368264198" width="208" height="82" side="top" fold="false" treesize="568" color="#ad7fa8" colorroot="true" layout="Vertical" group="true">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="991.94736841693475" posy="414.78947368264198" maxwidth="200">
+            <text data="The Denial of Teleology/Impossibility of Proof of God"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="2" posx="797.94736841693475" posy="254.78947368264198" width="92" height="46" side="top" fold="false" treesize="92" color="#ad7fa8" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="811.94736841693475" posy="268.78947368264198" maxwidth="200">
+                <text data="Nietzche"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="5" posx="889.94736841693475" posy="236.78947368264198" width="193" height="64" side="top" fold="false" treesize="193" color="#ad7fa8" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="903.94736841693475" posy="250.78947368264198" maxwidth="200">
+                <text data="Kierkegaard Existentialism (Theist)"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="3" posx="1082.9473684169348" posy="254.78947368264198" width="200" height="46" side="top" fold="false" treesize="200" color="#ad7fa8" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1096.9473684169348" posy="268.78947368264198" maxwidth="200">
+                <text data="Existentialism (Atheist)"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="4" posx="1282.9473684169348" posy="254.78947368264198" width="83" height="46" side="top" fold="false" treesize="83" color="#ad7fa8" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1296.9473684169348" posy="268.78947368264198" maxwidth="200">
+                <text data="Fideism"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="6" posx="433.44736841693475" posy="728.78947368264198" width="81" height="46" side="bottom" fold="false" treesize="560" color="#729fcf" colorroot="true" layout="Vertical" group="true">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="447.44736841693475" posy="742.78947368264198" maxwidth="200">
+            <text data="A priori"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="7" posx="193.94736841693475" posy="874.78947368264176" width="182" height="64" side="bottom" fold="false" treesize="182" color="#729fcf" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="207.94736841693475" posy="888.78947368264176" maxwidth="200">
+                <text data="Trademark Argument (Descartes)"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="8" posx="375.94736841693475" posy="874.78947368264176" width="186" height="64" side="bottom" fold="false" treesize="186" color="#729fcf" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="389.94736841693475" posy="888.78947368264176" maxwidth="200">
+                <text data="Cartesian Ontological Argument"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="9" posx="561.94736841693475" posy="874.78947368264176" width="192" height="64" side="bottom" fold="false" treesize="192" color="#729fcf" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="575.94736841693475" posy="888.78947368264176" maxwidth="200">
+                <text data="Anselmian Ontological Argument"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="10" posx="1305.447368416935" posy="728.78947368264198" width="113" height="46" side="bottom" fold="false" treesize="1216" color="#c6262e" colorroot="false" layout="Vertical" group="true">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1319.447368416935" posy="742.78947368264198" maxwidth="200">
+            <text data="A posteriori"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="11" posx="972.94736841693475" posy="874.78947368264176" width="112" height="46" side="bottom" fold="false" treesize="550" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="986.94736841693475" posy="888.78947368264176" maxwidth="200">
+                <text data="Teleological"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="12" posx="753.94736841693475" posy="1020.789473682642" width="207" height="64" side="bottom" fold="false" treesize="207" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="767.94736841693475" posy="1034.789473682642" maxwidth="200">
+                    <text data="Qua Regularity (Aquinas 5th way)"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="13" posx="960.94736841693475" posy="1020.789473682642" width="178" height="46" side="bottom" fold="false" treesize="178" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="974.94736841693475" posy="1034.789473682642" maxwidth="200">
+                    <text data="Qua Purpose (Paley)"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="14" posx="1138.9473684169348" posy="1020.789473682642" width="165" height="46" side="bottom" fold="false" treesize="165" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1152.9473684169348" posy="1034.789473682642" maxwidth="200">
+                    <text data="Anthropic Principle"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="15" posx="1432.447368416935" posy="874.78947368264176" width="125" height="46" side="bottom" fold="false" treesize="382" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1446.447368416935" posy="888.78947368264176" maxwidth="200">
+                <text data="Cosmological"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="16" posx="1316.447368416935" posy="1020.789473682642" width="86" height="46" side="bottom" fold="false" treesize="111" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1330.447368416935" posy="1034.789473682642" maxwidth="200">
+                    <text data="Aquinas"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="17" posx="1303.947368416935" posy="1166.789473682642" width="37" height="46" side="bottom" fold="false" treesize="37" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1317.947368416935" posy="1180.789473682642" maxwidth="200">
+                        <text data="1"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="18" posx="1340.947368416935" posy="1166.789473682642" width="37" height="46" side="bottom" fold="false" treesize="37" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1354.947368416935" posy="1180.789473682642" maxwidth="200">
+                        <text data="2"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="19" posx="1377.947368416935" posy="1166.789473682642" width="37" height="46" side="bottom" fold="false" treesize="37" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1391.947368416935" posy="1180.789473682642" maxwidth="200">
+                        <text data="3"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="20" posx="1414.947368416935" posy="1020.789473682642" width="73" height="46" side="bottom" fold="false" treesize="73" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1428.947368416935" posy="1034.789473682642" maxwidth="200">
+                    <text data="Kalam"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="21" posx="1487.947368416935" posy="1020.789473682642" width="198" height="64" side="bottom" fold="false" treesize="198" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1501.947368416935" posy="1034.789473682642" maxwidth="200">
+                    <text data="Descartes Contingency Argument"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="22" posx="1685.947368416935" posy="874.78947368264176" width="146" height="46" side="bottom" fold="false" treesize="146" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1699.947368416935" posy="888.78947368264176" maxwidth="200">
+                <text data="Moral Argument"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="23" posx="1831.947368416935" posy="874.78947368264176" width="138" height="46" side="bottom" fold="false" treesize="138" color="#c6262e" colorroot="false" layout="Vertical" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1845.947368416935" posy="888.78947368264176" maxwidth="200">
+                <text data="Problem of Evil"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups>
+    <group color="#c6262e">
+      <node id="10"/>
+    </group>
+    <group color="#729fcf">
+      <node id="6"/>
+    </group>
+    <group color="#ad7fa8">
+      <node id="1"/>
+    </group>
+  </groups>
+  <stickers/>
+</minder>

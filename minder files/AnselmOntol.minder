@@ -1,0 +1,1881 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="19.473684210330248" y="-75.163996646181431" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="425.077402215451" posy="-45.763157894833967" width="100" height="46" side="left" fold="false" treesize="801.99999999999977" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="439.077402215451" posy="-31.763157894833967" maxwidth="200">
+        <text data="Chapter 2"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="27" posx="625.077402215451" posy="-414.76315789483442" width="191" height="46" side="right" fold="false" treesize="46" color="#e9b96e" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="-400.76315789483442" maxwidth="200">
+            <text data="God truly/really exists"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="1" posx="625.077402215451" posy="-368.76315789483442" width="189" height="64" side="right" fold="false" treesize="64" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="-354.76315789483442" maxwidth="200">
+            <text data="1. God is the greatest convievable being">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="3" posx="625.077402215451" posy="-254.76315789483374" width="192" height="64" side="right" fold="false" treesize="164" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="-240.76315789483374" maxwidth="200">
+            <text data="2. This being exists at least in understanding">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="5" posx="917.077402215451" posy="-304.76315789483374" width="219" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="931.077402215451" posy="-290.76315789483374" maxwidth="200">
+                <text data="Understanding the premise 1 means it exists in understanding"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="7" posx="917.077402215451" posy="-222.76315789483374" width="184" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="931.077402215451" posy="-208.76315789483374" maxwidth="200">
+                <text data="Can't claim it doesn't exist if you don't understand it"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="9" posx="625.077402215451" posy="-140.76315789483385" width="208" height="100" side="right" fold="false" treesize="100" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="-126.76315789483385" maxwidth="200">
+            <text data="2. That which exists in reality is greater than that which exists only in understanding">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="6" posx="625.077402215451" posy="-40.763157894833739" width="221" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="-26.763157894833739" maxwidth="200">
+            <text data="3. Suppose that this being exists only in understanding">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="24" posx="625.077402215451" posy="41.236842105165806" width="194" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="55.236842105165806" maxwidth="200">
+            <text data="4. That which exists in understanding can be convieved to exist">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="8" posx="625.077402215451" posy="123.23684210516603" width="220" height="118" side="right" fold="false" treesize="117.99999999999997" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="137.23684210516603" maxwidth="200">
+            <text data="5. We can concieve of a greater convievable being than the greatest convievable being, one which exists">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+                <range start="1" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="10" posx="625.077402215451" posy="241.23684210516603" width="205" height="64" side="right" fold="false" treesize="64" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="255.23684210516603" maxwidth="200">
+            <text data="6. [5] is a contradiction, therefore [3] is false">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="11" posx="625.077402215451" posy="305.23684210516535" width="219" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="319.23684210516535" maxwidth="200">
+            <text data="7. Therefore God exists in reality and in understanding, i.e. is real">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="25" posx="425.077402215451" posy="747.23684210516512" width="100" height="46" side="left" fold="false" treesize="566" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="439.077402215451" posy="761.23684210516512" maxwidth="200">
+        <text data="Chapter 3"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="29" posx="625.077402215451" posy="487.23684210516512" width="203" height="64" side="right" fold="false" treesize="64" color="#e9b96e" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="501.23684210516512" maxwidth="200">
+            <text data="God can't be thought to not exist"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="30" posx="625.077402215451" posy="551.23684210516512" width="221" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="565.23684210516512" maxwidth="200">
+            <text data="1. There can be an existent being whose non existence is inconcievable">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="31" posx="625.077402215451" posy="633.23684210516512" width="222" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="647.23684210516512" maxwidth="200">
+            <text data="2. There can be an existent being whose non-existence is convievable">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="32" posx="625.077402215451" posy="715.23684210516512" width="208" height="46" side="right" fold="false" treesize="46" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="729.23684210516512" maxwidth="200">
+            <text data="3. [1] is greater than [2]">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="33" posx="625.077402215451" posy="761.23684210516512" width="227" height="64" side="right" fold="false" treesize="64" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="775.23684210516512" maxwidth="200">
+            <text data="4. God is the existent greatest concievable being">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="34" posx="625.077402215451" posy="825.23684210516512" width="197" height="64" side="right" fold="false" treesize="64" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="839.23684210516512" maxwidth="200">
+            <text data="5. Say that God can be thought to not exist">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="36" posx="625.077402215451" posy="889.23684210516512" width="223" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="903.23684210516512" maxwidth="200">
+            <text data="6. Something greater can be concieved to exist, one which is [2] ">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="37" posx="625.077402215451" posy="971.23684210516512" width="214" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="639.077402215451" posy="985.23684210516512" maxwidth="200">
+            <text data="7. This is a contradiction, therefore God cannot be thought to not exist">
+              <color>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+                <range start="0" end="2" extra="rgb(255,0,0)"/>
+              </color>
+            </text>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="35" posx="939.077402215451" posy="971.23684210516512" width="206" height="82" side="right" fold="false" treesize="82" color="#ad7fa8" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="953.077402215451" posy="985.23684210516512" maxwidth="200">
+                <text data="God exists so truly that he cannot be thought to not exist"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>
