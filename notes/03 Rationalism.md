@@ -2,7 +2,7 @@
 tags: [phil/core theme/03 mind and body]
 title: 03 Rationalism
 created: '2021-01-14T14:32:45.039Z'
-modified: '2021-01-14T14:58:39.830Z'
+modified: '2021-01-18T22:29:06.691Z'
 ---
 
 # 03 Rationalism
@@ -38,9 +38,9 @@ This desire is either true or a false hope. It cannot be a false hope because na
 
 Therefore human desire for immortality is realistic and the rational soul is immortal. 
 
-brightestits ns truly anf is at Reason and the soul become more effective when isolated from the body: when we experience lots of physical sensations it is difficult to think. Clearing the mind is clearing the physical.
+Reason and the soul become more effective when isolated from the body: when we experience lots of physical sensations it is difficult to think. Clearing the mind is clearing the physical.
 
-> Then the soul despises corporeals and when the senses have been allayed and the clouds of phantasmata dissipated…then the intellefcat diserscerns trighestuly and is at its beightest
+> Then the soul despises corporeals and when the senses have been allayed and the clouds of phantasmata dissipated…then the intellct discerns truly and is at its beightest
 
 | Plato (*Phaedo*)       | Marsillo Ficino (*Platonic Theology*) |
 | ---------------------- | ------------------------------------- |
@@ -50,14 +50,14 @@ brightestits ns truly anf is at Reason and the soul become more effective when i
 
 ### Descartes
 
-- Foundationalsim: attempts to rebuild knowledge from the bottom up using fundamental principles
+- Foundationalism: attempts to rebuild knowledge from the bottom up using fundamental principles
 - Radical doubt: he wishes to question *everything*
 
-The possibility that our senses can be decieved.
+The possibility that our senses can be deceived.
 
 Evil Demon thought experiment
 
-> Thinking is another attribute of the soul; and here I discover what properly belongs to myself. This alone is inseparable form me. I am—I exist: this is certain…I am…only a thinking thing, that is, a mind
+> Thinking is another attribute of the soul; and here I discover what properly belongs to myself. This alone is inseparable from me. I am—I exist: this is certain…I am…only a thinking thing, that is, a mind
 
 - Human beings *are* minds, they are thinking things
 - Whatever the body is can be distinguished from the essential core
@@ -65,10 +65,10 @@ Evil Demon thought experiment
 Mind and body are distinct substances.
 
 - Has immediate logical certainty in the existence of his mind, but not of the body
-- Body is characteised by extension (size, etc.), the mind is not
+- Body is characterised by extension (size, etc.), the mind is not
 - The possibility of reasoning from the mind to the physical body: it is apparent there is a physical body and external world from the senses, though they can be doubted
 
-God’s existence is certain. God is perfect, so would not decieve. As sight comes from God, the mind can put its trust in the body’s existence.
+God’s existence is certain. God is perfect, so would not deceive. As sight comes from God, the mind can put its trust in the body’s existence.
 
 Interactionism: the mind and body interact.
 
@@ -89,7 +89,7 @@ Ryle, *The Concept of Mind* (1949)
 - Category mistake: Descartes fundamentally misunderstands the category which the mind belongs to. The mind is simply the a collection of abilities and actions directed through the brain and central nervous system; the *res cogitans* is not an object in its own right, or a distinct substance
   - Example of a visitor going to Oxford (where Ryle taught philosophy), seeing all the buildings, colleges, faculties, etc., and asking “where is the university”. It is a mistake because the visitor has placed the university within the category of a physical spaces in that it must be in one particular place; the university is belongs in a broader category of the people, buildings, faculties, projects, etc., which make it up. Just like the mind.
 
-### Philsophical terms
+### Philosophical terms
 
 | Term                            | Definition                                                   |
 | ------------------------------- | ------------------------------------------------------------ |
