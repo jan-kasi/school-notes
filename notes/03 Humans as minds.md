@@ -1,13 +1,12 @@
 ---
 tags: [phil/core theme/03 mind and body]
-title: 03 Rationalism
+title: 03 Humans as minds
 created: '2021-01-14T14:32:45.039Z'
-modified: '2021-01-18T22:29:06.691Z'
+modified: '2021-01-20T12:41:27.805Z'
 ---
 
-# 03 Rationalism
-
- —Humans as minds
+# 03 Humans as minds
+Rationalism
 
 ## Textbook notes
 
