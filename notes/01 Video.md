@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Candide]
+tags: [en/skills, en/texts/Candide]
 title: 01 Video
 created: '2021-01-08T14:29:17.296Z'
-modified: '2021-01-08T14:52:21.862Z'
+modified: '2021-01-22T14:53:10.305Z'
 ---
 
 # 01 Video

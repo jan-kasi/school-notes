@@ -1,8 +1,8 @@
 ---
-tags: [en/writing]
+tags: [en/skills, en/writing]
 title: Critical theory
 created: '2020-11-23T15:18:54.205Z'
-modified: '2020-11-23T14:44:43.085Z'
+modified: '2021-01-22T14:19:57.017Z'
 ---
 
 # Critical theory
