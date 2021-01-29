@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="dark" label="Dark" index="0"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="460.259765625" y="-265.06689453124773" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="239.9466552734375" posy="760.49999999999773" width="204" height="46" side="left" fold="false" treesize="1475.0000000000025" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="253.9466552734375" posy="774.49999999999773" maxwidth="200">
+        <text data="Q13: The Names of God"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="543.9466552734375" posy="81.999999999997726" width="194" height="82" side="right" fold="false" treesize="82" color="#d3d7cf" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="557.9466552734375" posy="95.999999999997726" maxwidth="200">
+            <text data="Article 6: Whether this name &quot;God&quot; is communicable"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="2" posx="543.9466552734375" posy="163.99999999999773" width="222" height="190" side="right" fold="false" treesize="190" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="557.9466552734375" posy="177.99999999999773" maxwidth="200">
+            <text data="O1:&#10;&quot;God&quot; seems comminicable, sharing the thing signified by the name shares the name itslef. The name signifies the divine, which is communicable. So God is communicable"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="3" posx="865.9466552734375" posy="208.99999999999773" width="215" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="879.9466552734375" posy="222.99999999999773" maxwidth="200">
+                <text data="R1:&#10;divine nature only communicable in participation of similitude"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="4" posx="543.9466552734375" posy="371.99999999999773" width="227" height="172" side="right" fold="false" treesize="208" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="557.9466552734375" posy="385.99999999999773" maxwidth="200">
+            <text data="O2:&#10;Only proper names are not communicable. God is not proper but an appellative noun as it is plural (&quot;I have said, You are gods&quot; Ps 81:6). Therefore is communicable"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="5" posx="870.9466552734375" posy="353.99999999999773" width="219" height="208" side="right" fold="false" treesize="208" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="884.9466552734375" posy="367.99999999999773" maxwidth="200">
+                <text data="R2:&#10;name &quot;God&quot; is appelattive, not proper, it singifies the divine nature. Although God is neither universal or particular, names do not follow upon the belief in things but in being as it is in out minds"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="6" posx="543.9466552734375" posy="561.99999999999773" width="216" height="172" side="right" fold="false" treesize="172" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="557.9466552734375" posy="575.99999999999773" maxwidth="200">
+            <text data="O3:&#10;God comes from operation but other names given to God from his effects are communicable, e.g. &quot;good&quot;, &quot;wise&quot;. Therefore God is communicable"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="7" posx="859.9466552734375" posy="588.99999999999773" width="222" height="118" side="right" fold="false" treesize="118" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="873.9466552734375" posy="602.99999999999773" maxwidth="200">
+                <text data="R3: these names are imposed from perfectio proceeding from God to creatures but don't signify divine nature."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="8" posx="543.9466552734375" posy="733.99999999999773" width="213" height="154" side="right" fold="false" treesize="154" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="557.9466552734375" posy="747.99999999999773" maxwidth="200">
+            <text data="OTC:&#10;&quot;They gave the incommunicable name to wood and stones&quot; in reference to the divine name. Name &quot;God&quot; isn't communicable"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="9" posx="543.9466552734375" posy="903" width="220" height="242" side="right" fold="false" treesize="272" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="557.9466552734375" posy="917" maxwidth="200">
+            <text data="IAT:&#10;Names are communicable in 2 ways.&#10;&#10;To communicate properly we must understand the singular of the name. This can't be done.&#10;&#10;Of the individual only name communicated by similitude is possible."/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="11" posx="863.9466552734375" posy="888" width="224" height="118" side="right" fold="false" treesize="118" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="877.9466552734375" posy="902" maxwidth="200">
+                <text data="Properly. Whole significance given by many.&#10;&quot;lion&quot; properly as all things of the nature of lion"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="12" posx="863.9466552734375" posy="1006" width="217" height="154" side="right" fold="false" treesize="154" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="877.9466552734375" posy="1020" maxwidth="200">
+                <text data="By similitude. Some part of signification of the name.&#10;&quot;lion&quot; by similitue as things participating in the nature of lion, e.g. strength, courage, etc."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="10" posx="543.9466552734375" posy="1160.0000000000002" width="223" height="225" side="right" fold="false" treesize="225" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="557.9466552734375" posy="1174.0000000000002" maxwidth="200">
+            <text data="&quot;God&quot; is the divine nature, and this cannot be multiplied. So God is incommunicable in reality, but communicable in opinion by similitude. &#10;&#10;&quot;God&quot; is communicable in some part of signification of the whol, but not all of it."/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="14" posx="543.9466552734375" posy="1385.0000000000002" width="221" height="172" side="right" fold="false" treesize="172" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="557.9466552734375" posy="1399.0000000000002" maxwidth="200">
+            <text data="If a name of God didn't signift nature but individuality (suppositum), so God is considered &quot;this something&quot;. Then that name would be absolutely incommunicable."/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

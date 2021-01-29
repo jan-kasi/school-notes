@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="dark" label="Dark" index="0"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="0" y="-408.29748535156136" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="421.758544921875" posy="879.49999999999864" width="204" height="46" side="left" fold="false" treesize="1776.0000000000011" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="435.758544921875" posy="893.49999999999864" maxwidth="200">
+        <text data="Q13: The Names of God"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="2" posx="725.758544921875" posy="14.499999999998636" width="216" height="100" side="right" fold="false" treesize="100" color="#d3d7cf" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="739.758544921875" posy="28.499999999998636" maxwidth="200">
+            <text data="Article 6: Whether names predicated of God are predicated primarily of creatures"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="3" posx="725.758544921875" posy="114.49999999999864" width="220" height="208" side="right" fold="false" treesize="208" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="739.758544921875" posy="128.49999999999864" maxwidth="200">
+            <text data="O1:&#10;It seems names are predicated primarily of creatures rather than God. Names are &quot;signs of ideas&quot;, but we know creatures before God. Therefore names imposed by us are primarily of creatures"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="4" posx="1045.758544921875" posy="177.49999999999864" width="200" height="82" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1059.758544921875" posy="191.49999999999864" maxwidth="200">
+                <text data="R1:&#10;applies to imposition of names"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="5" posx="725.758544921875" posy="322.49999999999875" width="211" height="190" side="right" fold="false" treesize="190" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="739.758544921875" posy="336.49999999999875" maxwidth="200">
+            <text data="O2:&#10;&quot;We name God from cratures&quot; but these transferred names are primarily of creature rather than God. Therefore names applied to creature and God are primarily to creature."/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="6" posx="1036.758544921875" posy="367.49999999999875" width="200" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1050.758544921875" posy="381.49999999999875" maxwidth="200">
+                <text data="R2:&#10;doesn't apply to metaphorical and other names "/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="7" posx="725.758544921875" posy="512.49999999999886" width="222" height="244" side="right" fold="false" treesize="244" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="739.758544921875" posy="526.49999999999886" maxwidth="200">
+            <text data="O3:&#10;Names equally applied are applied to God as the cause of all creatures. But applying through casue is applying secondarily: &quot;healthy&quot; is primarily predicated of animal rather than medicine, which causes health. Therefore names are primarily of creatures"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="8" posx="1047.758544921875" posy="584.49999999999909" width="189" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1061.758544921875" posy="598.49999999999909" maxwidth="200">
+                <text data="R3: would be valid if names only applie as cause and not also as essence "/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="9" posx="725.758544921875" posy="756.49999999999864" width="203" height="136" side="right" fold="false" treesize="136" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="739.758544921875" posy="770.49999999999864" maxwidth="200">
+            <text data="OTC:&#10;&quot;of Whom all in heaven and earth is named&quot; is writte, therefore names are applied primarily to God."/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="10" posx="725.758544921875" posy="892.5" width="223" height="405" side="right" fold="false" treesize="405" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="739.758544921875" posy="906.5" maxwidth="200">
+            <text data="I answer that:&#10;Names predicated analogically are done so because they have reference to one thing; this this must be placed in the definition of all of them. So the name must primarily be applied to the thing in all definitions, and secondarily to those which approach towards or away from this first.&#10;&#10;So all names applied metaphorically to God are primarily to creatures rather than God, because they only mean similarities when said of God."/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="38" posx="725.758544921875" posy="1297.4999999999998" width="223" height="493" side="right" fold="false" treesize="493" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="739.758544921875" posy="1311.4999999999998" maxwidth="200">
+            <text data="For non-metaphorical sense of language, such as cause, applied to God it is also primarily of creatures.&#10;&#10;&quot;God is good&quot; -&gt; &quot;God is the cause of creatures' goodness&quot;, therefore good applied to God includes creature's goodness, so it is firstly of the creature.&#10;&#10;They are also not only casue, but of essense. &quot;God is good&quot; also signifies that goodness exists divinely in God.&#10;&#10;So what the name signifies applies primarily of God instead of creatures. The name imposed is primarily of creatures"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

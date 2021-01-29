@@ -1,11 +1,11 @@
 ---
 tags: [en/skills]
-title: 01 Guided literary analysis tips
+title: Guided literary analysis tips
 created: '2021-01-14T11:45:34.296Z'
-modified: '2021-01-15T15:25:18.541Z'
+modified: '2021-01-27T21:57:30.328Z'
 ---
 
-# 01 Guided literary analysis tips
+# Guided literary analysis tips
 
 You get 2 extracts from one of the four types of text and a guiding question for each.
 You chose the one you like the most and write an essay answering and exploring the question in 1h 15m

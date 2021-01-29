@@ -2,7 +2,7 @@
 tags: [phil/phil of religion/03 language]
 title: 01 Language
 created: '2021-01-11T10:48:50.119Z'
-modified: '2021-01-11T10:53:50.016Z'
+modified: '2021-01-28T23:17:42.004Z'
 ---
 
 # 01 Language
@@ -39,9 +39,9 @@ What is the assumption being made if we accept that there is a problem with reli
 
 ### William Alston
 
-Univocal: One meaning only, the same meaning in all situations.
+**Univocal**: has one meaning only, the same meaning in all situations.
 
-Univocal language: The term, regardless of who it relates to, signifies only one thought/points to only one thing.
+**Univocal language**: The term, regardless of who it relates to, signifies only one thought/points to only one thing.
 
 For religious language, this could mean that when we say “God is good” we have exactly the same meaning of “goodness” as when we say “This cat is good”.
 
@@ -75,7 +75,7 @@ They yield the same result.
 
 Mental process need not be defined by their structure, but by their consequence. He was a functionalist in this respect.
 
-[Functionalism: The notion that mental states can be fully/sufficiently defined by their consequences—their effects in the World]
+[Functionalism: The notion that mental states can be fully/sufficiently defined by their consequences/functions—their effects in the World]
 
 God and human beings perform the same functions—they can both “know” or “recognise the best of X”. Therefore if we understand what a human I is doing, we can partially understand what God is doing.
 

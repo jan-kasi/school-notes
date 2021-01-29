@@ -1,11 +1,11 @@
 ---
 tags: [en/skills]
-title: '02 Eat, Pray, Love'
+title: 'Eat, Pray, Love'
 created: '2021-01-14T12:07:39.957Z'
-modified: '2021-01-14T12:22:08.111Z'
+modified: '2021-01-27T21:57:36.925Z'
 ---
 
-# 02 Eat, Pray, Love
+# Eat, Pray, Love
 
 ![extract](../attachments/exEatPrayLove.png)
 

@@ -2,7 +2,7 @@
 tags: [en/skills, en/writing]
 title: Critical theory
 created: '2020-11-23T15:18:54.205Z'
-modified: '2021-01-22T14:19:57.017Z'
+modified: '2021-01-27T21:57:43.572Z'
 ---
 
 # Critical theory
