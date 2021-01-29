@@ -14,141 +14,139 @@
     <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
     <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
   </styles>
-  <drawarea x="0" y="-506.36175537109375" scale="1"/>
+  <drawarea x="0" y="573.63824462890625" scale="1"/>
   <images/>
   <nodes>
-    <node id="0" posx="449.075439453125" posy="982.49999999999977" width="204" height="46" side="left" fold="false" treesize="1764.9999999999998" layout="Horizontal" group="false">
+    <node id="0" posx="449.075439453125" posy="-97.500000000000227" width="204" height="46" side="left" fold="false" treesize="1811" layout="Horizontal" group="false">
       <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-      <nodename posx="463.075439453125" posy="996.49999999999977" maxwidth="200">
+      <nodename posx="463.075439453125" posy="-83.500000000000227" maxwidth="200">
         <text data="Q13: The Names of God"/>
       </nodename>
       <nodenote></nodenote>
       <nodes>
-        <node id="1" posx="753.075439453125" posy="123" width="220" height="100" side="right" fold="false" treesize="100" color="#d3d7cf" colorroot="true" layout="Horizontal" group="false">
+        <node id="1" posx="753.075439453125" posy="-980" width="220" height="100" side="right" fold="false" treesize="100" color="#d3d7cf" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="767.075439453125" posy="137" maxwidth="200">
+          <nodename posx="767.075439453125" posy="-966" maxwidth="200">
             <text data="Article 5: Whether what is said of God and of creatures is univocally predicated of them"/>
           </nodename>
           <nodenote></nodenote>
         </node>
-        <node id="2" posx="753.075439453125" posy="339.5" width="218" height="136" side="right" fold="false" treesize="369" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+        <node id="2" posx="753.075439453125" posy="-763.5" width="218" height="136" side="right" fold="false" treesize="369" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="767.075439453125" posy="353.5" maxwidth="200">
+          <nodename posx="767.075439453125" posy="-749.5" maxwidth="200">
             <text data="Objection 1:&#10;It seems language of God and creatures is univocal.&#10;If there is an equivocal word it must be univocal of some things"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="15" posx="1071.075439453125" posy="223" width="223" height="369" side="right" fold="false" treesize="369" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+            <node id="3" posx="1071.075439453125" posy="-880" width="223" height="369" side="right" fold="false" treesize="369" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1085.075439453125" posy="237" maxwidth="200">
+              <nodename posx="1085.075439453125" posy="-866" maxwidth="200">
                 <text data="Reply 1:&#10;equivocal must be reduced to univocal, but the non-univocal agent has to precede the univocal one. Because the non-univocal one is the cause of the whole species, the univocal agent is not the universal efficient cause. If it was, it would cause itslef. Therefore the universal cause is not univocal as the universal comes before the particular.&#10;&#10;This universal agent isn't equivocal, it is analogical."/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="3" posx="753.075439453125" posy="592" width="221" height="154" side="right" fold="false" treesize="154" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+        <node id="4" posx="753.075439453125" posy="-511" width="221" height="154" side="right" fold="false" treesize="154" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="767.075439453125" posy="606" maxwidth="200">
+          <nodename posx="767.075439453125" posy="-497" maxwidth="200">
             <text data="O2:&#10;equivocal things aren't similar. Creatures have some likeness to God, Genesis 1, so it seems we can say things of God and creatures univocally"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="16" posx="1074.075439453125" posy="619" width="222" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+            <node id="5" posx="1074.075439453125" posy="-484" width="222" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1088.075439453125" posy="633" maxwidth="200">
+              <nodename posx="1088.075439453125" posy="-470" maxwidth="200">
                 <text data="R2: Likeness of creature to God is imperfect, it doesn't represent one and the same thing"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="4" posx="753.075439453125" posy="746" width="222" height="190" side="right" fold="false" treesize="190" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+        <node id="6" posx="753.075439453125" posy="-357" width="222" height="190" side="right" fold="false" treesize="190" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="767.075439453125" posy="760" maxwidth="200">
+          <nodename posx="767.075439453125" posy="-343" maxwidth="200">
             <text data="O3:&#10;measure is homogeneous with the thing measured. God is the measure of all things. Therefore God is homogeneus to creatures; a word can be applied to God and creatures univocally"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="18" posx="1075.075439453125" posy="800" width="211" height="82" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+            <node id="7" posx="1075.075439453125" posy="-303" width="211" height="82" side="right" fold="false" treesize="82" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1089.075439453125" posy="814" maxwidth="200">
+              <nodename posx="1089.075439453125" posy="-289" maxwidth="200">
                 <text data="R3: God is not the measure proportioned to things measured"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="5" posx="753.075439453125" posy="935.99999999999977" width="216" height="172" side="right" fold="false" treesize="172" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+        <node id="8" posx="753.075439453125" posy="-167.00000000000023" width="216" height="172" side="right" fold="false" treesize="172" color="#c6262e" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="767.075439453125" posy="949.99999999999977" maxwidth="200">
+          <nodename posx="767.075439453125" posy="-153.00000000000023" maxwidth="200">
             <text data="On the contrary:&#10;what is predicated of different things under the same name but not the same sense is equivocal. Names do not belong to God as they do to creatures."/>
           </nodename>
           <nodenote></nodenote>
         </node>
-        <node id="6" posx="753.075439453125" posy="1107.9999999999998" width="221" height="190" side="right" fold="false" treesize="190" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+        <node id="9" posx="753.075439453125" posy="4.9999999999997726" width="221" height="190" side="right" fold="false" treesize="190" color="#c6262e" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="767.075439453125" posy="1121.9999999999998" maxwidth="200">
+          <nodename posx="767.075439453125" posy="18.999999999999773" maxwidth="200">
             <text data="Further:&#10;God is more distant than creature from creature. Some distance in creature makes univocal language impossible, therefore nothing can be predicated univocally of God and creatures"/>
           </nodename>
           <nodenote></nodenote>
         </node>
-        <node id="7" posx="753.075439453125" posy="1374.9999999999998" width="198" height="82" side="right" fold="false" treesize="236" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+        <node id="10" posx="753.075439453125" posy="271.99999999999977" width="198" height="82" side="right" fold="false" treesize="236" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="767.075439453125" posy="1388.9999999999998" maxwidth="200">
+          <nodename posx="767.075439453125" posy="285.99999999999977" maxwidth="200">
             <text data="univocal language between God and creatures is impossible"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="8" posx="1051.075439453125" posy="1297.9999999999998" width="210" height="136" side="right" fold="false" treesize="136" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+            <node id="11" posx="1051.075439453125" posy="194.99999999999977" width="210" height="136" side="right" fold="false" treesize="136" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1065.075439453125" posy="1311.9999999999998" maxwidth="200">
+              <nodename posx="1065.075439453125" posy="208.99999999999977" maxwidth="200">
                 <text data="when we apply &quot;wise&quot; to man we signify some perfection distinct from essense, power, existence, and similar things."/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="9" posx="1051.075439453125" posy="1433.9999999999998" width="210" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+            <node id="12" posx="1051.075439453125" posy="330.99999999999977" width="210" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1065.075439453125" posy="1447.9999999999998" maxwidth="200">
+              <nodename posx="1065.075439453125" posy="344.99999999999977" maxwidth="200">
                 <text data="when we apply &quot;wise&quot; to God we we do not mean anything distinct from God."/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="10" posx="753.075439453125" posy="1533.9999999999998" width="205" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+        <node id="13" posx="753.075439453125" posy="430.99999999999977" width="205" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="767.075439453125" posy="1547.9999999999998" maxwidth="200">
+          <nodename posx="767.075439453125" posy="444.99999999999977" maxwidth="200">
             <text data="this doesn't mean equivocal, as this would mean we can know nothing of God"/>
           </nodename>
           <nodenote></nodenote>
-          <nodes>
-            <node id="11" posx="1058.075439453125" posy="1560.9999999999998" width="193" height="46" side="right" fold="false" treesize="46" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
-              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1072.075439453125" posy="1574.9999999999998" maxwidth="200">
-                <text data="Instead it is analogical"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-          </nodes>
         </node>
-        <node id="12" posx="753.075439453125" posy="1738" width="223" height="46" side="right" fold="false" treesize="254" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+        <node id="14" posx="753.075439453125" posy="530.99999999999977" width="193" height="46" side="right" fold="false" treesize="46" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="767.075439453125" posy="1752" maxwidth="200">
+          <nodename posx="767.075439453125" posy="544.99999999999977" maxwidth="200">
+            <text data="Instead it is analogical"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="15" posx="753.075439453125" posy="681" width="223" height="46" side="right" fold="false" treesize="254" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="767.075439453125" posy="695" maxwidth="200">
             <text data="Names are used in 2 ways"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="13" posx="1076.075439453125" posy="1633.9999999999998" width="215" height="136" side="right" fold="false" treesize="136" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+            <node id="16" posx="1076.075439453125" posy="576.99999999999977" width="215" height="136" side="right" fold="false" treesize="136" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1090.075439453125" posy="1647.9999999999998" maxwidth="200">
+              <nodename posx="1090.075439453125" posy="590.99999999999977" maxwidth="200">
                 <text data="many things proportionate to one: &quot;healthy&quot; predicated of medicine and urine (sign) in proportion to health of a body (cause)"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="14" posx="1076.075439453125" posy="1770" width="219" height="118" side="right" fold="false" treesize="118" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+            <node id="17" posx="1076.075439453125" posy="713" width="219" height="118" side="right" fold="false" treesize="118" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1090.075439453125" posy="1784" maxwidth="200">
+              <nodename posx="1090.075439453125" posy="727" maxwidth="200">
                 <text data="ont thing proportionate to another: &quot;healthy&quot; said of medicine and animal, medicine is the cause of health in the animal"/>
               </nodename>
               <nodenote></nodenote>

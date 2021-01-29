@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <minder version="1.11.3">
-  <theme name="dark" label="Dark" index="0"/>
+  <theme name="dark" label="Dark" index="-1"/>
   <styles>
     <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
     <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
@@ -14,98 +14,139 @@
     <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
     <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
   </styles>
-  <drawarea x="0" y="205.0093994140625" scale="1"/>
+  <drawarea x="0" y="-82.490600585937841" scale="1"/>
   <images/>
   <nodes>
-    <node id="2" posx="614.000244140625" posy="285.49999999999977" width="204" height="46" side="right" fold="false" treesize="931.99999999999977" layout="Horizontal" group="false">
+    <node id="0" posx="614.000244140625" posy="573.00000000000045" width="204" height="46" side="left" fold="false" treesize="2097.9999999999995" layout="Horizontal" group="false">
       <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-      <nodename posx="628.000244140625" posy="299.49999999999977" maxwidth="200">
+      <nodename posx="628.000244140625" posy="587.00000000000045" maxwidth="200">
         <text data="Q13: The Names of God"/>
       </nodename>
       <nodenote></nodenote>
       <nodes>
-        <node id="3" posx="918.000244140625" posy="-157.5" width="217" height="118" side="right" fold="false" treesize="118" color="#d3d7cf" colorroot="true" layout="Horizontal" group="false">
+        <node id="1" posx="918.000244140625" posy="-452.99999999999932" width="217" height="118" side="right" fold="false" treesize="118" color="#d3d7cf" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="932.000244140625" posy="-143.5" maxwidth="200">
+          <nodename posx="932.000244140625" posy="-438.99999999999932" maxwidth="200">
             <text data="Article 10: Whether this name &quot;God&quot; is applied to God univocally by nature, by participation, and accoding to opinion"/>
           </nodename>
           <nodenote></nodenote>
         </node>
-        <node id="4" posx="918.000244140625" posy="1.5" width="54" height="63" side="right" fold="false" treesize="145" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+        <node id="2" posx="918.000244140625" posy="-275.99999999999932" width="215" height="334" side="right" fold="false" treesize="452" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="932.000244140625" posy="15.5" maxwidth="200">
-            <text data="O1:&#10;"/>
+          <nodename posx="932.000244140625" posy="-261.99999999999932" maxwidth="200">
+            <text data="O1:&#10;It seems &quot;God&quot; is applied to God univocally by nature, participation, and opinion. Equivocation prevents negation, ass diverse signification means there isn't a contradiction of affirmation and negation.&#10;A catholic who says &quot;an idol is not God&quot; contradicts a person who says &quot;an idol is God&quot;. Therefore God in both senses is spoken univocally"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="5" posx="1072.000244140625" posy="-17" width="215" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+            <node id="3" posx="1233.000244140625" posy="-334.99999999999955" width="221" height="316" side="right" fold="false" treesize="316" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1086.000244140625" posy="-3" maxwidth="200">
-                <text data="R1:&#10;divine nature only communicable in participation of similitude"/>
+              <nodename posx="1247.000244140625" posy="-320.99999999999955" maxwidth="200">
+                <text data="R1:&#10;Duplication of names depends on signification, not predication.&#10;both catholic and pagan contradict their meaning of God because they use this name to signify the true God, not in opinion. If it was in opinion, the pagan would be saying the truth, as Catholics also sometimes use the name God in this way (Ps. 95:5 &quot;All the gods of the Gentiles&quot;)"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="15" posx="1233.000244140625" posy="-18.999999999999545" width="208" height="136" side="right" fold="false" treesize="136" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1247.000244140625" posy="-4.9999999999995453" maxwidth="200">
+                <text data="Same  remark applies to O2 and O3. These reasons proceed from different predication of the name and not of significations"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="6" posx="918.000244140625" posy="177.99999999999977" width="54" height="63" side="right" fold="false" treesize="208" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+        <node id="4" posx="918.000244140625" posy="117.00000000000011" width="212" height="226" side="right" fold="false" treesize="226" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="932.000244140625" posy="191.99999999999977" maxwidth="200">
-            <text data="O2:&#10;"/>
+          <nodename posx="932.000244140625" posy="131.00000000000011" maxwidth="200">
+            <text data="O2:&#10;An idol is God in opinion, not in truth. e.g. enjoyment of carnal pleasure is hapiness in opinion but not truth. Yet &quot;beatitude&quot; is applied univocally to both, so as God is applied univocally to the true God and God in opinion"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="7" posx="1072.000244140625" posy="105.5" width="219" height="208" side="right" fold="false" treesize="208" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+            <node id="5" posx="1230.000244140625" posy="198.00000000000034" width="52" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1086.000244140625" posy="119.5" maxwidth="200">
-                <text data="R2:&#10;name &quot;God&quot; is appelattive, not proper, it singifies the divine nature. Although God is neither universal or particular, names do not follow upon the belief in things but in being as it is in out minds"/>
+              <nodename posx="1244.000244140625" posy="212.00000000000034" maxwidth="200">
+                <text data="R2:&#10;R1"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="8" posx="918.000244140625" posy="340.99999999999943" width="54" height="63" side="right" fold="false" treesize="118" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+        <node id="6" posx="918.000244140625" posy="343.00000000000011" width="220" height="262" side="right" fold="false" treesize="262" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="932.000244140625" posy="354.99999999999943" maxwidth="200">
-            <text data="O3:&#10;"/>
+          <nodename posx="932.000244140625" posy="357.00000000000011" maxwidth="200">
+            <text data="O3:&#10;names are univocal because they contain one idea. When a Catholic says &quot;there is one God&quot; they understand what they mean by God, while another understands the same when saying &quot;an idol is God&quot;.  Therefore, &quot;God&quot; is applied univocally to the true God and God in opinion"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="9" posx="1072.000244140625" posy="313.49999999999943" width="222" height="118" side="right" fold="false" treesize="118" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+            <node id="7" posx="1238.000244140625" posy="442.00000000000023" width="52" height="64" side="right" fold="false" treesize="64" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
               <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1086.000244140625" posy="327.49999999999943" maxwidth="200">
-                <text data="R3: these names are imposed from perfectio proceeding from God to creatures but don't signify divine nature."/>
+              <nodename posx="1252.000244140625" posy="456.00000000000023" maxwidth="200">
+                <text data="R3:&#10;R1"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="10" posx="918.000244140625" posy="431.49999999999966" width="219" height="172" side="right" fold="false" treesize="172" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+        <node id="8" posx="918.000244140625" posy="605.00000000000023" width="219" height="172" side="right" fold="false" treesize="172" color="#c6262e" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="932.000244140625" posy="445.49999999999966" maxwidth="200">
+          <nodename posx="932.000244140625" posy="619.00000000000023" maxwidth="200">
             <text data="OTC:&#10;word &quot;animal&quot; applied to a true animal, and picture of one, is equivocal. Therefore name &quot;God&quot; applied to the true God and to God in opinion is applied equivocally"/>
           </nodename>
           <nodenote></nodenote>
+          <nodes>
+            <node id="16" posx="1237.000244140625" posy="632.00000000000023" width="218" height="118" side="right" fold="false" treesize="118" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1251.000244140625" posy="646.00000000000023" maxwidth="200">
+                <text data="R4:&#10;Term animal is not purely equivocal. This is a broad view of equivocal inluding analogous names."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
         </node>
-        <node id="11" posx="918.000244140625" posy="603.49999999999977" width="86" height="63" side="right" fold="false" treesize="63" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+        <node id="9" posx="918.000244140625" posy="777.00000000000068" width="220" height="316" side="right" fold="false" treesize="316" color="#c6262e" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="932.000244140625" posy="617.49999999999977" maxwidth="200">
-            <text data="Further:&#10;"/>
+          <nodename posx="932.000244140625" posy="791.00000000000068" maxwidth="200">
+            <text data="Further:&#10;No one can signify what they do not know, but the heathen doesn't know the divine nature. So when they say &quot;an idol is God&quot; they so not signify the true Deity. But the Catholic does know the divine and so signifies the true Deity when they say there is one God. This name &quot;God&quot; is applied equivocally to the true God and to God according to opinion"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="17" posx="1238.000244140625" posy="786.00000000000068" width="222" height="298" side="right" fold="false" treesize="298" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1252.000244140625" posy="800.00000000000068" maxwidth="200">
+                <text data="R3:&#10;Neither knows the true nature of God as it is in itself, but each knows it according to some idea of causality, excellence, or remotion. So both can take the name God in the same way as the other, but one who knows nothing of God altogether could not even name God. Unless we use names the meaning of which we don't know"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="10" posx="918.000244140625" posy="1093.0000000000002" width="223" height="280" side="right" fold="false" treesize="280" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="932.000244140625" posy="1107.0000000000002" maxwidth="200">
+            <text data="IAT:&#10;God is not talked about equivocally or univocally, but analogically.&#10;Univocal terms mean absolutely the same thing, but equivocal terms absolutely different.&#10;In analogical terms a word taken in one signification must be placed in the definition of the same word in another definition's sense"/>
           </nodename>
           <nodenote></nodenote>
         </node>
-        <node id="14" posx="918.000244140625" posy="666.49999999999977" width="53" height="63" side="right" fold="false" treesize="63" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
+        <node id="11" posx="918.000244140625" posy="1441.0000000000002" width="217" height="136" side="right" fold="false" treesize="272" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
           <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="932.000244140625" posy="680.49999999999977" maxwidth="200">
-            <text data="IAT:&#10;"/>
+          <nodename posx="932.000244140625" posy="1455.0000000000002" maxwidth="200">
+            <text data="This name &quot;God&quot; signifies the true God includes the idea of God when it is used to denote opinion or participation.&#10;When we call someone"/>
           </nodename>
           <nodenote></nodenote>
-        </node>
-        <node id="15" posx="918.000244140625" posy="729.49999999999977" width="28" height="45" side="right" fold="false" treesize="45" color="#7dcf6f" colorroot="true" layout="Horizontal" group="false">
-          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="932.000244140625" posy="743.49999999999977" maxwidth="200">
-            <text data=""/>
-          </nodename>
-          <nodenote></nodenote>
+          <nodes>
+            <node id="12" posx="1235.000244140625" posy="1373.0000000000002" width="208" height="100" side="right" fold="false" treesize="100" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1249.000244140625" posy="1387.0000000000002" maxwidth="200">
+                <text data="God by participation, we say they have in them some likeness to true God. Analogically"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="13" posx="1235.000244140625" posy="1473.0000000000002" width="222" height="172" side="right" fold="false" treesize="172" color="#7dcf6f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1249.000244140625" posy="1487.0000000000002" maxwidth="200">
+                <text data="God by opinion, e.g. idol, we understanf it signifies something one thinks fo as God,so manifest the name in different meanings but one of them is in other significations. Analogically."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
         </node>
       </nodes>
     </node>
