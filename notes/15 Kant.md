@@ -2,7 +2,7 @@
 tags: [phil/phil of religion/02 arguments]
 title: 15 Kant
 created: '2020-11-27T10:56:02.049Z'
-modified: '2020-11-27T11:30:00.141Z'
+modified: '2021-01-31T19:38:00.240Z'
 ---
 
 # 15 Kant
@@ -26,7 +26,7 @@ Kant holds that
   - Saying something does not exist is not a contradiction
 
 
-Underneath this is the distinction Kant makes between the Noumenal and the Phenomenal
+Underneath this is the distinction Kant makes a distinction between the Noumenal and the Phenomenal
   - noumenal is things as they are (reality)
   - phenomenal is things as we experience them (experienced)
 We cannot know god in the noumenal. The line between the phenomenal and the noumenal is impenetrable

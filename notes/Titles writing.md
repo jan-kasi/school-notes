@@ -1,8 +1,8 @@
 ---
-tags: [en/skills]
+tags: [en/poetry, en/skills, en/writing]
 title: Titles writing
 created: '2021-01-27T21:56:29.790Z'
-modified: '2021-01-27T21:56:34.504Z'
+modified: '2021-01-29T14:20:29.635Z'
 ---
 
 # Titles writing
