@@ -2,7 +2,7 @@
 tags: [phil/core theme/03 mind and body]
 title: 04 Materialism
 created: '2021-01-20T12:40:17.489Z'
-modified: '2021-01-20T16:43:36.153Z'
+modified: '2021-02-01T10:05:20.961Z'
 ---
 
 # 04 Materialism
@@ -23,7 +23,7 @@ modified: '2021-01-20T16:43:36.153Z'
 
 ### Naturalism
 
-- leads to monism
+- leads to monism? Not necessarily
 - gradual development in knowledge
 - arguments abstracted from real world experience have little value as the individual is assumed to be part of the physical world
 - philosophy needs to support and clarify neuroscience

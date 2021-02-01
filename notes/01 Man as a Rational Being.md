@@ -2,7 +2,7 @@
 tags: [phil/core theme/02 human nature]
 title: 01 Man as a Rational Being
 created: '2020-11-10T16:11:36.623Z'
-modified: '2021-01-14T09:14:01.472Z'
+modified: '2021-02-01T09:55:58.582Z'
 ---
 
 # 01 Man as a Rational Being
@@ -32,11 +32,6 @@ Objectivity, autonomy, self evidence?
 
 
 Specism?
-
-Hard problem of consciousness?
-
-
-
 ## Frankfurt sausage
 
 - Freedom of Action: acting out desire
@@ -78,7 +73,7 @@ We can build a system of knowledge from self-evident truths
 - Everything either is, or is not
 - Nothing happens without a reason
 
-Rationalists argue that to deny there is absurd. They underpin our reasoning and allow us to look objectively at the world.
+Rationalists argue that to deny these is absurd. They underpin our reasoning and allow us to look objectively at the world.
 
 They underpin our reasoning and allow us to look objectively at the world.
 

@@ -2,7 +2,7 @@
 tags: [phil/core theme/02 human nature]
 title: 04 Man as an Irrational Animal
 created: '2020-11-18T12:22:26.254Z'
-modified: '2021-01-14T09:14:23.259Z'
+modified: '2021-02-01T10:03:35.697Z'
 ---
 
 # 04 Man as an Irrational Animal
@@ -42,8 +42,6 @@ ranking
 4. mate selection 
 ^ those are all good tbh
 
-
-5. morality --- depends on what you think it is ._.
-   also that "altruism=irrational" moment was kind of cringe, mutual aid? stupid point? 
-6. *male* competitiveness and agression
-
+5. male competitiveness and agression
+6. morality --- depends on what you think it is ._.
+   also that "altruism=irrational" moment from other students was kind of cringe... 
