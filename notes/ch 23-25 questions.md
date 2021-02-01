@@ -1,11 +1,11 @@
 ---
 tags: [en/texts/Candide]
-title: ch 23-25
+title: ch 23-25 questions
 created: '2021-01-25T14:34:55.360Z'
-modified: '2021-01-25T15:02:43.735Z'
+modified: '2021-01-31T21:58:24.604Z'
 ---
 
-# ch 23-25
+# ch 23-25 questions
 ## 23
 ### How does Voltaire present England?
 Voltaire presents England as wasting too much money on unnecessary wars and as carrying out injustices to appease the public.
