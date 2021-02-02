@@ -1,8 +1,8 @@
 ---
-tags: [en/skills]
+tags: [en/poetry, en/skills]
 title: I Go Back to May 1937
 created: '2021-02-01T09:19:28.081Z'
-modified: '2021-02-01T09:26:16.363Z'
+modified: '2021-02-02T11:18:20.955Z'
 ---
 
 # I Go Back to May 1937
@@ -54,8 +54,8 @@ Voice is conflicted, wants to be able to stop suffering but can't because she is
 1. Sum up the speaker’s attitude in one or two words. Identify specific words or phrases from the poem which reflect this attitude. 
    - Helplessness?  Trying to be assertive and in control, but isn’t.
 2. What sort of mood or atmosphere is created by the speaker’s tone? In other words, how do you, as the reader, feel when reading the poem? 
-   - Despair, she knows whats going to happen and feels like she is the cause of it. Conflicted, she wants to live but also doesn’t want to
+   - Desperation in the narrator’s voice, she needs to change it. But also hopelessness because she knows whats going to happen and it already has, there is no changing it. She feels like she is the cause of it. Conflicted, she wants to live but also doesn’t want to.
 3. How does repetition reinforce tone or mood? 
    - “I see… | I see…” anaphora, she can only see? -> helpless
    - “you are going to”, hopeless that this is *going* to happen, future tense, but also an active imperative so she feels responsible for it
-   - 
+   - pronouns
