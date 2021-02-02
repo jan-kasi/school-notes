@@ -6,7 +6,7 @@ modified: '2021-01-31T21:45:36.783Z'
 ---
 
 # NCH 2021 Philosophy
-
+Original essay written for NCH competition, uploaded to my notes repository for backup and future reference.
 ## Should robots have rights? Why or why not?
 
 The question of this essay becomes more pressing with rapid development in general artificial intelligence and related areas, such as advanced perception-sensors and natural language processing. With the approaching possibility of discovering how far technology can truly go, perhaps a new conception of rights must emerge, similar to past advancements in rights theory to include animals. I attempt to form a new possible framework of rights for which to analyse at what point robots should morally have rights.
