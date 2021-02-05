@@ -1,11 +1,11 @@
 ---
 tags: [phil/phil of religion/03 language]
-title: Aquinas and Maimonides
+title: 12 Aquinas and Maimonides
 created: '2021-02-05T11:36:06.088Z'
-modified: '2021-02-05T11:41:46.199Z'
+modified: '2021-02-05T12:21:03.516Z'
 ---
 
-# Aquinas and Maimonides
+# 12 Aquinas and Maimonides
 ![1](../maps/MandDeb.svg)
 ![2](../maps/AMBack.svg)
 ![3](../maps/AM1.svg)
