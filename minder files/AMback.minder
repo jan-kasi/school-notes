@@ -1,0 +1,590 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-266" y="-182.5" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="1041" posy="672.49999999999977" width="86" height="46" side="right" fold="false" treesize="869" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1055" posy="686.49999999999977" maxwidth="200">
+        <text data="Aquinas"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="1227" posy="261.00000000000006" width="175" height="46" side="right" fold="false" treesize="46" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1241" posy="275.00000000000006" maxwidth="200">
+            <text data="analogous language"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="2" posx="1227" posy="392.50000000000006" width="206" height="118" side="right" fold="false" treesize="289" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1241" posy="406.50000000000006" maxwidth="200">
+            <text data="Distinction betwwen signified by name (res significata) and mode of signification (modus significandi)."/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="3" posx="1533" posy="307.00000000000006" width="220" height="171" side="right" fold="false" treesize="171" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1547" posy="321.00000000000006" maxwidth="200">
+                <text data="Res significata belongs properly to God and more to God than to creatures.&#10;Applied primarily to God.&#10;&#10;These refer to perfections of God and can be applied non-metaphorically."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="4" posx="1533" posy="477.99999999999977" width="219" height="118" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1547" posy="491.99999999999977" maxwidth="200">
+                <text data="Modus significandi don't apply properly to God, they apply primarily to creatures and secondarily to God"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="5" posx="1227" posy="699.99999999999977" width="166" height="64" side="right" fold="false" treesize="272" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1241" posy="713.99999999999977" maxwidth="200">
+            <text data="characterisation of Maimonides"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="6" posx="1493" posy="595.99999999999977" width="202" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1507" posy="609.99999999999977" maxwidth="200">
+                <text data="A rejects the causal interpretation of names and M's via negativa"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="7" posx="1493" posy="713.99999999999977" width="216" height="118" side="right" fold="false" treesize="190" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1507" posy="727.99999999999977" maxwidth="200">
+                <text data="A states that M thinks all affirmative statements of God are to be interpreted as negations of what God is not."/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="8" posx="1809" posy="677.99999999999977" width="220" height="190" side="right" fold="false" treesize="190" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1823" posy="691.99999999999977" maxwidth="200">
+                    <text data="Rejects for 3 reasons:&#10;1. No reason why some names rather than others are said of God&#10;2. Would mean all names are said of God in a secondary sense&#10;3. Against the intention of speaking about God">
+                      <color>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="23" end="25" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="86" end="88" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                        <range start="147" end="149" extra="rgb(255,0,0)"/>
+                      </color>
+                    </text>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="9" posx="1227" posy="867.99999999999977" width="222" height="262" side="right" fold="false" treesize="262" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1241" posy="881.99999999999977" maxwidth="200">
+            <text data="Characterisation:&#10;A is incorrect about M interpeting all affirmative statements as negations, because of Divine actions. But, it is correct to say that even when M applies an action to God, he denies the name can be said properly of God. So Aquinas' characterisation does reflect the view when seen this way "/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

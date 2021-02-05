@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-453.8837890625" y="-767.45098876953125" scale="0.5"/>
+  <images/>
+  <nodes>
+    <node id="31" posx="1434.77294921875" posy="461.6610107421875" width="113" height="46" side="left" fold="false" treesize="364" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1448.77294921875" posy="475.6610107421875" maxwidth="200">
+        <text data="The Debate"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="32" posx="1647.77294921875" posy="375.6610107421875" width="194" height="100" side="right" fold="false" treesize="246" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1661.77294921875" posy="389.6610107421875" maxwidth="200">
+            <text data="Three approaches to religious language emerged in the middle ages"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="33" posx="1941.77294921875" posy="311.6610107421875" width="200" height="64" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1955.77294921875" posy="325.6610107421875" maxwidth="200">
+                <text data="equivocal between God and creatures"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="34" posx="2241.77294921875" posy="302.6610107421875" width="201" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2255.77294921875" posy="316.6610107421875" maxwidth="200">
+                    <text data="God is not good in the same way a creature is good"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="35" posx="1941.77294921875" posy="393.6610107421875" width="223" height="64" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1955.77294921875" posy="407.6610107421875" maxwidth="200">
+                <text data="univocal between God and creatures"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="36" posx="2264.77294921875" posy="384.6610107421875" width="207" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2278.77294921875" posy="398.6610107421875" maxwidth="200">
+                    <text data="God is good in the same sense as a creature is good"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="37" posx="1941.77294921875" posy="475.6610107421875" width="205" height="64" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1955.77294921875" posy="489.6610107421875" maxwidth="200">
+                <text data="analogous between God and creatures"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="38" posx="2246.77294921875" posy="466.6610107421875" width="193" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2260.77294921875" posy="480.6610107421875" maxwidth="200">
+                    <text data="God is good in an analogous way to how creatures are good"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="39" posx="1647.77294921875" posy="584.6610107421875" width="150" height="46" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1661.77294921875" posy="598.6610107421875" maxwidth="200">
+            <text data="Divine Simplicity"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="40" posx="1897.77294921875" posy="548.6610107421875" width="200" height="118" side="right" fold="false" treesize="118" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1911.77294921875" posy="562.6610107421875" maxwidth="200">
+                <text data="God is one single essense, God does not have any kind of composition nor can be divided into parts"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+    <node id="22" posx="1431.77294921875" posy="1257.4509887695312" width="116" height="46" side="left" fold="false" treesize="1085" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1445.77294921875" posy="1271.4509887695312" maxwidth="200">
+        <text data="Maimonides"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="23" posx="1647.77294921875" posy="737.95098876953125" width="224" height="189" side="right" fold="false" treesize="189" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1661.77294921875" posy="751.95098876953125" maxwidth="200">
+            <text data="Existence is an &quot;accident&quot; which attaches onto essence, except onto God.&#10;&#10;God doesn't have any composition, nor accident of existence, nor attribute  which might attach to essence"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="24" posx="1971.77294921875" posy="764.45098876953125" width="218" height="136" side="right" fold="false" treesize="136" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1985.77294921875" posy="778.45098876953125" maxwidth="200">
+                <text data="God's existence is identical to his essence, there is no difference between &quot;what he is&quot; and &quot;that he is&quot;. God's existence is necessary"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="25" posx="1647.77294921875" posy="1351.9509887695317" width="125" height="46" side="right" fold="false" treesize="896" color="#24c0e2" colorroot="true" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1661.77294921875" posy="1365.9509887695317" maxwidth="200">
+            <text data="Divine Action"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="26" posx="1872.77294921875" posy="926.95098876953125" width="226" height="64" side="right" fold="false" treesize="64" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1886.77294921875" posy="940.95098876953125" maxwidth="200">
+                <text data="God's actions can be said in the possitive affirmative"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="27" posx="1872.77294921875" posy="990.95098876953125" width="223" height="190" side="right" fold="false" treesize="190" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1886.77294921875" posy="1004.9509887695312" maxwidth="200">
+                <text data="Actions can be attributed to God because they don't add anything to God's essence, unlike qualities (&quot;God is not bad&quot; does't *add* goodness to God, &quot;God is good&quot; *does* unless interpreted as negation)"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="28" posx="1872.77294921875" posy="1180.9509887695312" width="224" height="298" side="right" fold="false" treesize="298" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1886.77294921875" posy="1194.9509887695312" maxwidth="200">
+                <text data="These actions are equivocal to creatures'. God is not merciful in the same way as creatures are. Even when we apply &quot;merciful&quot; to God as God acting in merciful ways, we are interpreting a Divine Action (not a quality) and giving it to God as a name, but it is not the same as a creatures (for the creature does have qualities of being merciful)"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="29" posx="1872.77294921875" posy="1478.9509887695317" width="221" height="244" side="right" fold="false" treesize="244" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1886.77294921875" posy="1492.9509887695317" maxwidth="200">
+                <text data="Actions don't require features in the agent. e.g. fire can cook, dry, heat, bleach, blacken, etc.&#10;It does all this by onw power of the agent (fire), namely HEAT. There is nothing new introduced to the essence of fire by saing it can cook and bleach, nor two needed qualities."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="30" posx="1872.77294921875" posy="1722.9509887695317" width="202" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1886.77294921875" posy="1736.9509887695317" maxwidth="200">
+                <text data="Becauseactions are applied equivocally of God, they are denied of him."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

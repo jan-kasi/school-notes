@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<minder version="1.11.3">
+  <theme name="default" label="Default" index="0"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-139.61376953125" y="500.66290283203125" scale="0.5"/>
+  <images/>
+  <nodes>
+    <node id="34" posx="1131.458984375" posy="1067.0153808593718" width="220" height="171" side="right" fold="false" treesize="1620" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1145.458984375" posy="1081.0153808593718" maxwidth="200">
+        <text data="3. Strongest objection:&#10;M's approach results in silence about God; and an equivocal approach eliminates the possibility of demonstrations about God.&#10;">
+          <color>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+            <range start="0" end="2" extra="rgb(255,0,0)"/>
+          </color>
+        </text>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="50" posx="1451.458984375" posy="342.51538085937364" width="213" height="172" side="right" fold="false" treesize="172" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1465.458984375" posy="356.51538085937364" maxwidth="200">
+            <text data="&quot;aginst the intention of those who speak about God. Nameley, when it is sais, 'God is living', they intend to say more than, 'He is the cause of our life,' or that, 'He differs from inanimate bodies.'&quot;"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="51" posx="1451.458984375" posy="1170.5153808593718" width="199" height="136" side="right" fold="false" treesize="1448" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1465.458984375" posy="1184.5153808593718" maxwidth="200">
+            <text data="in Ia.13.5., A argues an equivocal approach removes any demonstrations about God *from creatures* impossible"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="52" posx="1750.458984375" posy="514.51538085937364" width="220" height="244" side="right" fold="false" treesize="244" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1764.458984375" posy="528.51538085937364" maxwidth="200">
+                <text data="If all langugae about God was equivocal, &quot;always the demonstrations would be vulnerable to the fallacy of equivocation. And this is both against the philosophers...and what the Apostle says: *The invisible things of God are made visible by the things that have been made*.&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="53" posx="1750.458984375" posy="758.51538085937364" width="222" height="172" side="right" fold="false" treesize="172" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1764.458984375" posy="772.51538085937364" maxwidth="200">
+                <text data="Fallacy of equivocation:&#10;any syllogism containing an equivocation would be invalid because it would contain four terms. There would be no single middle term through which to link the premises."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="54" posx="1750.458984375" posy="930.51538085937182" width="219" height="100" side="right" fold="false" treesize="100" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1764.458984375" posy="944.51538085937182" maxwidth="200">
+                <text data="Given M's interetation of divine names, there could be no proofs of God's exiistencce."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="55" posx="1750.458984375" posy="1455.5153808593705" width="219" height="82" side="right" fold="false" treesize="932" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1764.458984375" posy="1469.5153808593705" maxwidth="200">
+                <text data="Given M's interpretations, we would be forced into silence."/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="56" posx="2069.458984375" posy="1030.5153808593718" width="216" height="136" side="right" fold="false" treesize="136" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2083.458984375" posy="1044.5153808593718" maxwidth="200">
+                    <text data="If all names are applied equivocally, and we don't know their meaning, we can't say anything about God. This provides a dilema."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="57" posx="2069.458984375" posy="1166.5153808593718" width="222" height="262" side="right" fold="false" treesize="262" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2083.458984375" posy="1180.5153808593718" maxwidth="200">
+                    <text data="Either the majority of the Judeo-Christian traditions are correct in assuming truths about God can be communicated about in the affirmative, or they are incorrect.&#10;If they are correct, then M is wrong.&#10;If hey are incorrect, them M might be right, but then he is opposed to his own traditions."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="58" posx="2069.458984375" posy="1428.5153808593705" width="220" height="82" side="right" fold="false" treesize="82" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2083.458984375" posy="1442.5153808593705" maxwidth="200">
+                    <text data="M would hold we should still speak about God, and that he is right."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="59" posx="2069.458984375" posy="1510.5153808593695" width="222" height="226" side="right" fold="false" treesize="226" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2083.458984375" posy="1524.5153808593695" maxwidth="200">
+                    <text data="M claims God is the creator, i.e. God produces effects in the universe so we attribute the Divine Action of creation to him.&#10;BUT, this is applied equivocally to God.&#10;FURTHER, when something is applied equivocally to God, we can't know what it means."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="60" posx="2069.458984375" posy="1736.5153808593705" width="222" height="226" side="right" fold="false" treesize="226" color="#24c0e2" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="2083.458984375" posy="1750.5153808593705" maxwidth="200">
+                    <text data="M cannot really claim to know what names of God actually mean, and can't provove God, and is opposed to his tradition, and is possibly folly to the reductio, and doesn't consistently apply his prinicples, and can't say anything about God, but still does all this."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>
