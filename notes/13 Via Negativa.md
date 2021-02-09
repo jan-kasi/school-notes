@@ -1,11 +1,11 @@
 ---
 tags: [phil/phil of religion/03 language]
-title: 13 Via Negative
+title: 13 Via Negativa
 created: '2021-02-05T12:20:47.017Z'
-modified: '2021-02-05T13:00:45.667Z'
+modified: '2021-02-08T10:47:57.222Z'
 ---
 
-# 13 Via Negative
+# 13 Via Negativa
 
 ## Statements
 "God is not evil" -> Rejecting the idea that God's essence contains evil
