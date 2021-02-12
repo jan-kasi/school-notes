@@ -2,7 +2,7 @@
 tags: [phil/phil of religion/03 language]
 title: 10 Tillich symbols of faith
 created: '2021-01-31T21:43:38.683Z'
-modified: '2021-02-01T11:47:10.805Z'
+modified: '2021-02-10T09:51:56.616Z'
 ---
 
 # 10 Tillich symbols of faith
@@ -10,6 +10,8 @@ modified: '2021-02-01T11:47:10.805Z'
 ## Chapter 3: Symbols of Faith
 
 Humanity’s ultimate concern must be symbolically expressed
+
+***Equivocal***
 
 ### Symbols
 
