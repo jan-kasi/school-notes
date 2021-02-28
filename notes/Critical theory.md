@@ -1,8 +1,8 @@
 ---
-tags: [en/skills, en/writing]
+tags: [en/skills]
 title: Critical theory
 created: '2020-11-23T15:18:54.205Z'
-modified: '2021-01-27T21:57:43.572Z'
+modified: '2021-02-26T14:55:33.416Z'
 ---
 
 # Critical theory
@@ -14,7 +14,7 @@ modified: '2021-01-27T21:57:43.572Z'
 
 
 - ***DON'T*** list all the theories you know and say what they would say
-  - not "a feminist critic would see...however a poststructuralist...and a psychoanalytic/analytic psychologistt would..."
+  - not "a feminist critic would see...however a poststructuralist...and a psychoanalytic would say... while analytic psychologist would...marxist would..."
 - instead:
   - notice these themes and integrate them into your writing as your own, noticing as you do the critical theory you're using
   - be aware of theories to inform what you will discuss
