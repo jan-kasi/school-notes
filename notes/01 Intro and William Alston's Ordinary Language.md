@@ -1,11 +1,11 @@
 ---
 tags: [phil/phil of religion/03 language]
-title: 01 Language
+title: 01 Intro and William Alston's Ordinary Language
 created: '2021-01-11T10:48:50.119Z'
-modified: '2021-01-28T23:17:42.004Z'
+modified: '2021-02-28T18:24:58.482Z'
 ---
 
-# 01 Language
+# 01 Intro and William Alston's Ordinary Language
 
 ## How can we meaningfully talk about God?
 
@@ -50,7 +50,9 @@ Thinkers might quickly reject univocal language:
 - we are physically limited beings, whereas God is not. Therefore descriptions of us cannot apply to God
 - God is transcendent—we cannot understand God, therefore we can never know what God is
 
-Alston challenges this assumption, he advocated for partially univocal language.
+Assumption made: ordinary language cannot talk meaningfully about reigious concepts because it is not possibl ehtat religious terms point to the same thing as their ordinary language equivalent.
+
+Alston challenges this assumption, he advocated for partially univocal language. We can partially univocally talk about God with ordinary language.
 
 - We are physically limited being, whereas God is not
 - However, two different things can possess the same feature but in different ways
@@ -96,4 +98,4 @@ BUT:
   - that transcendence means we cannot know **anything**
   - that knowledge must be absolutely certain
   - that knowing the function means we know the nature
-    - does Alston make this claim? No—counter point.
+    - counter point: does Alston make this claim? No. Indeed, perhaps posing this question is misunderstannding Alston...
