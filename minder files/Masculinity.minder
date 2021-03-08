@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<minder version="1.12.0">
+  <theme name="solarized_light" label="Solarized Light" index="0"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="472.23684210330248" y="253.15789473615587" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="334.47897820919752" posy="229.45697342790663" width="111" height="46" side="left" fold="false" treesize="1578" layout="Horizontal" group="false">
+      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="348.47897820919752" posy="243.45697342790663" maxwidth="200">
+        <text data="Masculinity"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="4" posx="545.47897820919752" posy="134.45697342790663" width="81" height="46" side="right" fold="false" treesize="1388" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="559.47897820919752" posy="148.45697342790663" maxwidth="200">
+            <text data="Noboru"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="13" posx="726.47897820919752" posy="-536.54302657209337" width="163" height="64" side="right" fold="false" treesize="64" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="740.47897820919752" posy="-522.54302657209337" maxwidth="200">
+                <text data="masculinity as the sexually divine"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="16" posx="726.47897820919752" posy="-472.54302657209337" width="106" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="740.47897820919752" posy="-458.54302657209337" maxwidth="200">
+                <text data="asceticism"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="1" posx="726.47897820919752" posy="-426.54302657209337" width="221" height="406" side="right" fold="false" treesize="406" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="740.47897820919752" posy="-412.54302657209337" maxwidth="200">
+                <text data="p7&#10;&quot;He never cried, not even in his dreams, for hardheartedness was a point of pride. A large iron anchor withstanding the corrosion of the sea and scornful of the barnacles and oysters that harass the hulls of ships, sinking polished and indifferent through heaps of broken glass, toothless combs, bottle caps, and prophylactics into the mud at harbor bottom -- that was how he liked to imagine his heart. Someday he would have an anchor tatooed on his chest&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="3" posx="726.47897820919752" posy="-20.543026572093368" width="219" height="172" side="right" fold="false" treesize="172" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="740.47897820919752" posy="-6.5430265720933676" maxwidth="200">
+                <text data="p9&#10;&quot;his body looked younger and more solid than any landsman's: it might have been cast in the matrix of the sea...lustrus temple tower soared triumphantly erect&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="11" posx="726.47897820919752" posy="478.45697342790663" width="151" height="46" side="right" fold="false" treesize="700" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="740.47897820919752" posy="492.45697342790663" maxwidth="200">
+                <text data="chief and noboru"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="9" posx="977.47897820919752" posy="151.45697342790663" width="55" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="991.47897820919752" posy="165.45697342790663" maxwidth="200">
+                    <text data="p45"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="14" posx="977.47897820919752" posy="197.45697342790663" width="212" height="154" side="right" fold="false" treesize="154" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="991.47897820919752" posy="211.45697342790663" maxwidth="200">
+                    <text data="p39&#10;&quot;&quot;he appealed directly to the intellect. To begin with, he maintained that their genitals were for copulating with the stars in the milky way&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="15" posx="977.47897820919752" posy="351.45697342790663" width="219" height="154" side="right" fold="false" treesize="154" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="991.47897820919752" posy="365.45697342790663" maxwidth="200">
+                    <text data="p40&#10;&quot;This kind of hallowed raving enchanted them and they distained their classmates, foolish, dirty, pitiful boys brimming with curiosity about sex.&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="17" posx="977.47897820919752" posy="505.45697342790663" width="213" height="82" side="right" fold="false" treesize="82" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="991.47897820919752" posy="519.45697342790663" maxwidth="200">
+                    <text data="obtains pornography to 'train them' in &quot;&quot;absolute dispassion&quot;&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="18" posx="977.47897820919752" posy="587.45697342790663" width="217" height="118" side="right" fold="false" treesize="118" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="991.47897820919752" posy="601.45697342790663" maxwidth="200">
+                    <text data="&quot;I think we can finally say this has finally made a real man of you--and isn't all this blood a sight for sore eyes&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="19" posx="977.47897820919752" posy="737.45697342790663" width="202" height="82" side="right" fold="false" treesize="146" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="991.47897820919752" posy="751.45697342790663" maxwidth="200">
+                    <text data="&quot;You're daydreaming as you eat, aren't you? That's a child's habit.&quot;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="20" posx="1279.4789782091975" posy="705.45697342790663" width="188" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1293.4789782091975" posy="719.45697342790663" maxwidth="200">
+                        <text data="Ryuji is a daydreamer"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="21" posx="1279.4789782091975" posy="751.45697342790663" width="196" height="100" side="right" fold="false" treesize="100" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                      <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1293.4789782091975" posy="765.45697342790663" maxwidth="200">
+                        <text data="Fusako doesn't want a &quot;dreamer&quot; or someone who will be a financial burden"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="6" posx="545.47897820919752" posy="923.45697342790663" width="63" height="46" side="right" fold="false" treesize="190" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="559.47897820919752" posy="937.45697342790663" maxwidth="200">
+            <text data="Ryuji"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="7" posx="708.47897820919752" posy="851.45697342790663" width="216" height="190" side="right" fold="false" treesize="190" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="squared" nodewidth="200" nodeborderwidth="2" nodefill="true" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="722.47897820919752" posy="865.45697342790663" maxwidth="200">
+                <text data="p28&#10;&quot;a man encounters the perfect woman ... and in every case death interposes&quot;&#10;&quot;In the grand dream Ryuji had treassured secretly for so long, he was a paragon of manliness&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

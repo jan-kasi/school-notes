@@ -2,7 +2,7 @@
 tags: [phil/phil of religion/03 language]
 title: 11 Tillich
 created: '2021-02-01T11:40:02.321Z'
-modified: '2021-02-28T21:40:42.168Z'
+modified: '2021-03-03T10:26:41.784Z'
 ---
 
 # 11 Tillich
@@ -24,8 +24,9 @@ Three things are required
 Symbols change, but this is just because the change of cultural interaction with the divine.
 
 
-Symbolic language doesn't go through the divine to you, it is the attempt to discuss the divine through you to the divine. It expressedg the ideology and there is no true objective connection to the divine, just a meaningful discussion. You interact with the divine through the symbol, but don't access some truth about the divine.
-It is not talking about God, it is expressing the truths held of the religious.
+Symbolic language doesn't go through the divine to you, it is the attempt to discuss the divine through you to the divine. It expresseding the ideology and there is no true objective connection to the divine but to the symbol, just a meaningful discussion. You interact with the divine through the symbol.
+It is not talking about God, it is expressing the truths held of the religious and participating in the symbol to access the indescribable.
+You can know God and access the deeper truth by participating in the symbol, you do not rach the divine, but the symbol you interact with does.
 
 Difference with analogous language. Analogous language means that we get to God by comparison.
 
