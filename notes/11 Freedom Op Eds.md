@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 11 Freedom Op Eds
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-10-05T18:29:24.230Z'
-modified: '2021-01-14T09:13:22.340Z'
+modified: '2021-03-10T22:26:27.476Z'
 ---
 
 # 11 Freedom Op Eds

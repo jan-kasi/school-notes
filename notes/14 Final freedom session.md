@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 14 Final freedom session
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-11-05T15:50:10.993Z'
-modified: '2021-01-14T09:12:42.811Z'
+modified: '2021-03-10T22:26:27.477Z'
 ---
 
 # 14 Final freedom session

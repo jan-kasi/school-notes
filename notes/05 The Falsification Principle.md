@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/03 language]
 title: 05 The Falsification Principle
+tags: [Notebooks/Philosophy/phil of religion/03 language, phil]
 created: '2021-01-18T11:34:04.960Z'
-modified: '2021-01-18T12:09:20.349Z'
+modified: '2021-03-10T22:26:27.474Z'
 ---
 
 # 05 The Falsification Principle

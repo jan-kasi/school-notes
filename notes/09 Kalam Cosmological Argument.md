@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/02 arguments]
 title: 09 Kalam Cosmological Argument
+tags: [Notebooks/Philosophy/phil of religion/02 arguments, phil]
 created: '2020-11-16T11:39:36.534Z'
-modified: '2020-11-16T12:09:06.190Z'
+modified: '2021-03-10T22:26:27.475Z'
 ---
 
 # 09 Kalam Cosmological Argument

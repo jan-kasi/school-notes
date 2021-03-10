@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/02 arguments]
 title: 13 Ontological Notes
+tags: [Notebooks/Philosophy/phil of religion/02 arguments, phil]
 created: '2020-11-25T10:55:18.519Z'
-modified: '2020-11-25T10:57:46.377Z'
+modified: '2021-03-10T22:26:27.476Z'
 ---
 
 # 13 Ontological Notes

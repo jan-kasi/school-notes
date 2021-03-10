@@ -1,8 +1,8 @@
 ---
-tags: [en/skills]
 title: Diction
-created: '2021-02-02T011:04:28.081Z'
-modified: '2021-02-02T11:20:16.363Z'
+tags: [en, Notebooks/English/skills]
+created: '2021-02-02T11:03:51.422Z'
+modified: '2021-03-10T22:25:54.864Z'
 ---
 
 # Diction

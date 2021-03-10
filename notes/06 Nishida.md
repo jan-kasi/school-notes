@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 06 Nishida
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-10-05T10:07:05.394Z'
-modified: '2021-01-14T09:13:08.299Z'
+modified: '2021-03-10T22:26:27.474Z'
 ---
 
 # 06 Nishida

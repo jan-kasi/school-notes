@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/01 nature of god]
 title: Eternal
+tags: [Notebooks/Philosophy/phil of religion/01 nature of god, phil]
 created: '2020-09-20T19:17:54.320Z'
-modified: '2020-11-12T21:30:26.938Z'
+modified: '2021-03-10T22:26:27.479Z'
 ---
 
 # Eternal

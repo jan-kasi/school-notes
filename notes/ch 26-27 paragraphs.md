@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Candide, en/writing]
 title: ch 26-27 paragraphs
+tags: [en, Notebooks/English/texts/Candide, Notebooks/English/writing]
 created: '2021-01-26T11:43:47.957Z'
-modified: '2021-02-03T09:24:54.392Z'
+modified: '2021-03-10T22:25:54.864Z'
 ---
 
 # ch 26-27 paragraphs

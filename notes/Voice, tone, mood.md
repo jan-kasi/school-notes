@@ -1,8 +1,8 @@
 ---
-tags: [en/skills]
-title: 'Voice, tone, mood'
+title: Voice, tone, mood
+tags: [en, Notebooks/English/skills]
 created: '2021-01-29T14:20:45.001Z'
-modified: '2021-01-29T14:47:40.247Z'
+modified: '2021-03-10T22:25:54.867Z'
 ---
 
 # Voice, tone, mood

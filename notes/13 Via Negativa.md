@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/03 language]
 title: 13 Via Negativa
+tags: [Notebooks/Philosophy/phil of religion/03 language, phil]
 created: '2021-02-05T12:20:47.017Z'
-modified: '2021-02-08T10:47:57.222Z'
+modified: '2021-03-10T22:26:27.477Z'
 ---
 
 # 13 Via Negativa

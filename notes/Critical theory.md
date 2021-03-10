@@ -1,8 +1,8 @@
 ---
-tags: [en/skills]
 title: Critical theory
+tags: [en, Notebooks/English/skills]
 created: '2020-11-23T15:18:54.205Z'
-modified: '2021-02-26T14:55:33.416Z'
+modified: '2021-03-10T22:25:54.864Z'
 ---
 
 # Critical theory

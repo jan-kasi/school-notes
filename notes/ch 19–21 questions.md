@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Candide]
 title: ch 19–21 questions
+tags: [en, Notebooks/English/texts/Candide]
 created: '2021-01-12T11:41:09.409Z'
-modified: '2021-01-31T21:58:45.245Z'
+modified: '2021-03-10T22:25:54.863Z'
 ---
 
 # ch 19–21 questions

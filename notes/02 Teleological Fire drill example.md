@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/02 arguments]
 title: 02 Teleological Fire drill example
+tags: [Notebooks/Philosophy/phil of religion/02 arguments, phil]
 created: '2020-10-16T10:56:39.239Z'
-modified: '2020-11-12T21:13:49.044Z'
+modified: '2021-03-10T22:26:27.472Z'
 ---
 
 # 02 Teleological Fire drill example

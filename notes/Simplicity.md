@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/01 nature of god]
 title: Simplicity
+tags: [Notebooks/Philosophy/phil of religion/01 nature of god, phil]
 created: '2020-09-28T09:47:16.214Z'
-modified: '2020-11-25T10:19:43.699Z'
+modified: '2021-03-10T22:26:27.479Z'
 ---
 
 # Simplicity

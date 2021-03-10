@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Jerusalem, en/writing]
 title: 'E1: A1 Byron presentation'
+tags: [en, essay, Notebooks/English/texts/Jerusalem, Notebooks/English/writing, phil]
 created: '2020-11-23T20:59:32.270Z'
-modified: '2021-01-03T12:43:30.448Z'
+modified: '2021-03-10T22:30:16.803Z'
 ---
 
 # E1: A1 Byron presentation

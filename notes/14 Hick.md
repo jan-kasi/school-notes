@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/03 language]
 title: 14 Hick
+tags: [Notebooks/Philosophy/phil of religion/03 language, phil]
 created: '2021-02-08T10:48:00.760Z'
-modified: '2021-02-28T18:07:30.159Z'
+modified: '2021-03-10T22:26:27.477Z'
 ---
 
 # 14 Hick

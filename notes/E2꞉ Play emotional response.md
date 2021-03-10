@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Jerusalem, en/writing]
 title: 'E2: Play emotional response'
+tags: [en, essay, Notebooks/English/texts/Jerusalem, Notebooks/English/writing, phil]
 created: '2021-01-03T12:31:37.905Z'
-modified: '2021-01-08T09:31:53.581Z'
+modified: '2021-03-10T22:30:26.651Z'
 ---
 
 # E2: Play emotional response

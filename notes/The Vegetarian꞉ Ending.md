@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/The Vegetarian, en/writing]
 title: 'The Vegetarian: Ending'
+tags: [en, Notebooks/English/texts/The Vegetarian, Notebooks/English/writing]
 created: '2020-11-24T20:31:37.534Z'
-modified: '2020-11-24T20:35:48.503Z'
+modified: '2021-03-10T22:25:54.866Z'
 ---
 
 # The Vegetarian: Ending

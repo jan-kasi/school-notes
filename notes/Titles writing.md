@@ -1,8 +1,8 @@
 ---
-tags: [en/poetry, en/skills, en/writing]
 title: Titles writing
+tags: [en, essay, Notebooks/English/poetry, Notebooks/English/skills, Notebooks/English/writing]
 created: '2021-01-27T21:56:29.790Z'
-modified: '2021-01-29T14:20:29.635Z'
+modified: '2021-03-10T22:25:54.866Z'
 ---
 
 # Titles writing

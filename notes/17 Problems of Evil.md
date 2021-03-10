@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/02 arguments]
 title: 17 Problems of Evil
+tags: [Notebooks/Philosophy/phil of religion/02 arguments, phil]
 created: '2020-12-04T12:25:45.475Z'
-modified: '2020-12-04T13:04:05.968Z'
+modified: '2021-03-10T22:26:27.477Z'
 ---
 
 # 17 Problems of Evil

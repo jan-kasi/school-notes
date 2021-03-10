@@ -1,8 +1,8 @@
 ---
-tags: [en/skills]
 title: Guided literary analysis tips
+tags: [en, Notebooks/English/skills]
 created: '2021-01-14T11:45:34.296Z'
-modified: '2021-01-27T21:57:30.328Z'
+modified: '2021-03-10T22:25:54.865Z'
 ---
 
 # Guided literary analysis tips

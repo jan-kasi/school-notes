@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Jerusalem]
 title: 02 Initial antitheses
+tags: [en, Notebooks/English/texts/Jerusalem]
 created: '2020-11-16T09:23:18.922Z'
-modified: '2020-11-17T10:52:05.292Z'
+modified: '2021-03-10T22:25:54.859Z'
 ---
 
 # 02 Initial antitheses

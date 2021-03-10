@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/essay]
 title: What makes a great intro?
+tags: [Notebooks/Philosophy/core theme/essays, phil]
 created: '2020-10-13T14:13:43.471Z'
-modified: '2020-10-13T14:15:34.695Z'
+modified: '2021-03-10T22:26:27.479Z'
 ---
 
 # Essay

@@ -1,8 +1,8 @@
 ---
-tags: [en/prose, en/skills]
 title: Unseen Prose essay
+tags: [en, Notebooks/English/prose, Notebooks/English/skills]
 created: '2021-02-26T14:22:02.870Z'
-modified: '2021-02-26T14:26:33.076Z'
+modified: '2021-03-10T22:25:54.867Z'
 ---
 
 # Unseen Prose essay

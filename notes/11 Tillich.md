@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/03 language]
 title: 11 Tillich
+tags: [Notebooks/Philosophy/phil of religion/03 language, phil]
 created: '2021-02-01T11:40:02.321Z'
-modified: '2021-03-03T10:26:41.784Z'
+modified: '2021-03-10T22:26:27.476Z'
 ---
 
 # 11 Tillich

@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/03 language]
 title: 15 Later Wittgenstein
+tags: [Notebooks/Philosophy/phil of religion/03 language, phil]
 created: '2021-02-09T21:45:06.310Z'
-modified: '2021-02-10T10:19:16.147Z'
+modified: '2021-03-10T22:26:27.477Z'
 ---
 
 # 15 Later Wittgenstein

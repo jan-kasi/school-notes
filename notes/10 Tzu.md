@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 10 Tzu
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-10-08T13:17:08.304Z'
-modified: '2021-01-14T09:13:20.045Z'
+modified: '2021-03-10T22:26:27.476Z'
 ---
 
 # 10 Tzu

@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Candide, en/writing]
 title: ch 17-18 Depiction of Eldorado
+tags: [en, Notebooks/English/texts/Candide, Notebooks/English/writing]
 created: '2021-01-08T09:32:00.372Z'
-modified: '2021-01-31T21:59:32.980Z'
+modified: '2021-03-10T22:25:54.863Z'
 ---
 
 # ch 17-18 Depiction of Eldorado

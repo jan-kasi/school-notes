@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/02 arguments]
 title: 15 Kant
+tags: [Notebooks/Philosophy/phil of religion/02 arguments, phil]
 created: '2020-11-27T10:56:02.049Z'
-modified: '2021-01-31T19:38:00.240Z'
+modified: '2021-03-10T22:26:27.477Z'
 ---
 
 # 15 Kant

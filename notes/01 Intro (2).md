@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/03 mind and body]
 title: 01 Intro
+tags: [Notebooks/Philosophy/core theme/03 mind and body, phil]
 created: '2020-12-08T16:24:03.457Z'
-modified: '2021-01-14T09:14:37.851Z'
+modified: '2021-03-10T22:26:27.471Z'
 ---
 
 # 01 Intro

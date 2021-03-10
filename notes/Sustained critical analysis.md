@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/essays]
 title: Sustained critical analysis
+tags: [Notebooks/Philosophy/phil of religion/essays, phil]
 created: '2021-02-12T10:57:14.933Z'
-modified: '2021-02-12T11:19:27.322Z'
+modified: '2021-03-10T22:26:27.479Z'
 ---
 
 # Sustained critical analysis

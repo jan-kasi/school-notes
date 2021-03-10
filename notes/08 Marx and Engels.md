@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 08 Marx and Engels
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-10-05T09:50:07.914Z'
-modified: '2021-01-14T09:13:14.394Z'
+modified: '2021-03-10T22:26:27.475Z'
 ---
 
 # 08 Marx and Engels

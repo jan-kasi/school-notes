@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/The Vegetarian, en/writing]
 title: The Vegetarian writing task
+tags: [en, Notebooks/English/texts/The Vegetarian, Notebooks/English/writing]
 created: '2020-09-20T21:33:11.505Z'
-modified: '2020-11-24T20:36:42.709Z'
+modified: '2021-03-10T22:25:54.866Z'
 ---
 
 # The Vegetarian: writing task

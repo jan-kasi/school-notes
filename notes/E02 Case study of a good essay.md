@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/essays]
 title: E02 Case study of a good essay
+tags: [Notebooks/Philosophy/phil of religion/essays, phil]
 created: '2020-11-09T10:50:09.376Z'
-modified: '2020-11-17T19:03:56.320Z'
+modified: '2021-03-10T22:26:27.478Z'
 ---
 
 # E02 Case study of a good essay

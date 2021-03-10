@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/02 human nature]
 title: 05 Man as a Blank Slate
+tags: [Notebooks/Philosophy/core theme/02 human nature, phil]
 created: '2020-11-26T15:22:26.122Z'
-modified: '2021-01-14T09:14:16.431Z'
+modified: '2021-03-10T22:26:27.474Z'
 ---
 
 # 05 Man  as a Blank Slate

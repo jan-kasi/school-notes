@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/02 human nature]
 title: 04 Man as an Irrational Animal
+tags: [Notebooks/Philosophy/core theme/02 human nature, phil]
 created: '2020-11-18T12:22:26.254Z'
-modified: '2021-02-01T10:03:35.697Z'
+modified: '2021-03-10T22:26:27.473Z'
 ---
 
 # 04 Man as an Irrational Animal

@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 02 The Philosophy of Free Will
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-09-27T17:16:23.238Z'
-modified: '2021-01-14T09:11:58.301Z'
+modified: '2021-03-10T22:26:27.472Z'
 ---
 
 # 02 The Philosophy of Free Will

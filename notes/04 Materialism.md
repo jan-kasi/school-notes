@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/03 mind and body]
 title: 04 Materialism
+tags: [Notebooks/Philosophy/core theme/03 mind and body, phil]
 created: '2021-01-20T12:40:17.489Z'
-modified: '2021-02-01T10:05:20.961Z'
+modified: '2021-03-10T22:26:27.473Z'
 ---
 
 # 04 Materialism

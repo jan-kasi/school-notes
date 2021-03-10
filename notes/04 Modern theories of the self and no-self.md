@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/04 self and other]
 title: 04 Modern theories of the self and no-self
+tags: [Notebooks/Philosophy/core theme/04 self and other, phil]
 created: '2021-02-11T14:22:23.033Z'
-modified: '2021-02-11T14:43:48.129Z'
+modified: '2021-03-10T22:26:27.473Z'
 ---
 
 # 04 Modern theories of the self and no-self

@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/01 nature of god]
 title: Omnipotence
+tags: [Notebooks/Philosophy/phil of religion/01 nature of god, phil]
 created: '2020-09-19T13:30:44.264Z'
-modified: '2020-11-12T21:31:06.561Z'
+modified: '2021-03-10T22:26:27.479Z'
 ---
 
 # Omnipotence

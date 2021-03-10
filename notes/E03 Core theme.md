@@ -1,11 +1,11 @@
 ---
-tags: [phil/core theme/03 mind and body, phil/core theme/essay]
-title: E03
+title: E03 Core theme
+tags: [essay, Notebooks/Philosophy/core theme/03 mind and body, Notebooks/Philosophy/core theme/essays, phil]
 created: '2021-01-25T17:28:28.735Z'
-modified: '2021-01-26T00:53:39.935Z'
+modified: '2021-03-10T22:26:27.478Z'
 ---
 
-# E03
+# E03 Core theme
 
 ![Stimulus](../attachments/CoreE5Stim.png)
 

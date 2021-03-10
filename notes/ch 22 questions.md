@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Candide]
 title: ch 22 questions
+tags: [en, Notebooks/English/texts/Candide]
 created: '2021-01-22T14:20:34.316Z'
-modified: '2021-01-31T21:58:35.507Z'
+modified: '2021-03-10T22:25:54.863Z'
 ---
 
 # ch 22 questions

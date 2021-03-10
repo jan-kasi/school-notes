@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
-title: "07 Pinker \U0001F922"
+title: 07 Pinker 🤢
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-10-07T21:07:36.957Z'
-modified: '2021-01-14T09:13:11.382Z'
+modified: '2021-03-10T22:26:27.475Z'
 ---
 
 # 07 Pinker :nauseated_face:

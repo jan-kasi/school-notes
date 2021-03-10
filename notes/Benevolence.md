@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/01 nature of god]
 title: Benevolence
+tags: [Notebooks/Philosophy/phil of religion/01 nature of god, phil]
 created: '2020-09-30T08:51:23.337Z'
-modified: '2020-11-12T21:29:52.575Z'
+modified: '2021-03-10T22:26:27.478Z'
 ---
 
 # Benevolence

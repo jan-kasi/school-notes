@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/03 language]
 title: 07 analysis of 06
+tags: [Notebooks/Philosophy/phil of religion/03 language, phil]
 created: '2021-01-25T11:01:30.742Z'
-modified: '2021-01-25T11:27:21.765Z'
+modified: '2021-03-10T22:26:27.475Z'
 ---
 
 # 07 analysis of 06

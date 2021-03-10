@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/03 language]
 title: 10 Tillich symbols of faith
+tags: [Notebooks/Philosophy/phil of religion/03 language, phil]
 created: '2021-01-31T21:43:38.683Z'
-modified: '2021-02-10T09:51:56.616Z'
+modified: '2021-03-10T22:26:27.476Z'
 ---
 
 # 10 Tillich symbols of faith

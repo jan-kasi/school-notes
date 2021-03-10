@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Jerusalem]
 title: 01 Initial Archetypes
+tags: [en, Notebooks/English/texts/Jerusalem]
 created: '2020-11-16T09:14:05.209Z'
-modified: '2020-11-17T10:54:12.858Z'
+modified: '2021-03-10T22:25:54.858Z'
 ---
 
 # 01 Initial Archetypes 

@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 12 Biological Determinism
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-10-28T17:33:15.453Z'
-modified: '2021-01-14T12:23:09.376Z'
+modified: '2021-03-10T22:26:27.476Z'
 ---
 
 # 12 Biological Determinism

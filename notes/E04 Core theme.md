@@ -1,11 +1,11 @@
 ---
-tags: [phil/core theme/essay]
-title: E04
+title: E04 Core theme
+tags: [essay, Notebooks/Philosophy/core theme/essays, phil]
 created: '2021-02-01T11:38:29.997Z'
-modified: '2021-02-01T16:38:47.485Z'
+modified: '2021-03-10T22:26:27.478Z'
 ---
 
-# E04
+# E04 Core theme
 
 The stimulus shows an illustration of two figures who appear to be people. This ability to recognise other humans through appearance might indicate that the body of a human is what makes them human, not some non-physical mind which we cannot observe. Furthermore, this relationship between mind and body might affect the way we live our lives as is shown by the stimulus' depiction of the two figures lounging and smoking, seemingly only concerned with material enjoyment and not, perhaps, with the discipline of the body—this might directly oppose the ascetic idea. However, one recognises that the figures in the stimulus are not actually human, simply shaped like them. This might suggest that there is something more to being human than just the body, perhaps some mind. In this essay I will discuss the possibilities of humans being composed of only a physical substance, or of a physical body and mental mind. Furthermore, I will discuss how this relationship between body and mind might affect the way we should live our minds and the implications it holds for the question of what it means to be human. 
 

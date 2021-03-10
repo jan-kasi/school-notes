@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/03 language]
 title: 02 Verifiction
+tags: [Notebooks/Philosophy/phil of religion/03 language, phil]
 created: '2021-01-13T09:49:02.229Z'
-modified: '2021-01-13T09:51:36.441Z'
+modified: '2021-03-10T22:26:27.472Z'
 ---
 
 # 02 Verifiction

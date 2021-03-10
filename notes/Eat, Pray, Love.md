@@ -1,8 +1,8 @@
 ---
-tags: [en/skills]
-title: 'Eat, Pray, Love'
+title: Eat, Pray, Love
+tags: [en, Notebooks/English/skills]
 created: '2021-01-14T12:07:39.957Z'
-modified: '2021-01-27T21:57:36.925Z'
+modified: '2021-03-10T22:28:21.083Z'
 ---
 
 # Eat, Pray, Love
@@ -10,7 +10,7 @@ modified: '2021-01-27T21:57:36.925Z'
 ![extract](../attachments/exEatPrayLove.png)
 
 Genre: travelogue, memoir
-Purpose: entretain, vicarious experience, to record/store
+Purpose: entertain, vicarious experience, to record/store
 
 How purpose is achieved:
 - satire of travelling for an epic quest 

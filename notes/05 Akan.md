@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 05 Akan
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-10-01T14:49:47.892Z'
-modified: '2021-01-14T09:13:05.464Z'
+modified: '2021-03-10T22:26:27.474Z'
 ---
 
 # 05 Akan

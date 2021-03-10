@@ -1,8 +1,8 @@
 ---
-tags: [phil/Paper 3]
 title: 01 Religion and Politics as Value systems
+tags: [Notebooks/Philosophy/Paper 3, phil]
 created: '2021-01-06T12:24:59.427Z'
-modified: '2021-01-08T12:35:53.536Z'
+modified: '2021-03-10T22:26:27.472Z'
 ---
 
 # 01 Religion and Politics as Value systems

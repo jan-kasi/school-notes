@@ -1,11 +1,11 @@
 ---
-tags: [phil/phil of religion/essays]
-title: E05
+title: E05 Religion feedback
+tags: [essay, Notebooks/Philosophy/phil of religion/essays, phil]
 created: '2021-01-22T12:25:53.107Z'
-modified: '2021-01-22T12:49:34.696Z'
+modified: '2021-03-10T22:26:27.478Z'
 ---
 
-# E05 feedback
+# E05 Religion feedback
 
 Essay by me, 22/25.
 

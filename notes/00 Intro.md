@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Candide]
 title: 00 Intro
+tags: [en, Notebooks/English/texts/Candide]
 created: '2020-11-30T09:47:10.336Z'
-modified: '2021-01-08T09:33:10.877Z'
+modified: '2021-03-10T22:25:54.857Z'
 ---
 
 # 00 Intro

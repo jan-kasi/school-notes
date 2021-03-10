@@ -1,8 +1,8 @@
 ---
-tags: [en/skills, en/texts/Candide]
 title: Global Issues Video
+tags: [en, Notebooks/English/skills, Notebooks/English/texts/Candide]
 created: '2021-01-08T14:29:17.296Z'
-modified: '2021-01-27T21:57:24.745Z'
+modified: '2021-03-10T22:25:54.865Z'
 ---
 
 # Global Issues Video

@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/02 human nature]
 title: 02 Man as not a rational being
+tags: [Notebooks/Philosophy/core theme/02 human nature, phil]
 created: '2020-11-12T14:24:25.857Z'
-modified: '2021-02-01T09:57:52.243Z'
+modified: '2021-03-10T22:26:27.472Z'
 ---
 
 # 02 Man as not a rational being

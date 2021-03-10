@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 04 d'Holbach
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-09-29T15:30:54.348Z'
-modified: '2021-01-14T09:13:01.561Z'
+modified: '2021-03-10T22:26:27.473Z'
 ---
 
 # 04 d'Holbach

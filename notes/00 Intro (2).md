@@ -1,8 +1,8 @@
 ---
-tags: [phil/descartes]
 title: 00 Intro
+tags: [Notebooks/Philosophy/descartes, phil]
 created: '2021-03-08T09:00:31.195Z'
-modified: '2021-03-08T11:45:28.367Z'
+modified: '2021-03-10T22:26:27.469Z'
 ---
 
 # 00 Intro

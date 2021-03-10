@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/02 arguments]
 title: 14 Ontological
+tags: [Notebooks/Philosophy/phil of religion/02 arguments, phil]
 created: '2020-11-25T10:58:54.531Z'
-modified: '2020-11-25T10:25:46.506Z'
+modified: '2021-03-10T22:26:27.477Z'
 ---
 
 # 14 Ontological

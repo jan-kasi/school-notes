@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Candide]
 title: ch 28-30 questions
+tags: [en, Notebooks/English/texts/Candide]
 created: '2021-02-03T09:14:49.476Z'
-modified: '2021-02-03T09:38:41.569Z'
+modified: '2021-03-10T22:25:54.864Z'
 ---
 
 # ch 28-30 questions

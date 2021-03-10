@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/02 arguments]
 title: 18 Arguments
+tags: [Notebooks/Philosophy/phil of religion/02 arguments, phil]
 created: '2020-12-07T10:50:40.939Z'
-modified: '2020-12-07T11:32:15.187Z'
+modified: '2021-03-10T22:26:27.478Z'
 ---
 
 # 18 Arguments

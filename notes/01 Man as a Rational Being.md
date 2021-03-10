@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/02 human nature]
 title: 01 Man as a Rational Being
+tags: [Notebooks/Philosophy/core theme/02 human nature, phil]
 created: '2020-11-10T16:11:36.623Z'
-modified: '2021-02-01T09:55:58.582Z'
+modified: '2021-03-10T22:26:27.471Z'
 ---
 
 # 01 Man as a Rational Being

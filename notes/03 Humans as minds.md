@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/03 mind and body]
 title: 03 Humans as minds
+tags: [Notebooks/Philosophy/core theme/03 mind and body, phil]
 created: '2021-01-14T14:32:45.039Z'
-modified: '2021-01-20T12:41:27.805Z'
+modified: '2021-03-10T22:26:27.473Z'
 ---
 
 # 03 Humans as minds

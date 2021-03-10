@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/essays]
 title: Express Argument
+tags: [Notebooks/Philosophy/phil of religion/essays, phil]
 created: '2020-11-23T10:49:16.831Z'
-modified: '2020-11-23T11:32:07.941Z'
+modified: '2021-03-10T22:26:27.479Z'
 ---
 
 # Express Argument

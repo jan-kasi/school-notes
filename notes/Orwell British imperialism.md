@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/Orwell Essays, en/writing]
 title: Orwell British imperialism
+tags: [en, essay, Notebooks/English/texts/Orwell Essays, Notebooks/English/writing]
 created: '2020-10-12T19:48:16.058Z'
-modified: '2020-11-24T20:30:18.182Z'
+modified: '2021-03-10T22:25:54.865Z'
 ---
 
 # Orwell British imperialism

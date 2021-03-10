@@ -1,11 +1,11 @@
 ---
-tags: [en/prose, en/writing]
-title: 'E01: Commentary on Prologue to The Secret History'
+title: 'E1: Commentary on Prologue to The Secret History'
+tags: [en, essay, Notebooks/English/prose, Notebooks/English/writing]
 created: '2020-09-24T21:48:40.275Z'
-modified: '2021-02-26T14:40:37.090Z'
+modified: '2021-03-10T22:25:54.864Z'
 ---
 
-# E01: Commentary on Prologue to The Secret History
+# E1: Commentary on Prologue to The Secret History
 The prologue to *The Secret History* is brilliant in its purpose: it captures the attention of the reader by proposing multiple alternatives for the main tensions and themes which will follow, develops the character of the narrator so far as to enable reasonable doubt on his reliability, and allows the reader to question the reasons for his confession of aiding a murder.
 
 The structuring of the prologue is one way in which this is achieved. In the first sentence, the reader is already told that someone, Bunny, “had been dead for several weeks” and that only then did the narrator’s group realise the “gravity” of the consequences. This is contrasted by the casual “you know” used at the end of the following sentence when describing how the body was not found for ten days. This juxtaposition of apparent understanding and seriousness against the relaxed and almost carefree tone of the second sentence brings to question the true understanding of the narrator and his feelings towards this, so far, mysterious event. The last sentence of the first paragraph is then structured with an increasing unreliability of the scale of the manhunt for Bunny, first “state troopers”, and last of all “people…as far away as Boston”—this makes the reader understand the gravity of this manhunt more than what the narrator appears to be; the almost excited and perhaps boastful attitude of the scale of the manhunt plays into the casual “you know” from before to make it appear even more so as if the narrator does not understand the seriousness of this event, only the scale.

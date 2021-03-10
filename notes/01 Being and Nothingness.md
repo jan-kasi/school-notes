@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/01 freedom]
 title: 01 Being and Nothingness
+tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-09-19T13:19:54.348Z'
-modified: '2021-01-14T09:11:30.245Z'
+modified: '2021-03-10T22:26:27.471Z'
 ---
 
 # 01 Being and Nothingness

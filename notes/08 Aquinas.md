@@ -1,8 +1,8 @@
 ---
-tags: [phil/phil of religion/03 language]
 title: 08 Aquinas
+tags: [Notebooks/Philosophy/phil of religion/03 language, phil]
 created: '2021-01-29T00:27:08.337Z'
-modified: '2021-01-29T10:52:50.967Z'
+modified: '2021-03-10T22:26:27.475Z'
 ---
 
 # 08 Aquinas

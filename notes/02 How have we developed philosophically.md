@@ -1,8 +1,8 @@
 ---
-tags: [phil/Paper 3]
 title: 02 How have we developed philosophically
+tags: [Notebooks/Philosophy/Paper 3, phil]
 created: '2021-01-07T14:20:12.574Z'
-modified: '2021-01-12T17:44:30.637Z'
+modified: '2021-03-10T22:26:27.472Z'
 ---
 
 # 02 How have we developed philosophically

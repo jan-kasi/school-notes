@@ -1,8 +1,8 @@
 ---
-tags: [phil/core theme/03 mind and body]
 title: 02 Ancient views of Mind and Body
+tags: [Notebooks/Philosophy/core theme/03 mind and body, phil]
 created: '2021-01-13T18:04:21.997Z'
-modified: '2021-01-14T09:29:58.002Z'
+modified: '2021-03-10T22:26:27.472Z'
 ---
 
 # 02 Ancient views of Mind and Body

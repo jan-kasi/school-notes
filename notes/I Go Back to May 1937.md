@@ -1,8 +1,8 @@
 ---
-tags: [en/poetry, en/skills]
 title: I Go Back to May 1937
+tags: [en, Notebooks/English/poetry, Notebooks/English/skills]
 created: '2021-02-01T09:19:28.081Z'
-modified: '2021-02-02T11:18:20.955Z'
+modified: '2021-03-10T22:25:54.865Z'
 ---
 
 # I Go Back to May 1937

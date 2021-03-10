@@ -1,8 +1,8 @@
 ---
-tags: [en/texts/The Vegetarian, en/writing]
 title: To what extent does Han Kang create sympathy for the brother-in-law in The Vegetarian?
+tags: [en, essay, Notebooks/English/texts/The Vegetarian, Notebooks/English/writing]
 created: '2020-11-24T20:28:35.007Z'
-modified: '2020-11-24T20:29:30.807Z'
+modified: '2021-03-10T22:25:54.867Z'
 ---
 
 # To what extent does Han Kang create sympathy for the brother-in-law in The Vegetarian? 
