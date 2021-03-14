@@ -1,11 +1,11 @@
 ---
-title: 00 Intro
+title: 02 Intro
 tags: [Notebooks/Philosophy/descartes, phil]
 created: '2021-03-08T09:00:31.195Z'
-modified: '2021-03-10T22:26:27.469Z'
+modified: '2021-03-12T08:32:45.130Z'
 ---
 
-# 00 Intro
+# 02 Intro
 Rationalist
 
 establish truth and conclusivity, a basis for physics and maths etc.
@@ -29,5 +29,5 @@ some things must be established by experience, but many things can be discovered
 cogito ergo sum is a very private starting point, he needed to get outside of this to the extensional world. He uses God for this.
 cogito ergo deus est.
 
-Descartes is an inheritor of the Medieval Catholic Tradition from Spain and probably even plagarised from Islamic thought, and read the works of St Theresa of Avala.
+Descartes is an inheritor of the Medieval Catholic Tradition from Spain and probably even plagiarised from Islamic thought, and read the works of St Theresa of Avala.
 

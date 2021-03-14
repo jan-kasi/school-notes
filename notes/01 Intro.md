@@ -1,11 +1,11 @@
 ---
-title: 00 Intro
+title: 01 Intro
 tags: [en, Notebooks/English/texts/Candide]
 created: '2020-11-30T09:47:10.336Z'
-modified: '2021-03-10T22:25:54.857Z'
+modified: '2021-03-12T11:14:29.251Z'
 ---
 
-# 00 Intro
+# 01 Intro
 
 - Has aspects of the picaresque novel
 - but a bildensrauman

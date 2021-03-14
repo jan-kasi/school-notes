@@ -2,7 +2,7 @@
 title: 03 Challenges to the Existentialist position
 tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-09-21T10:30:08.714Z'
-modified: '2021-03-10T22:26:27.473Z'
+modified: '2021-03-12T08:30:54.460Z'
 ---
 
 # 03 Challenges to the Existentialist position
@@ -14,10 +14,6 @@ modified: '2021-03-10T22:26:27.473Z'
 | Is freedom really being authentic self            | Is **trying** to be your authentic self a limiting way to freedom/ not being authentic self by trying.<br />Is it a self defeating position to try and be authentic/ closed circle loop. | higher  |
 | Some might be happier leading a meaningless life. | “It is better to be Socrates dissatisfied than a fool dissatisfied” BUT IN REVERSE :O | lower   |
 | Is it possible to know our authentic self?        | Effect of society shapes us, we are not in a vacuum where only existence defines our essence.<br />A little like the gaze/ the look not allowing us to even KNOW our authentic self. | higher  |
-|                                                   |                                                              |         |
-|                                                   |                                                              |         |
-|                                                   |                                                              |         |
-|                                                   |                                                              |         |
 
 ##### Side note: Foucault
 

@@ -1,11 +1,11 @@
 ---
-title: Global Issues Video
+title: 02 Global Issues Video
 tags: [en, Notebooks/English/skills, Notebooks/English/texts/Candide]
 created: '2021-01-08T14:29:17.296Z'
-modified: '2021-03-10T22:25:54.865Z'
+modified: '2021-03-12T11:14:41.944Z'
 ---
 
-# Global Issues Video
+# 02 Global Issues Video
 
 ## Copied The Focus on Global Issues.docx which outlines stuff about the oral 
 Examine the ways in which the global issue of your choice is presented through the content and form of two of the texts that you have studied.  
