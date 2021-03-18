@@ -2,7 +2,7 @@
 title: Unseen Prose essay
 tags: [en, Notebooks/English/prose, Notebooks/English/skills]
 created: '2021-02-26T14:22:02.870Z'
-modified: '2021-03-10T22:25:54.867Z'
+modified: '2021-03-15T13:37:39.065Z'
 ---
 
 # Unseen Prose essay
@@ -14,7 +14,7 @@ modified: '2021-03-10T22:25:54.867Z'
 - Structure and sequence
   - Harder to see than in a poem
 - A 'limited' view
-  - 
+
 
 ## How to overcome these challenges?
 - Be clear *what* is happening in the text and the implications this has

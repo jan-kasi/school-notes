@@ -1,8 +1,8 @@
 ---
 title: The Garden Party
-tags: [en, Notebooks/English/prose]
+tags: [en, Notebooks/English/prose, Notebooks/English/skills]
 created: '2021-02-26T14:37:21.291Z'
-modified: '2021-03-10T22:25:54.866Z'
+modified: '2021-03-15T13:38:33.335Z'
 ---
 
 # The Garden Party

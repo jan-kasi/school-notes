@@ -2,11 +2,16 @@
 title: Biology IA
 tags: [Notebooks/Biology/IA]
 created: '2021-03-12T15:41:50.023Z'
-modified: '2021-03-14T21:41:09.631Z'
+modified: '2021-03-15T10:06:12.704Z'
 ---
 
 # Biology IA
-## Algaenate beads chlorophyll
+Technician near Lab 7a
+
+https://www.nature.com/articles/s41467-019-08457-x
+https://www.iucn.org/resources/issues-briefs/ocean-warming
+
+## Alginate beads chlorophyll
 ### effect of temperature
 - water bath to change temperature
 ### effect of chlorophyll concentration
@@ -18,3 +23,29 @@ Ocean is a massive carbon sink, CO2 emission increase absorbed by seas, what eff
 Important to food chains as the producers
 - Effect which rising temperature and CO2 emissions might have on them
 Could also do something like green algae or small algae to model this if not possible, or as an entire alternative as I think it works fine without the phytoplankton. The article used phytoplankton though.
+
+## temp as preliminary, pH as practical?
+![temp](../attachments/tempsea.png)
+look at the effect of 
+
+
+
+measure density by colorimeter or by mass
+growth over time
+
+growing culture, change pH
+perhaps look at effect of temperature as prelim
+
+
+
+## prelim
+how long to let experiment run for
+"learn about" the importance of the alginate bead size, etc.
+
+## IA
+look at effect of pH, after x hours take a sample and put it in colorimeter
+
+
+
+
+
