@@ -1,11 +1,11 @@
 ---
-title: ch 8-9
+title: I ch 8-9
 tags: [en, Notebooks/English/texts/Wuthering Heights]
 created: '2021-03-10T08:57:56.164Z'
-modified: '2021-03-15T14:23:20.083Z'
+modified: '2021-03-21T18:46:51.061Z'
 ---
 
-# ch 8-9
+# I ch 8-9
 ## Nelly describes WH as "An infernal house", how does Bronte present WH as hellish and immoral.
 
 Hindley is being abusive to his son.

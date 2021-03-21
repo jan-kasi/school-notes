@@ -1,11 +1,11 @@
 ---
-title: 01 intro
+title: I 01 intro
 tags: [en, Notebooks/English/texts/Wuthering Heights]
 created: '2021-02-22T09:48:47.339Z'
-modified: '2021-03-10T22:25:54.858Z'
+modified: '2021-03-21T18:46:07.238Z'
 ---
 
-# 01 intro
+# I 01 intro
 - 1847 under pseudonym Ellis Bell
 - Before Jane Eyre
 - Genre: bildungsroman, revenge tragedy, perhaps gothic, perhaps romance
