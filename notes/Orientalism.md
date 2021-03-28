@@ -2,13 +2,14 @@
 title: Orientalism
 tags: [en, phil, reading]
 created: '2021-03-10T22:22:25.540Z'
-modified: '2021-03-14T21:15:13.064Z'
+modified: '2021-03-26T11:14:18.675Z'
 ---
 
 # Orientalism
 Edward W. Said
 ## Introduction
 ### I
+
 > "The Orient was almost a European invention...Now it was disappearing"
 
 Interesting to note that the ideas one cultural group has of an other are almost always fictitious, and Id initially notice that this is often both the case for dominator and dominated. However, perhaps the dominator manages to enforce their myth more effectively, the subjugated culture is turned towards becoming seen as it and become it, whereas the subjugated maintains it as a myth in the common culture.
@@ -42,12 +43,35 @@ Three aspects of Said's reality which informed the investigation. I found the fi
     - Saturating hegemonic systems (like culture) have internal constraints upon thinkers which were productive
     - Philosophy keeps itself "pure" by removing the purpose/political implications of its' thinkers' ideas, e.g. Empiricism as a defence for slavery, etc.
 
-The second too was interesting:
+The second was also interesting:
 
 2. The methological question
     - Unlike Foucault, Said believes the individual writer/contributor can have a significant impact.
     - Said is "indebted" to Foucault's work, however
 
 ## 1: The Scope of Orientalism
+### I, Knowing the Oriental
+
+39
+> Cromer makes no effort to conceal that Orientals for him were always and only the human material he governed in British colonies
+
+> To say simply that Orientalism was a rationalization of colonial rule is to ignore the extent to which colonial rule was justified in advance by Orientalism
+
+40
+> Knowledge of the Orient, because generated out of strength, in a sense *creates* the Orient, the Oriental, and his world
+
+Orientalism as an exercise in cultural strength.
+
+47
+> Kissinger may not have known on what fund the of pedigreed knowledge he was drawing on when he cut the world into pre-Newtonian and post-Newtonian conceptions of reality. But his distinction is identical with the orthodox one made by Orientalists, who separate Orientals from Westerners. And like Orientalism's distinction Kissinger's is not value-free, despite the apparent neutrality of his tone
+
+### II, Imaginative Geography and Its Representations: *Orientalizing the Oriental*
+
+50
+> To speak of scholarly specialization as a geographical "field" is, in the case of Orientalism, fairly revealing since no one is likely to imagine a field symmetrical to it called Occidentalism. Already the special, perhaps even the eccentric attitude of Orientalism becomes apparent.
+
+> accept enormous, indiscriminate size plus an almost infinite capacity for subdivision as one of the chief characteristic of Orientalism—one that is evidenced in its confusing amalgam of imperial vagueness and precise detail
+
+
 ## 2: Orientalist Structures and Restructures
 ## 3: Orientalism Now

@@ -2,10 +2,12 @@
 title: 03 Passages of particular interest, discussions
 tags: [Notebooks/English/texts/mishima]
 created: '2021-03-19T14:24:30.450Z'
-modified: '2021-03-22T09:38:32.821Z'
+modified: '2021-03-23T11:31:38.539Z'
 ---
 
 # 03 Passages of particular interest, discussions
+Dichotomy of order and disorder, disorder has been established and there is an attempt to restore order, yet it is doomed to fail.
+
 ## 1
 ### 63: "Noboru...quickly as possible":
 tatami & honhe (spelling wrong), true face and mask
@@ -63,4 +65,16 @@ Eros and Thanatos
 - present in the narrative voice
 - present in the authorial voice
 - present in Mishima's life
+
+## 3
+### "He saw...into tongues of flame" (30-1) (Ryuji's perspective)
+Sublime
+Mythical
+Objectification
+parallels to a Siren (links to a sailor), he imagines her "sweat and perfume fragrance reaching him on the breeze seemed to clamour for his death". Fusako described as a femme fatale. 7 Basic plots.
+
+Revels in the descriptions of the material yet recoils from and shames it
+
+Fusako as chaotic
+
 

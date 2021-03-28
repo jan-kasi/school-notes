@@ -1,11 +1,11 @@
 ---
-title: Exam technique
-tags: [Notebooks/Philosophy/descartes/essaty]
+title: 06 Exam technique
+tags: [Notebooks/Philosophy/descartes]
 created: '2021-03-19T10:52:12.835Z'
-modified: '2021-03-19T11:14:34.182Z'
+modified: '2021-03-28T14:43:52.139Z'
 ---
 
-# Exam technique
+# 06 Exam technique
 You must be *led by the text*
 - littered with quotations and reference to the text
 - actually discuss the text
@@ -22,15 +22,15 @@ You must be *led by the text*
 ### Examiners complaints
 - No reference to the text
 - No philosophical vocabulary
-- Failure to ATDQ precisely
+- Failure to ATQ precisely and directly
 - Simple explanation, no detailed development showing understanding
 ### structure
-intro
+- intro
 1. define key terms
 2. explain the context the terms appear in (cite) and the importance of them within the M
 
-central explanation: 3 par
-3. state one way its found in M
+- central explanation: 3 paragraphs
+3. state one way it's found in M
 4. clear link to question
 5. references to the text
 6. explain Descartes specific terminology
@@ -55,14 +55,14 @@ You can clarify certain things, but don't need to do any explanation of Descarte
 - Simple explanation, no discursive analysis
 
 ### Structure
-Intro:
+- intro:
 1. explain your position on the issue with brief justification.
-- the key terms will have already been explained in A
-Analysis:
+  - the key terms will have already been explained in A
+- analysis:
 2. Claim, the point you will make
 3. Reason, explain and elaborate on the claim
 4. Example, give examples from the text etc.
 5. Evaluative comment, 
 6. Counter argument, 
-  ( 8. Counter it, )
-9. Conclusion, 
+  ( 7. Counter it, )
+8. Conclusion, 
