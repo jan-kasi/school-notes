@@ -2,7 +2,7 @@
 title: 04 Synopsis
 tags: [Notebooks/Philosophy/descartes]
 created: '2021-03-14T19:39:46.119Z'
-modified: '2021-03-15T11:28:18.247Z'
+modified: '2021-04-23T11:05:13.341Z'
 ---
 
 # 04 Synopsis
@@ -52,6 +52,6 @@ To be a rationalist you must accept one or more of these three theses:
 "Helping is good"
 "I'm thinking"
 "Save the innocent"
--->"war is wrong"
---> "charity is good"
+-->"war is wrong" deduction
+--> "charity is good" deduction
 

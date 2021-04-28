@@ -2,7 +2,7 @@
 title: 02 Man as not a rational being
 tags: [Notebooks/Philosophy/core theme/02 human nature, phil]
 created: '2020-11-12T14:24:25.857Z'
-modified: '2021-03-10T22:26:27.472Z'
+modified: '2021-04-19T20:48:11.101Z'
 ---
 
 # 02 Man as not a rational being
@@ -30,7 +30,7 @@ modified: '2021-03-10T22:26:27.472Z'
 - irrational paranoia
   - Of being watched by everyone, conspiracy paranoia, everyone being replaced, etc.
 - Fight/Flight response we *become* irrational
-- Though this might go to psychological egoism good.
+- Though this might go to a poopy "psychological egoism=good and rational" position:
   -  Putting your life on the line to save someone
   - Perhaps firefighters
 

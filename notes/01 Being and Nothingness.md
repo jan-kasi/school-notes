@@ -2,7 +2,7 @@
 title: 01 Being and Nothingness
 tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-09-19T13:19:54.348Z'
-modified: '2021-03-10T22:26:27.471Z'
+modified: '2021-04-19T20:20:21.744Z'
 ---
 
 # 01 Being and Nothingness
@@ -73,7 +73,7 @@ Only by **reflecting on the activity as one’s own** does the ego come into exi
 
   - Every time we make a choice, by affirming one thing we negate others.
 
-  - The being-for-itself is separated from the being-in-itself (unthinking world) by its unique power of negation. through humanity nothingness can arrive into the world.
+  - The being-for-itself is separated from the being-in-itself (unthinking world) by its unique power of negation. Through humanity, nothingness can arrive into the world.
 
   - The unique psychological ability to negate is dependant on an underlying ontology (theory about the nature of being and existence)
 
@@ -100,7 +100,7 @@ Only by **reflecting on the activity as one’s own** does the ego come into exi
   - The human, as the being which brings nothingness into the world, must be its own nothingness.
   - What must the human be in its being such that through it nothingness comes into being?
     - Man must be free.
-- The lived experience of freedom implies a nothingness, it is experienced as its nihilation of the self’s past being.
+- The lived experience of nothingness implies a freedom, it is experienced as its nihilation of the self’s past being.
 
 - Anxiety reveals freedom as the possible destroyer of the self’s present and future of what it is.
 
@@ -131,7 +131,7 @@ Only by **reflecting on the activity as one’s own** does the ego come into exi
 
 - Distraction is a more complete form of flight.
 
-- Nature of consciousness accounts for freedom and nothingness but also requires it’s questioning
+- Nature of consciousness accounts for freedom and nothingness but also requires its questioning
 
 - We never face nothingness directly as a thing so anxiety has nothing as its object
 

@@ -2,7 +2,7 @@
 title: 03 Humans as minds
 tags: [Notebooks/Philosophy/core theme/03 mind and body, phil]
 created: '2021-01-14T14:32:45.039Z'
-modified: '2021-03-10T22:26:27.473Z'
+modified: '2021-04-19T20:55:27.651Z'
 ---
 
 # 03 Humans as minds
@@ -39,7 +39,7 @@ Therefore human desire for immortality is realistic and the rational soul is imm
 
 Reason and the soul become more effective when isolated from the body: when we experience lots of physical sensations it is difficult to think. Clearing the mind is clearing the physical.
 
-> Then the soul despises corporeals and when the senses have been allayed and the clouds of phantasmata dissipated…then the intellct discerns truly and is at its beightest
+> Then the soul despises corporeals and when the senses have been allayed and the clouds of phantasmata dissipated…then the intellect discerns truly and is at its brightest
 
 | Plato (*Phaedo*)       | Marsillo Ficino (*Platonic Theology*) |
 | ---------------------- | ------------------------------------- |

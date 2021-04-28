@@ -2,7 +2,7 @@
 title: 02 The Philosophy of Free Will
 tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-09-27T17:16:23.238Z'
-modified: '2021-03-10T22:26:27.472Z'
+modified: '2021-04-19T20:32:10.605Z'
 ---
 
 # 02 The Philosophy of Free Will
@@ -19,7 +19,7 @@ Masolit Lecture: notes
 
 ## What is free will?
 
-Free will is a kind of power over actions.
+Free will is a kind of power over alternatives.
 
 - Power is a special kind of capacity
   - To make or prevent events
@@ -33,7 +33,7 @@ Free will looks very much like causation, another capacity to make things happen
 
 Power to determine more than one outcome.
 
-A “power over alternatives”
+Therefore, free will is a “power over alternatives”
 
 - We are free to do more than one thing.
 - Different to ordinary causation as they can only do one thing, they have no alternatives.
@@ -127,20 +127,20 @@ Blame in ethics has good effects even in a causally determined system by encoura
 
 Hobbes: Liberty is simply the silence of the law. (we don’t have a power of freedom)
 
-- Liberty is the space left where coercive law doesn’t impose obligations on us. That is where we have a right to liberty.
+- Liberty is the space left where coercive law doesn't impose obligations on us. That is where we have a right to liberty.
 
-- This is unsatisfactory if we want right to liberty to limit law: it is a right that limits what the law can do, not the space left after law.
+- This is unsatisfactory if we want the right to liberty to be able to limit law: i.e, if it is a right that limits what the law can do, not the space left after law.
 
 Reason: reason is a capacity to understand and respond to justifications
 
 - Right to liberty is based on the capacity to respond to arguments and justifications.
 
-- Coercion doesn’t treat us with the respect deserved for reason.
+- Coercion doesn't treat us with the respect deserved for reason.
   - Ignores capacity to reason and just issues threats.
 
 Issue with reason:
 
-- Coercer isn’t ceasing to argue or reason, they are providing a different type of argument
+- Coercer isn't ceasing to argue or reason, they are providing a different type of argument
   - Producing a threat as a justification by producing an effect.
   - It is not a substitute for argument, it is a different type of argument. It uses the capacity to make your life worse, and poses this as the argument for the coercion.
 
@@ -149,9 +149,11 @@ Issue with reason:
 ## Does Freedom exist and what is it like?
 
 Nonscientific method:
+- causation is perhaps an observed thing/scientific study, yet it cannot be directly observed (Hume). Nonetheless, nonscientific method addressing causation begs some question, e.g. of incompatibalism/compatibalism, of existence of causation, etc.
+- scientific method and nonscientific methods both beg the question of themselves being suited to study freedom and causation, seeing as one presupposes it and the other assumes what it is.
 
 - Begs the question of incompatibalism.
-  - Even if decisions are causally determined by events in our brains then that doesn’t mean there is no power of freedom (compatibalism v incompatibalism).
+  - Even if decisions are causally determined by events in our brains then that doesn't mean there is no power of freedom (compatibalism v incompatibalism).
 
 How do we find if compatibalism or incompatibalism is true?
 
@@ -162,7 +164,7 @@ Is power of freedom even existent?
     - We see a sequence of events, not a power linking them. 
     - Causal power is a feature of the mind, how we think about something, not something we observe or is experienced.
   - Freedom is different to causation because it makes alternatives available, there is no regularity which reveals the power of freedom.
-    - We can’t percieve it through regularity or detect it directly.
+    - We can’t perceive it through regularity or detect it directly.
     - If Hume is right and power can only be observed through regularities, we can never find out about the power of freedom as it has no regularities.
 
 - Hume may be wrong:

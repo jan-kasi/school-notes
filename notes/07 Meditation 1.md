@@ -2,7 +2,7 @@
 title: 07 Meditation 1
 tags: [Notebooks/Philosophy/descartes]
 created: '2021-03-22T19:59:20.966Z'
-modified: '2021-03-26T13:02:50.311Z'
+modified: '2021-04-23T12:39:04.929Z'
 ---
 
 # 07 Meditation 1
@@ -82,8 +82,9 @@ Not saying there is no God or a deceiving demon, posing a hypothetical of what f
 
 ### Two Key Quotes:
 
-“And yet firmly rooted in my mind is the long-standing opinion that there is an omnipotent God who made me the kind of creature that I am”
 “there is no sky, no extended thing, no size...while at the same time ensuring that all these things appear to me to exist”
+“how do I know that God has not brought it about that I too go wrong every time I add two and three or count the sides of a square”
+“If it were inconsistent with his goodness to have created me that I am deceived all the time...to allow me to be deceived even occasionally”
 
 ### Purpose of this argument (in the wider context of Meditation 1)
 I cannot know that God is not deceiving me, for those who claim God gives them knowledge.
@@ -101,10 +102,7 @@ To address the issue of perhaps being deceived to believe these fundamental thin
 3. Perhaps we are made to be defective
 
 ### Two Key Quotes:
-
-“how do I know that God has not brought it about that I too go wrong every time I add two and three or count the sides of a square”
-“If it were inconsistent with his goodness to have created me that I am deceived all the time...to allow me to be deceived even occasionally”
-
+"the less powerful they make my original cause, the more likely it is that I am so imperfect as to be deceived all the time."
 ### Purpose of this argument (in the wider context of Meditation 1)
 I cannot even know the origins of myself and my nature, the origin for the atheist is an imperfect being, the basis for knowledge for the atheist is even less than the theist
 
@@ -113,6 +111,7 @@ The proposition that perhaps we are defective
 That we cannot be certain of our own origins
 
 ## Overall argument of Meditation 1
+"I have no answer to these arguments, but am finally compelled to admit that there is not one of my former beliefs about which a doubt may not properly be raised"
 
 | Step       | Argument                                                     |
 | ---------- | ------------------------------------------------------------ |

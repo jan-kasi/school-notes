@@ -2,7 +2,7 @@
 title: 07 Pinker 🤢
 tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-10-07T21:07:36.957Z'
-modified: '2021-03-10T22:26:27.475Z'
+modified: '2021-04-19T20:36:54.322Z'
 ---
 
 # 07 Pinker :nauseated_face:
@@ -12,12 +12,12 @@ modified: '2021-03-10T22:26:27.475Z'
 The “traditional conception of a ghost in the machine” is a popular description of Cartesian/substance dualism
 
 - Mind and body are two substances with a real distinction
-  - Substance is something which doesn’t require another creature to exist, only the will of God. e.g. “the rock is round”: “round” can only exist because of the “rock”, it cannot exist by itself (it requires another creature); “rock” can exist all by itself without requiring a creature to (if God willed it so)
-  - “Real distinction” is when two substances *could* exist all by themselves without, including each other
+  - Substance is something which doesn't require another creature to exist, only the will of God. e.g. “the rock is round”: “round” can only exist because of the “rock”, it cannot exist by itself (it requires another creature); “rock” can exist all by itself without requiring a creature to (if God willed it so)
+  - “Real distinction” is when two substances *could* exist all by themselves
 - Mind and body still causally interact, the mind makes decisions and behaviour, but can exist independent of each other. Descartes views the mind and soul as one, we are just the mind and can therefore exist after the decay of the body independent of it. A body without the mind is lifeless, Descartes considers this to be anything from inanimate objects to plants and to animals (essentially anything non-human)
 - The image of a ghost in a machine comes from this, the mind (soul) is like a ghost inside a machine (our bodies), determining our behaviour and being separate from it in substance, but still interacting with and being of it even though it would be possible for the two to be separate
 
-Behaviour being caused by physical interactions refutes the “traditional view” that the mind causes and determines our behaviour and we are it, and leaves “no room for an uncaused behavior-chooser” as the mind is a separate substance in it. Therefore the idea that behaviour is chosen by the activity in our brain might not 
+Behaviour being caused by physical interactions refutes the “traditional view” that the mind causes and determines our behaviour and we are this mind, leaving “no room for an uncaused behavior-chooser” as the mind is a separate substance in it. Therefore the idea that behaviour is chosen by the activity in our brain might not be compatible.
 
 ## 2 fears of determinism
 

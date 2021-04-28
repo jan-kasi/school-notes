@@ -2,7 +2,7 @@
 title: II ch 2-6
 tags: [Notebooks/English/texts/Wuthering Heights]
 created: '2021-03-29T13:17:27.606Z'
-modified: '2021-03-29T13:58:56.127Z'
+modified: '2021-03-30T11:15:14.836Z'
 ---
 
 # II ch 2-6
@@ -20,13 +20,14 @@ Nelly takes him to the Heights, and tries to portray it in a good light.
 
 - Linton immediately hates it; all Nelly does despite his protests is leave. 
 
-## Structure
-Volume I and II are divided by catherine's death. What is the effect of this?
+## Class discussion
+### Structure
+Volume I and II are divided by Catherine's death. What is the effect of this?
 - The previous characters are archetypes for the incoming people. 
 - Catherine is the binding character between the incoming people. 
-- Catherine is the first person lockwood sees as a ghost and she is the person that starts off the story 
+- Catherine is the first person Lockwood sees as a ghost and she is the person that starts off the story 
 - It fragments the story into a story about multiple people and their individual relationships instead of many people in a collective relationship. 
-- The outsider who is now coming in - isabella's son
+- The outsider who is now coming in - Isabella's son
 - It is almost like Catherine has returned through Cathy, they share the same name, tie everyone together in a similar way, act similarly 
 - It continues the timeline which means that there is now an era of Catherine. 
 - It amplifies the theme of doubles
@@ -57,9 +58,7 @@ H+C as a 'unifying' narrative focal point in Vol I --> focus split between chara
 
 Vol I as a template for Vol II --> nature or nurture in replicating behaviour of former generations
 
-
-
-## Doubles
+### Doubles
 Pairs:
 - Catherine and Heathcliff
 - Heathcliff vs Hindley (siblings)
@@ -95,7 +94,77 @@ Doppelganger
 - Freud, the uncanny
 - Quest for individual identity -> link to society
 
-## Characterisation
+### Characterisation
+Young Cathy:
+- Physical appearance similar to Catherine, deceptive exterior
+- Heathcliff's hatred due to resemblance to Catherine
+- Defiance of Nelly
+Hareton:
+- Corrupted and status declined
+- Heathcliff's revenge/victory and exploitation
+- Made to be a servant like Heathcliff was
 
-## Themes
+Characters share names:
+- Cyclical nature of the two houses, perhaps like a commentary on the perpetual effect of society to do this
+  - Inevitable
+  - Tragic links
+- Past houses still remain
+- Breaking of a cycle more noticeable
+- Hubris, perhaps?
+- Does Heathcliff manage to break the cycle or perpetuates it
+- Death of son = chance to end the cycle 
+Heathcliff as a possessive character
+- Holds Hareton and Linton captive
+- Owns WH and TG to defy social constraints
+  - Chooses to destroy the houses and their associated families
 
+Heathcliff's motivations for raising Linton
+- To spite Edgar
+- Possessiveness
+- Defy Edgar's (perceived?) saviour complex
+- Heir, act of defiance/reclamation
+- Linton's status as an outsider reflects HC's role (that he also took with Catherine)
+
+Heathcliff perhaps blames Cathy as killing Catherine and stealing her (due to uncanny resemblance)
+
+Nelly
+- Abandons Linton even after witnessing abuse and slander
+- Increases sympathy for Linton
+- Negative view of Nelly
+  - Nelly is telling the story, if Nelly looks bad then, then how bad was it actually?
+- Servant/Master relationship / Class criticism
+
+### Themes
+Conflicts between nature and civilisation
+- Children
+  - Inability to act freely, even though they want to/act so
+  - Family
+  - Even "instinctive" parental love is corrupted by the environment
+- Edgar/TG = civilisation
+- HC/WH = primal nature??? or perhaps corrupted civilisation, this I find more likely
+- Death in childbirth = natural process. but forced by society/civilisation
+- Catherine's grave between the two houses = symbolic of Catherine's conflict between civilisation and nature (and savagery?)
+- Hareton = servant and not in "civilisation", but actually her cousin in nature
+
+- Pregnancy
+  - Did Edgar even know before so, Nelly even?
+  - We don't know until it happens, perhaps a satire of Victorian society's taboo against pregnant women who have to stay out of sight and become hysterical
+
+Contemporary anxieties about class in Victorian age
+- Blurring of class hierarchy and distinction
+- Hubris and reversals of fortune
+- Immediate loathing of HC on arrival at WH
+- Catherine tries to level the divide but can't
+- Usurping of the upper class' power
+- Hatred due to jealousy (Nelly and Joseph) or class prejudice (Hindley)
+- Reasons for the lower classes wanting to change the system
+
+Symbolism:
+- "desert" = escapism, desire, desolate and alone, beyond/transcending WH and TG (nature transcending society?)
+- Dogs get into a fight: TG and WH always collide and in conflict, resulting in injury
+  - dogs return to the house with swollen head and bleeding ear (foreshadowing Catherine's return to the house and her distress). Ehhh, not a great point
+  - Catherine's puppy= youth, kindness, Hareton's caring nature even though he has been through a lot
+    - Catherine's rejection of it = stubbornness, privilege, ungratefulness, class prejudice
+- "scrawny body", vulnerability, reflecting his upbringing by the Lintons (sheltered, spoiled), physical and mental weakness, emphasises the differences between Heathcliff and his son
+  - Similarity to Isabella/reminder he is her daughter, Heathcliff hates Isabella
+  - Heathcliff doesn't see himself in him
