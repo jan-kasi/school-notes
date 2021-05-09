@@ -2,7 +2,7 @@
 title: 01 Intro
 tags: [Notebooks/English/texts/Arrow of God]
 created: '2021-04-27T09:51:52.892Z'
-modified: '2021-04-27T10:29:24.153Z'
+modified: '2021-05-07T13:47:14.594Z'
 ---
 
 # 01 Intro
@@ -21,5 +21,7 @@ How can you use the colonial language to express the anti-colonialist and Africa
 - Linguistic colonialism
 
 The history of Africa taught as being a blank and then filled in by British colonialists, where there were really full civilisations and histories which are destroyed. Not something which was "discovered".
+
+The question of human nature
 
 

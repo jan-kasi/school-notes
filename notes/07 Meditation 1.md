@@ -2,7 +2,7 @@
 title: 07 Meditation 1
 tags: [Notebooks/Philosophy/descartes]
 created: '2021-03-22T19:59:20.966Z'
-modified: '2021-04-23T12:39:04.929Z'
+modified: '2021-04-30T11:36:08.724Z'
 ---
 
 # 07 Meditation 1
@@ -13,7 +13,8 @@ modified: '2021-04-23T12:39:04.929Z'
 Inside Meditation 1 we find the following 5 arguments:
 
 - Sensory Doubt (p15-16 + p75-79)
-- The Dream Argument, and The Painter’s Analogy (p16-17 + p79-81)
+- The Dream Argument (p16-17)
+- The Painter’s Analogy  (p79-81)
 - The Deceiving God Hypothesis (p17-18)
 - The Defective Origins Hypothesis (p18)
 
@@ -28,7 +29,7 @@ Together, they are Descartes’ first attempt to understand what can be truly sa
 2. These falsehoods are used to construct a large part of some knowledge
 3. The knowledge is then doubtful, we need to deconstruct them and begin again
 4. The senses we base knowledge on are often deceived
-5. We shouldn’t completely trust things which sometimes deceive us
+5. We shouldn't completely trust things which sometimes deceive us
 6. We cannot completely trust the senses
 7. There are some things which only the mad can doubt
 8. Adopting the mad as a basis for knowledge is unproductive

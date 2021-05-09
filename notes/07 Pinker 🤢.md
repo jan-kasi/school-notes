@@ -1,11 +1,11 @@
 ---
-title: 07 Pinker 🤢
+title: 07 Pinker
 tags: [Notebooks/Philosophy/core theme/01 freedom, phil]
 created: '2020-10-07T21:07:36.957Z'
 modified: '2021-04-19T20:36:54.322Z'
 ---
 
-# 07 Pinker :nauseated_face:
+# 07 Pinker
 
 —by me
 
