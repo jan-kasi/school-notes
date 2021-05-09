@@ -1,2 +1,2 @@
 # school-notes
-This is a repository of my note-taking and work storage system, currently using Notable as the notebook software. Mindmaps are made using Minder.
+This is a repository of my notes and work for sixth form.
