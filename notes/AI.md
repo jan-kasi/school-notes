@@ -1,8 +1,8 @@
 ---
 title: AI
-tags: [Notebooks/Philosophy/core theme/05 extra]
+tags: [Notebooks/Philosophy/core theme/05 extra, phil]
 created: '2021-04-01T13:17:40.302Z'
-modified: '2021-04-01T13:59:16.905Z'
+modified: '2021-05-16T10:29:46.325Z'
 ---
 
 # AI

@@ -1,8 +1,11 @@
 ---
 title: Gender
+author: Nahla
 tags: [Notebooks/Philosophy/core theme/05 extra, phil]
 created: '2021-03-17T18:48:35.467Z'
 modified: '2021-03-17T18:49:18.369Z'
+header: ${title} - ${author}
+footer: ${pageNo}
 ---
 
 # Gender

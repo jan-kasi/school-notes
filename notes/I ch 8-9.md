@@ -2,7 +2,7 @@
 title: I ch 8-9
 tags: [en, Notebooks/English/texts/Wuthering Heights]
 created: '2021-03-10T08:57:56.164Z'
-modified: '2021-03-21T18:46:51.061Z'
+modified: '2021-05-11T10:17:50.698Z'
 ---
 
 # I ch 8-9
@@ -83,3 +83,4 @@ What motivates Catherine's marriage to Edgar?
 - "handsome, young, cheerful, rich" and "loves" Catherine
 - even if she doesn't love him, she is loved by him and he offers an escape
 
+---

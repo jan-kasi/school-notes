@@ -1,11 +1,11 @@
 ---
-title: 06 Exam technique
-tags: [Notebooks/Philosophy/descartes]
+title: 05 Exam technique
+tags: [Notebooks/Philosophy/descartes, phil]
 created: '2021-03-19T10:52:12.835Z'
-modified: '2021-03-28T14:43:52.139Z'
+modified: '2021-05-22T12:10:13.318Z'
 ---
 
-# 06 Exam technique
+# 05 Exam technique
 You must be *led by the text*
 - littered with quotations and reference to the text
 - actually discuss the text
@@ -19,23 +19,23 @@ You must be *led by the text*
 (text)->(arg/conc)->(explain/unpack)
 ```
 
-### Examiners complaints
+### Examiner's complaints
 - No reference to the text
 - No philosophical vocabulary
 - Failure to ATQ precisely and directly
 - Simple explanation, no detailed development showing understanding
 ### structure
 - intro
-1. define key terms
-2. explain the context the terms appear in (cite) and the importance of them within the M
+1. Define key terms
+2. Explain the context the terms appear in (cite) and the importance of them within the M
 
 - central explanation: 3 paragraphs
-3. state one way it's found in M
-4. clear link to question
-5. references to the text
-6. explain Descartes specific terminology
-7. elaborate on relevance to the textual reference
-8. supplement the ideas: what the consequences are, the importance to D's project, the implications for Philosophical Thought
+3. State one way it's found in M
+4. Clear link to question
+5. Add references to the text
+6. Terminology from Descartes' explained
+7. Elaborate on relevance to the textual reference
+8. Supplement the ideas: what the consequences are, the importance to D's project, the implications for Philosophical Thought
 Concluding line
 ## Part B
 - Relevant, accurate and detailed knowledge of the specified idea/argument/etc. from the text

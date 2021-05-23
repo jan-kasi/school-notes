@@ -1,11 +1,11 @@
 ---
-title: 12 Meditation 2
-tags: [Notebooks/Philosophy/descartes]
+title: 11 Meditation 2
+tags: [Notebooks/Philosophy/descartes, phil]
 created: '2021-05-07T08:59:18.580Z'
-modified: '2021-05-07T09:56:12.481Z'
+modified: '2021-05-22T12:10:40.064Z'
 ---
 
-# 12 Meditation 2
+# 11 Meditation 2
 
 The cogito: A necessity—the necessary connection between thought and existence
 

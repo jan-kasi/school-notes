@@ -1,8 +1,8 @@
 ---
 title: Content, craft and Conventions
-tags: [Notebooks/English/texts/Wuthering Heights]
+tags: [en, Notebooks/English/texts/Wuthering Heights]
 created: '2021-03-15T14:23:56.468Z'
-modified: '2021-03-15T14:30:30.813Z'
+modified: '2021-05-16T10:27:39.322Z'
 ---
 
 # Content, craft and Conventions
@@ -15,4 +15,4 @@ We cannot separate what the things are from how the writer presents them, they d
 
 Heathcliff is a tumultuous and violent character. --> Bronte presents Heathcliff as a tumultuous and violent character, through....(technique), to explore the...(critical theory and for what reasons Bronte does this/why this is necessary)
 
-
+---

@@ -1,11 +1,11 @@
 ---
-title: 03 Dedicatory Letter to the Sorbonne & Preface
-tags: [Notebooks/Philosophy/descartes]
+title: 02 Dedicatory Letter to the Sorbonne & Preface
+tags: [Notebooks/Philosophy/descartes, phil]
 created: '2021-03-12T10:47:30.457Z'
-modified: '2021-03-15T09:01:29.605Z'
+modified: '2021-05-22T12:10:01.055Z'
 ---
 
-# 03 Dedicatory Letter to the Sorbonne & Preface
+# 02 Dedicatory Letter to the Sorbonne & Preface
 3-9
 - Descartes writes with purpose
 - Faith is enough for the believer, but the non-believer demands a naturalistic explanation, which D will attempt to provide
@@ -70,7 +70,7 @@ Modern science is founded on what you can measure and then explaining the relati
 
 The reformation – direct public challenge to Catholicism. You can challenge the pope. Martin Luther should have been killed but he wasn't.  
 
-Scepticism emerges – again? Cartesian scepticism emerges.  
+Skepticism emerges – again? Cartesian skepticism emerges.  
 
 Ratio and synderesis  
 

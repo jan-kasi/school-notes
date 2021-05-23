@@ -1,11 +1,11 @@
 ---
-title: 05 Williams Introductory Essay
-tags: [Notebooks/Philosophy/descartes]
+title: 04 Williams Introductory Essay
+tags: [Notebooks/Philosophy/descartes, phil]
 created: '2021-03-17T09:47:39.955Z'
-modified: '2021-03-28T13:30:24.543Z'
+modified: '2021-05-22T12:10:09.690Z'
 ---
 
-# 05 Williams Introductory Essay
+# 04 Williams Introductory Essay
 Treat the *Meditations* as an exercise in thinking, a series of exercises, not as a book.
 Read it as if you know nothing before and attempt the exercise of the *Meditations*.
 
@@ -23,18 +23,18 @@ Descartes holds:
 
 Leibniz
 
-In many areas which our knowledge is greater than the sum of our experience--maths, metaphysics, morality. Knowledge must therefore come from:
+In many areas our knowledge is greater than the sum of our experience--maths, metaphysics, morality. Knowledge must therefore come from:
 - intuition (not simply a guess)
 - deduction--premises building into bigger ideas/conclusions
 ### Innate knowledge thesis
 Humans possess *a priori* knowledge as part of our rational nature
-Plato's *Meno* might, in truth, prove the intuition/deduction thesis.
+Plato's *Meno* might, in truth, prove the intuition/deduction thesis and not innate knowledge (leading questions)
 
 Reflex reactions
 Mind/Body distinction
 
 ### Innate Concept thesis
-we have certain ideas within our rational nature and sense perception trigger a process to come to understand them.
+we have certain ideas within our rational nature and sense perception triggers a process to come to understand them.
 
 > On the contrary, I clearly understand that there is no more reality in an infinite substance than in finite one, and hence my perception of the infinite, that is God, is in some way prior to my perception of the finite, that is myself.
 

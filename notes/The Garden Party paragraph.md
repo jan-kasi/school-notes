@@ -1,8 +1,8 @@
 ---
 title: The Garden Party paragraph
-tags: [Notebooks/English/prose, Notebooks/English/writing]
+tags: [en, Notebooks/English/prose, Notebooks/English/writing]
 created: '2021-03-10T13:38:36.769Z'
-modified: '2021-03-15T22:15:10.923Z'
+modified: '2021-05-16T10:26:49.608Z'
 ---
 
 # The Garden Party paragraph

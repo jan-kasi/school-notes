@@ -1,11 +1,11 @@
 ---
-title: 10 Empiricism
-tags: [Notebooks/Philosophy/descartes]
+title: 09 Empiricism
+tags: [Notebooks/Philosophy/descartes, phil]
 created: '2021-04-23T11:21:12.814Z'
-modified: '2021-04-23T11:47:44.789Z'
+modified: '2021-05-22T12:10:29.172Z'
 ---
 
-# 10 Empiricism
+# 09 Empiricism
 ## Criticisms of Meditation 1 – the method 
 
 Is doubting reason self-defeating? 

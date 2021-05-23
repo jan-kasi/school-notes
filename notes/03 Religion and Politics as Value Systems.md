@@ -2,14 +2,14 @@
 title: 03 Religion and Politics as Value Systems
 tags: [Notebooks/Philosophy/Paper 3, phil]
 created: '2021-01-08T12:17:28.808Z'
-modified: '2021-03-10T22:26:27.473Z'
+modified: '2021-05-16T10:24:26.029Z'
 ---
 
 # 03 Religion and Politics as Value Systems
 
 
 ## Video
-Essensialism: aristotle and plato
+Essentialism: Aristotle and Plato
 
 The Absurd: the search for answers in an answerless world
 
@@ -17,15 +17,15 @@ The denial of teleology
 
 
 ## Kierkegaard
-Similarities with nietzche:
+Similarities with Nietzsche:
 - both deny teleology
 - both strive for authenticity
-- both go against the value system they are in, kierkegaard does hegelianism and nietzche does entire realm of philosophy
-- both strive to finding and making meaning
+- both go against the value system they are in, Kierkegaard against Hegelianism and Nietzsche against entire realm of previous philosophy
+- both strive to the finding and making of meaning
 
 Differences:
-- kierkegaard as a responce to nietzche: nietzche living in the Aesthetic and denying the Ethical, he constructs his own value system but it is meaningless.
-- kierkegaard is a fideist theological positivist
+- Kierkegaard can be used as a a response to Nietzsche: Nietzsche living in the Aesthetic and denying the Ethical, he constructs his own value system but it is meaningless.
+- Kierkegaard is a fideist theological positivist
 -
 
 
@@ -36,4 +36,4 @@ If one denies teleology, then one must question the underlying value systems hel
 
 Furthermore, one can view this lack of teleology as removing any quest for God, yet the true existential angst arises from the noticing of the unprovability and distance of God. To simply reject God is the easy way which avoids any further existential questioning: one simply denies God, as the life-denying nihilist does everything. This is not to say that theism is the conclusion from a denial of teleology, for the position that "God exists" is not necessary for the quest towards God. However, one must recognise the transcendence of God from existence, and faith in this absurd quest to know God while neither existing nor not existing results in true, self-created meaning.
 
-The simple creation of meaning for the self is not enough, one must recognise the fundamental falsity of this meaning and therefore make the quest for meaning the aim of life itself, meaning of which can only be discovered in a suspension of reason for the faith in something greater. That "Man is a useless passion" must be fully embraced, instead of the atheistic existentialist thought, the lack of teleology and passion for God ought to lose the self. It is in this denial of self, which Sartre criticises, that true meaning is found: not a meaning created inauthentically and trying to be authentic, but an authentic meaning created by denying the self because of recognising its ego as narcissistically being inauthentic. Therefore, one must believe in the quest for meaning through God or something greater, inevitably fail, and make this absurd quest the foundation for a self-less value system.
+The simple creation of meaning for the self is not enough, one must recognise the fundamental falsity of this meaning and therefore make the quest for meaning the aim of life itself, meaning of which can only be discovered in a suspension of reason for the faith in something greater. That "Man is a useless passion" must be fully embraced, instead of the atheistic existentialist thought, the lack of teleology and passion for God ought to lose the self. It is in this denial of self, which Sartre criticises, that true meaning is found: not a meaning created inauthentically and trying to be authentic, but an authentic meaning created by denying the self because of recognising its ego as narcissism being inauthentic. Therefore, one must believe in the quest for meaning through God or something greater, inevitably fail, and make this absurd quest the foundation for a self-less value system.

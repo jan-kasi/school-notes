@@ -1,8 +1,8 @@
 ---
 title: II ch 7-12
-tags: [Notebooks/English/texts/Wuthering Heights]
+tags: [en, Notebooks/English/texts/Wuthering Heights]
 created: '2021-04-28T07:14:09.351Z'
-modified: '2021-04-28T08:40:05.231Z'
+modified: '2021-05-16T10:28:20.005Z'
 ---
 
 # II ch 7-12
@@ -63,3 +63,5 @@ modified: '2021-04-28T08:40:05.231Z'
 ## Parallels
 - Gothic theme of past and present closely related and linked
 
+
+---

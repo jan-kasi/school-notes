@@ -1,8 +1,8 @@
 ---
 title: II ch 01
-tags: [Notebooks/English/texts/Wuthering Heights]
+tags: [en, Notebooks/English/texts/Wuthering Heights]
 created: '2021-03-22T09:58:07.749Z'
-modified: '2021-03-24T09:30:57.842Z'
+modified: '2021-05-16T10:28:12.268Z'
 ---
 
 # II ch 01
@@ -62,4 +62,4 @@ Religious ecstasy
 Subversion of Gothic, wants to be haunted.
 Says it doesn't matter if they are happy, she can be dead but she needs to be there---selfish
 
-
+---

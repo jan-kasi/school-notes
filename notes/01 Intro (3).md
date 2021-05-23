@@ -1,8 +1,8 @@
 ---
 title: 01 Intro
-tags: [Notebooks/English/texts/Arrow of God]
+tags: [en, Notebooks/English/texts/Arrow of God]
 created: '2021-04-27T09:51:52.892Z'
-modified: '2021-05-07T13:47:14.594Z'
+modified: '2021-05-16T10:25:39.076Z'
 ---
 
 # 01 Intro

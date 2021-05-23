@@ -1,11 +1,11 @@
 ---
-title: 07 Meditation 1
-tags: [Notebooks/Philosophy/descartes]
+title: 06 Meditation 1
+tags: [Notebooks/Philosophy/descartes, phil]
 created: '2021-03-22T19:59:20.966Z'
-modified: '2021-04-30T11:36:08.724Z'
+modified: '2021-05-22T12:10:16.077Z'
 ---
 
-# 07 Meditation 1
+# 06 Meditation 1
 
 <img src="../attachments/descartescool.jpg" alt="Do you even Meditate, bro?" style="zoom:50%;" />
 
@@ -90,6 +90,8 @@ Not saying there is no God or a deceiving demon, posing a hypothetical of what f
 ### Purpose of this argument (in the wider context of Meditation 1)
 I cannot know that God is not deceiving me, for those who claim God gives them knowledge.
 Demonstrating to the theist why they cannot hold God as proof of knowledge.
+Those things claimed to be fundamental to make up the dream could be false.
+
 A hypothesis: 
 
 To continue on his project of doubting everything he can
@@ -118,7 +120,8 @@ That we cannot be certain of our own origins
 | ---------- | ------------------------------------------------------------ |
 | Premise 1  | The senses cannot be trusted to give certain knowledge       |
 | Premise 2  | I cannot know for certain if experiencing reality or not, however there must be a source of my knowledge somewhere. |
-| Premise 3  | I cannot know that God is not deceiving me, for those who claim God gives them knowledge |
-| Premise 4  | I cannot even know the origins of myself and my nature, the origin for the atheist is an imperfect being, the basis for knowledge for the atheist is even less than the theist |
+| Premise 3  | I cannot know that God is not deceiving me, for those who claim God gives them knowledge. |
+| Premise 4  | I cannot even know the origins of myself and my nature, the origin for the atheist is an imperfect being, the basis for knowledge for the atheist is even less than the theist. |
+|Premise 5| From 4 and 5, I cannot even know that these fundamental things exist based on sense perception|
 | Conclusion | I cannot rely on my experiences of the world for knowledge   |
 

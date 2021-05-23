@@ -1,8 +1,8 @@
 ---
 title: II ch 2-6
-tags: [Notebooks/English/texts/Wuthering Heights]
+tags: [en, Notebooks/English/texts/Wuthering Heights]
 created: '2021-03-29T13:17:27.606Z'
-modified: '2021-03-30T11:15:14.836Z'
+modified: '2021-05-16T10:28:16.134Z'
 ---
 
 # II ch 2-6
@@ -168,3 +168,5 @@ Symbolism:
 - "scrawny body", vulnerability, reflecting his upbringing by the Lintons (sheltered, spoiled), physical and mental weakness, emphasises the differences between Heathcliff and his son
   - Similarity to Isabella/reminder he is her daughter, Heathcliff hates Isabella
   - Heathcliff doesn't see himself in him
+
+---

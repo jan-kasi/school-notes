@@ -2,7 +2,7 @@
 title: I 01 intro
 tags: [en, Notebooks/English/texts/Wuthering Heights]
 created: '2021-02-22T09:48:47.339Z'
-modified: '2021-03-21T18:46:07.238Z'
+modified: '2021-05-11T10:17:31.136Z'
 ---
 
 # I 01 intro
@@ -36,4 +36,4 @@ race and postcoloniaism
 an alien/changeling/interloper
 set in the past (Lockwood diaries dated 1801 so Nely must have been born in 1758 and Catherine's marriage took place in 1783)
 
-
+---
