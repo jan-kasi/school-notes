@@ -1,11 +1,11 @@
 ---
-title: Modernism
+title: 01 Modernism
 tags: [en, Notebooks/English/texts/Mrs Dalloway]
 created: '2021-05-17T13:17:04.033Z'
-modified: '2021-05-18T11:13:53.855Z'
+modified: '2021-05-24T08:50:02.801Z'
 ---
 
-# Modernism
+# 01 Modernism
 
 Born out of the post-war psyche of the First World War
 - Loss of faith in humanity
