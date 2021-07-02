@@ -1,8 +1,8 @@
 ---
 title: 17 Doubting "I think"
-tags: [Notebooks/Philosophy/descartes]
+tags: [Notebooks/Philosophy/Descartes]
 created: '2021-05-17T09:49:05.830Z'
-modified: '2021-05-22T12:11:08.408Z'
+modified: '2021-06-18T09:52:16.686Z'
 ---
 
 # 17 Doubting "I think"

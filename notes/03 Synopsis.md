@@ -1,8 +1,8 @@
 ---
 title: 03 Synopsis
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-03-14T19:39:46.119Z'
-modified: '2021-05-22T12:10:05.316Z'
+modified: '2021-06-18T09:52:16.679Z'
 ---
 
 # 03 Synopsis

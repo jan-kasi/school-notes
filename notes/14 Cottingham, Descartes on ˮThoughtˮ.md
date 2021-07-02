@@ -1,8 +1,8 @@
 ---
 title: 14 Cottingham, Descartes on "Thought"
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-14T08:42:14.001Z'
-modified: '2021-05-22T12:10:53.524Z'
+modified: '2021-06-18T09:52:16.684Z'
 ---
 
 # 14 Cottingham, *Descartes on "Thought"*

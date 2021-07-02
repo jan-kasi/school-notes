@@ -1,8 +1,8 @@
 ---
 title: 05 Exam technique
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-03-19T10:52:12.835Z'
-modified: '2021-05-22T12:10:13.318Z'
+modified: '2021-06-18T09:52:16.680Z'
 ---
 
 # 05 Exam technique

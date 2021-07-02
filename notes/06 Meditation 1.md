@@ -1,8 +1,8 @@
 ---
 title: 06 Meditation 1
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-03-22T19:59:20.966Z'
-modified: '2021-05-22T12:10:16.077Z'
+modified: '2021-06-18T09:52:16.680Z'
 ---
 
 # 06 Meditation 1

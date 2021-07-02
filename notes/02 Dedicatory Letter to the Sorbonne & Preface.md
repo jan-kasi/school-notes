@@ -1,8 +1,8 @@
 ---
 title: 02 Dedicatory Letter to the Sorbonne & Preface
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-03-12T10:47:30.457Z'
-modified: '2021-05-22T12:10:01.055Z'
+modified: '2021-06-18T09:52:16.678Z'
 ---
 
 # 02 Dedicatory Letter to the Sorbonne & Preface

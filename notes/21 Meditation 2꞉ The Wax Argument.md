@@ -1,8 +1,8 @@
 ---
 title: '21 Meditation 2: The Wax Argument'
-tags: [Notebooks/Philosophy/descartes]
+tags: [Notebooks/Philosophy/Descartes]
 created: '2021-05-24T10:39:18.581Z'
-modified: '2021-05-24T10:40:46.920Z'
+modified: '2021-06-18T09:52:16.687Z'
 ---
 
 # 21 Meditation 2: The Wax Argument
@@ -23,9 +23,28 @@ Sense perception does not give any truth of what the wax is.
 
 - Sense perception =/=  Truth about reality
 
+```mermaid
+flowchart RL
+subgraph FR[Formal Reality]
+style FR stroke-width:10px
+
+A[wax]
+end
+A ---> B[Secondary\nCharacteristics]
+subgraph Human
+D[Senses]
+E[Mind]
+end
+A ---> E
+B --> C1[Taste]
+B --> C2[Touch]
+B --> C3[Smell]
+B --> C4[Sight]
+C1 & C2 & C3 & C4 ---> D
+
+```
 
 
-[diagram]
 
 
 
@@ -55,10 +74,7 @@ Extension
 
 
 
-
-
 Back to the wax.
-
 
 
 secondary qualities –> intellect <– Will –> Judgement –> Primary quality —> secondary qualities
@@ -87,7 +103,7 @@ In the box of mind, there are the innate concepts, which weave into Will and int
 
 
 
-Innate concepts are proof of God as they are originating from Formal Reality as gifts of God, but are in our Rr
+Innate concepts are proof of God as they are originating from Formal Reality as gifts of God, but are in our Representational reality.
 
 
 
@@ -100,4 +116,31 @@ In meditation 4, the question of what the Will is is addressed.
 p27
 
 
+Primary/secondary distinction of his substance theory become very important to his later metaphysics and levels of reality.
+
+## Criticisms
+### Contemplation will not lead to **real understanding about** the wax
+Empiricism vs rationalism. Or even just rationalism.
+Qualia link?
+Understanding the wax is not achieved by thinking about the wax but by experiencing it too? 
+Trying to understand a whole by only looking at a part. Metaphor: trying to judge the government by a brick on parliament, or looking at a painting only through a microscope. "What's in the box?" you cannot know what is in the box, but you can know that there is a box etc.
+You cannot understand the primary qualities or know them at all, you can only study the secondary qualities.
+You cannot even prove the primary quality, you can only infer them from the secondary qualities and there is no direct link. 
+
+### Extension is no different to colour
+Extension is not a primary quality, it is a secondary quality.
+Extension is only part of something as that thing. e.g. a red chair and a blue chair are only red/blue chair if they are red/blue, similarly if they are chairs. Extension is like an adjective?
+Extension is a property of an object. There is no definition difference between colour and extension. 
+
+
+### We might need the mind to perceive the wax accurately, but this is not sufficient to have **knowledge of** the wax; something else is needed.
+As the wax is not a rational thing but an object of sense-perception perceived accurately by the mind judging the sense-perceptions.
+You also need the wax.
+**You need the body**
+Sense perceptions go through the body.
+The mind can only make as good a judgement as the sense-perception through the body.
+
+
+### Leaning into a piece of human experience, an induction. Possibly even a fallacy.
+### Category error
 

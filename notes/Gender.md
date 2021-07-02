@@ -181,11 +181,11 @@ Here is a very nice example from an SEP article, which I found after writing all
 
 > “A typical example…is that of Geddes and Thompson who, in 1889, argued that social, psychological and behavioural traits were caused by metabolic state. Women supposedly conserve energy (being ‘anabolic’) and this makes them passive, conservative, sluggish, stable and uninterested in politics. Men expend their surplus energy (being ‘katabolic’) and this makes them eager, energetic, passionate, variable and, thereby, interested in political and social matters. These biological ‘facts’ about metabolic states were used not only to explain behavioural differences between women and men but also to justify what our social and political arrangements ought to be. More specifically, they were used to argue for withholding from women political rights accorded to men because (according to Geddes and Thompson) “what was decided among the prehistoric Protozoa cannot be annulled by Act of Parliament” (quoted from Moi 1999, 18). It would be inappropriate to grant women political rights, as they are simply not suited to have those rights; it would also be futile since women (due to their biology) would simply not be interested in exercising their political rights.”
 
-I hope it’s clear why people wanted to fight against it :neutral_face: 
+I hope it’s clear why people wanted to argue against it :neutral_face: 
 
-A way to counter the arguments was to hold that behavioural and psychological differences had social causes. It was not that women were biologically incapable of political rights, the common traits observed were cultural products, and not something which should be used in justification for determinism. While one can lead into social determinism, it is important to notice that regardless the emphasis has arguablt been shifted away from biology.
+A way to counter the position was to hold that behavioural and psychological differences had social causes. It was not that women were biologically incapable of political rights, the common traits observed were cultural products, not something which should be used in justification for determinism. While one can lead into social determinism, it is important to notice that regardless the emphasis has arguablt been shifted away from biology.
 
-By doing this, one can hold the famous claim by de Beauvoir that one is not born, but rather *becomes* woman. It is an effect of social discrimination which produces in people such profound effects that they appear to be caused by nature.
+By doing this, one can hold the famous claim by de Beauvoir that one is not born, but rather *becomes* a woman. It is an effect of social discrimination which produces in people such profound effects that they appear to be caused by nature.
 
 So, there is no claim to the biological determinist argument against women’s rights, as the arguments provided are not some immutable fact of nature, but a result of—hopefully—malleable society.
 
@@ -208,10 +208,10 @@ As mentioned before, Beauvoir is important. I’ll be focusing on some specific 
 
 More context, because why not:
 
-- Beauvoir was a feminist, phenomenologist, and existentialist among many other wonderful things
+- Beauvoir was an existenitalist, femininst, and phenomenologist among many other wonderful things
 - She challenged the philosophical tradition’s status quo
 - She challenged the patriarchal status quo
-- *The Second Sex* was the first instance where the gendered and sexed body was phenomenologically investigated
+- *The Second Sex* was the first instance where the gendered/sexed body was phenomenologically investigated
 
 #### Okay now the work itself, here are some key parts:
 
@@ -231,7 +231,7 @@ There was a dichotomy: women and men are either different or equal. Beauvoir cha
 
 Beauvoir uses phenomenological analysis to draw the ideas of how culture and society frames women’s experience of their body and alienates them
 
-- Both framing and alienation can be understood in the common sense, but it is perhaps more scholarly to think of the Marxist ideas of alienation and view how they are used here and the sociological theories of framed knowledge (Beauvoir was very well read on both) 
+- Think of the Marxist ideas of alienation and view how they are used here and the sociological theories of framed knowledge.
 - Beauvoir is therefore able to use phenomenology as a device for liberation, and analyse the impact of gender as it is in society on people
 
 ##### The Other

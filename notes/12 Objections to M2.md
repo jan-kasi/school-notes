@@ -1,8 +1,8 @@
 ---
 title: 12 Objections to M2
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-10T10:30:13.047Z'
-modified: '2021-05-22T12:10:46.195Z'
+modified: '2021-06-18T09:52:16.684Z'
 ---
 
 # 12 Objections to M2

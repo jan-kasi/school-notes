@@ -1,8 +1,8 @@
 ---
 title: 04 Williams Introductory Essay
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-03-17T09:47:39.955Z'
-modified: '2021-05-22T12:10:09.690Z'
+modified: '2021-06-18T09:52:16.679Z'
 ---
 
 # 04 Williams Introductory Essay

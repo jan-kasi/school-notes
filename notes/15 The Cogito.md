@@ -1,8 +1,8 @@
 ---
 title: 15 The Cogito
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-14T11:29:00.674Z'
-modified: '2021-05-22T12:10:57.031Z'
+modified: '2021-06-18T09:52:16.685Z'
 ---
 
 # 15 The Cogito

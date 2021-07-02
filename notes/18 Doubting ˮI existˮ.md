@@ -1,8 +1,8 @@
 ---
 title: 18 Doubting "I exist"
-tags: [Notebooks/Philosophy/descartes]
+tags: [Notebooks/Philosophy/Descartes]
 created: '2021-05-17T10:06:30.208Z'
-modified: '2021-05-22T12:11:13.375Z'
+modified: '2021-06-18T09:52:16.686Z'
 ---
 
 # 18 Doubting "I exist"

@@ -1,9 +1,9 @@
 ---
 title: 07 Teresa of Ávila
 attachments: [Descartes_debt_to_Teresa_of_Avila.pdf]
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-03-28T17:29:53.837Z'
-modified: '2021-05-22T12:10:19.762Z'
+modified: '2021-06-18T09:52:16.681Z'
 ---
 
 # 07 Teresa of Ávila

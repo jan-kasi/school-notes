@@ -1,8 +1,8 @@
 ---
 title: 10 Intro to Meditation 2
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-04-30T11:24:22.323Z'
-modified: '2021-05-22T12:10:35.859Z'
+modified: '2021-06-18T09:52:16.683Z'
 ---
 
 # 10 Intro to Meditation 2

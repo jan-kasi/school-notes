@@ -1,8 +1,8 @@
 ---
 title: 08 Objections to M1
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-03-29T10:02:36.089Z'
-modified: '2021-05-22T12:10:23.140Z'
+modified: '2021-06-18T09:52:16.682Z'
 ---
 
 # 08 Objections to M1

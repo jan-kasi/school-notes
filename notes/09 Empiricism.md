@@ -1,8 +1,8 @@
 ---
 title: 09 Empiricism
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-04-23T11:21:12.814Z'
-modified: '2021-05-22T12:10:29.172Z'
+modified: '2021-06-18T09:52:16.682Z'
 ---
 
 # 09 Empiricism

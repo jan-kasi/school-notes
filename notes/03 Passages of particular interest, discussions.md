@@ -1,8 +1,8 @@
 ---
 title: 03 Passages of particular interest, discussions
-tags: [en, Notebooks/English/texts/mishima]
+tags: [en, Notebooks/English/texts/Mishima]
 created: '2021-03-19T14:24:30.450Z'
-modified: '2021-05-16T10:25:57.788Z'
+modified: '2021-06-18T13:44:13.594Z'
 ---
 
 # 03 Passages of particular interest, discussions

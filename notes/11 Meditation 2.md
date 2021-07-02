@@ -1,8 +1,8 @@
 ---
 title: 11 Meditation 2
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-07T08:59:18.580Z'
-modified: '2021-05-22T12:10:40.064Z'
+modified: '2021-06-18T09:52:16.683Z'
 ---
 
 # 11 Meditation 2
@@ -53,3 +53,8 @@ Locke
 
 ‘D is proving *his* point, not *the* point’
 
+## D's argument
+1. From M1, deceiver. However, "he cannot bring it about that I am nothing so long that I think that I am something"
+2. What is this thing, thinking that it is something? It is "a thing that thinks", res cogitans, one can doubt the content of what one is but not the act of thinking. Thus one is only, strictly, a thinking thing
+3. Therefore, "I am, I exist" for so long as I am thinking.
+4. "necessarily true" as a self-verifying thought "every time I express it or conceive of it in my mind"

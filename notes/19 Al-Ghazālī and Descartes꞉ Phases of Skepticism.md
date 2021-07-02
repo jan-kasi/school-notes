@@ -1,8 +1,8 @@
 ---
 title: '19 Al-Ghazālī and Descartes: Phases of Skepticism'
-tags: [Notebooks/Philosophy/descartes]
+tags: [Notebooks/Philosophy/Descartes]
 created: '2021-05-23T16:08:55.735Z'
-modified: '2021-05-23T22:30:10.287Z'
+modified: '2021-06-18T09:52:16.686Z'
 ---
 
 # 19 Al-Ghazālī and Descartes: Phases of Skepticism

@@ -1,8 +1,8 @@
 ---
 title: 02 Global Issues Video
-tags: [en, Notebooks/English/skills, Notebooks/English/texts/Candide]
+tags: [en, Notebooks/English/oral, Notebooks/English/skills, Notebooks/English/texts/Candide]
 created: '2021-01-08T14:29:17.296Z'
-modified: '2021-03-12T11:14:41.944Z'
+modified: '2021-06-17T10:40:51.990Z'
 ---
 
 # 02 Global Issues Video

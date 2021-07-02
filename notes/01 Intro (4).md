@@ -1,8 +1,8 @@
 ---
 title: 01 Intro
-tags: [Notebooks/Philosophy/descartes, phil]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-03-08T09:00:31.195Z'
-modified: '2021-05-22T12:09:56.465Z'
+modified: '2021-06-18T09:52:16.677Z'
 ---
 
 # 01 Intro
