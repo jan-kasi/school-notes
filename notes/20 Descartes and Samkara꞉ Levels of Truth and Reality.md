@@ -1,8 +1,8 @@
 ---
 title: '20 Descartes and Samkara: Levels of Truth and Reality'
-tags: [Notebooks/Philosophy/Descartes]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-23T22:14:40.469Z'
-modified: '2021-06-18T09:52:16.687Z'
+modified: '2021-07-05T10:40:17.725Z'
 ---
 
 # 20 Descartes and Samkara: Levels of Truth and Reality

@@ -1,8 +1,8 @@
 ---
 title: 23 Meditation 3
-tags: [Notebooks/Philosophy/Descartes]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-06-16T08:53:41.187Z'
-modified: '2021-07-02T09:55:25.409Z'
+modified: '2021-07-05T10:39:54.589Z'
 ---
 
 # 23 Meditation 3

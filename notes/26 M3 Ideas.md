@@ -1,8 +1,8 @@
 ---
 title: 26 M3 Ideas
-tags: [Notebooks/Philosophy/Descartes]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-07-02T10:06:11.518Z'
-modified: '2021-07-02T10:30:40.940Z'
+modified: '2021-07-05T10:39:37.519Z'
 ---
 
 # 26 M3 Ideas

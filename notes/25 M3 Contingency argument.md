@@ -1,8 +1,8 @@
 ---
 title: 25 M3 Contingency argument
-tags: [Notebooks/Philosophy/Descartes]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-06-25T11:33:52.118Z'
-modified: '2021-07-02T10:06:05.396Z'
+modified: '2021-07-05T10:39:43.431Z'
 ---
 
 # 25 M3 Contingency argument

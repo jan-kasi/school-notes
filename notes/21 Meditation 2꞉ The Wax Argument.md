@@ -1,8 +1,8 @@
 ---
 title: '21 Meditation 2: The Wax Argument'
-tags: [Notebooks/Philosophy/Descartes]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-24T10:39:18.581Z'
-modified: '2021-06-18T09:52:16.687Z'
+modified: '2021-07-05T10:40:05.025Z'
 ---
 
 # 21 Meditation 2: The Wax Argument

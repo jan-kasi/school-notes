@@ -1,8 +1,8 @@
 ---
 title: 16 Cogito scholars reading
-tags: [Notebooks/Philosophy/Descartes]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-16T22:17:31.491Z'
-modified: '2021-06-18T09:52:16.685Z'
+modified: '2021-07-05T10:40:17.727Z'
 ---
 
 # 16 Cogito scholars reading

@@ -1,8 +1,8 @@
 ---
 title: 22 Exam feedback
-tags: [Notebooks/Philosophy/Descartes]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-28T11:34:55.871Z'
-modified: '2021-06-18T09:52:16.687Z'
+modified: '2021-07-05T10:39:59.504Z'
 ---
 
 # 22 Exam feedback

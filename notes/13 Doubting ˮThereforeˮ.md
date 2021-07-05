@@ -1,8 +1,8 @@
 ---
 title: 13 Doubting "Therefore"
-tags: [Notebooks/Philosophy/Descartes]
+tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-17T09:51:09.966Z'
-modified: '2021-06-18T09:52:16.684Z'
+modified: '2021-07-05T10:40:17.727Z'
 ---
 
 # 13 Doubting "Therefore"
