@@ -2,7 +2,7 @@
 title: '20 Descartes and Samkara: Levels of Truth and Reality'
 tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-23T22:14:40.469Z'
-modified: '2021-07-05T10:40:17.725Z'
+modified: '2021-09-09T07:50:40.836Z'
 ---
 
 # 20 Descartes and Samkara: Levels of Truth and Reality
@@ -14,8 +14,6 @@ https://www.jstor.org/stable/1399157
 Western philosophy tends to understand things as either true or false, and that what is real or true is opposite and exclusive to what is unreal or untrue, and that there can be no mediating ground. The quest of Western philosophy has generally been to determine clearly what is real and true contrasted against what is held to be unreal and untrue.
 
 Often in this quest for truth, philosophers tend to qualify truth (hold it to be more or less real, or that something can be more true than another) even while trying to deny and exclude its possibility. Descartes’ method of doubt stratifies and qualifies truth and reality before drawing the lines to begin.
-
-
 
 ## Samkara’s argument
 
@@ -81,7 +79,7 @@ For the Trademark argument, as Descartes is still perhaps under the influence of
 
 ## Appraisal of paper
 
-
+10 and 11 depend on accepting the theological (?) position so may not apply within the Cartesian framework. Descartes perhaps uses the dream argument not to replace one as real and the other as unreal permanently, it is not part of following argument. Instead it is used to propose the possibility that anything we think is real could be mistaken as it is in a dream. For the trademark argument, the idea of the infinite substance means that it cannot be in any way more improved if it truly is the infinite substance, so it cannot be that if you have the idea of the infinite that it could be in a higher level. One might however try to examine if one is mistaken about the idea by thinking it is something different, that it is not truly the infinite. Descartes' cogito does not claim it is identity, only that it means one can be sure that "I am, I exist", not anything about what this "I" is, except that there is thinking (res cogitans) necessarily tied to it.
 
 ## Using the paper to counter the Meditations
 

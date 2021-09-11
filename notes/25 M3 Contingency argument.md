@@ -2,11 +2,11 @@
 title: 25 M3 Contingency argument
 tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-06-25T11:33:52.118Z'
-modified: '2021-07-05T10:39:43.431Z'
+modified: '2021-09-09T14:13:04.400Z'
 ---
 
 # 25 M3 Contingency argument
-## Contingency argument
+## Causal argument
 p38-39
 1. If I caused my existence, I would have all perfections
 2. I do not have all perfections (finite substance)
@@ -30,6 +30,7 @@ p39("I do not escape...) 2 par.
 5. I do not have this power
 6. I depend on an external being for my existence
 
+## Contingency argument
 Distinction between creation and preservation is a conceptual human error
 "a lifespan can be divided into countless parts, each completely independent of the others"
 
@@ -38,7 +39,8 @@ Distinction between creation and preservation is a conceptual human error
 3. I do not have the power to cause my continued existence through time
 4. Therefore I depend on something else to exist
 
-p39("But perhaps this being...") 2 par
+
+## p39("But perhaps this being...") 2 par
 1. There must be at least as much reality in the cause as the effect (Levels of Reality).
 2. I am a thinking thing possessing the idea of God
 3. Whatever caused me must be a thinking thing possessing the idea of God

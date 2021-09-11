@@ -2,7 +2,7 @@
 title: 05 Exam technique
 tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-03-19T10:52:12.835Z'
-modified: '2021-06-18T09:52:16.680Z'
+modified: '2021-08-10T10:19:43.968Z'
 ---
 
 # 05 Exam technique
@@ -51,13 +51,13 @@ You can clarify certain things, but don't need to do any explanation of Descarte
 ### Examiners complaints
 - No reference to the text
 - No philosophical vocabulary
-- Failure to ATDQ precisely
+- Failure to ATQ precisely
 - Simple explanation, no discursive analysis
 
 ### Structure
 - intro:
 1. explain your position on the issue with brief justification.
-  - the key terms will have already been explained in A
+    - the key terms will have already been explained in A
 - analysis:
 2. Claim, the point you will make
 3. Reason, explain and elaborate on the claim

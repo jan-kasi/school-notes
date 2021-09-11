@@ -2,7 +2,7 @@
 title: 18 Doubting "I exist"
 tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-05-17T10:06:30.208Z'
-modified: '2021-07-05T10:40:17.728Z'
+modified: '2021-09-08T09:07:54.787Z'
 ---
 
 # 18 Doubting "I exist"
@@ -47,4 +47,4 @@ Sensation -> I exist
 
 
 
-
+This is weak.

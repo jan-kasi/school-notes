@@ -79,3 +79,4 @@ I agree generously with the comparison drawn between Al-Ghazālī and Descartes,
 
 In analysing Descartes’ method of doubt, one can invoke Al-Ghazālī as a criticism of the process of bringing doubt by the possibility of being absolutely mistaken due to a falsity, instead suggesting doubt is because of the possibility of a higher manifestation of knowledge, such that while the previous could be mistaken, it could also be correct but simply incomplete. Further, with the discussion of states, it is possible to challenge Descartes’ use of reason and the cogito—not by showing it to be false, but showing the possibility that a new judge might come or a higher state *from which* it is groundless: while it may be true on the state Descartes’ is on, there exists the possibility of a higher state from which it is not fixed, something Descartes has perhaps not addressed.
 
+e
