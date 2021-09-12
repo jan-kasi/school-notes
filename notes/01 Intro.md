@@ -2,7 +2,7 @@
 title: 01 Intro
 tags: [en, Notebooks/English/texts/Candide]
 created: '2020-11-30T09:47:10.336Z'
-modified: '2021-03-12T11:14:29.251Z'
+modified: '2021-09-12T12:27:19.144Z'
 ---
 
 # 01 Intro
@@ -12,7 +12,7 @@ modified: '2021-03-12T11:14:29.251Z'
 
 - Banned immediately after it was published due to its blasphemy and political outspokenness
 
-## Picaresque novel#
+## Picaresque novel
 Thrall and Hibbard
 - normally in first person, presented as a pseudo-autobiographical novel
 - not much of a cohesive unifying plot
@@ -28,7 +28,7 @@ Thrall and Hibbard
 
 ## The Enlightenment
 Voltaire is writing in the age of Enlightenment
-One of the philosophs (one of "the thinkers")
+One of the philosophes (one of "the thinkers")
   - Politically charged in some way
 
 ## Characters
@@ -44,13 +44,13 @@ Pangloss
 - Largest point of satire
 - teaches Candide and Cunengode, brainswashing them into optimism and leaving them unprepared
 Paguette
-- has a brief affair with Pangloss/Candide (?) and gives him syphilus
+- has a brief affair with Pangloss/Candide (?) and gives him syphilis
 - he justifies this with optimism
 
 ## Key themes
-- critique of "useless philosophy": the overly abstanct/non-applicable
+- critique of "useless philosophy": the overly abstract/non-applicable
 - optimism
-- (organised) religion, political authority and hypocricy: critique of catholic church beginning to be popular in intellectual circles
+- (organised) religion, political authority and hypocrisy: critique of catholic church beginning to be popular in intellectual circles
 - morality and wealth
 - the Enlightenment: critical of traditional social institutions, other philosophers, etc.
 
@@ -59,5 +59,7 @@ Paguette
 - Enlightenment thinker
 - Optimism
 - This is the best possible world
+- Had more ideas than just this ._.
+
 
 

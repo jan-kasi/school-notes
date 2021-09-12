@@ -2,7 +2,7 @@
 title: 02 Style
 tags: [en, Notebooks/English/texts/Arrow of God]
 created: '2021-05-10T08:39:41.653Z'
-modified: '2021-05-16T10:25:41.833Z'
+modified: '2021-09-12T12:25:15.657Z'
 ---
 
 # 02 Style
@@ -26,5 +26,5 @@ modified: '2021-05-16T10:25:41.833Z'
 
 - Language games, as it were
 
-- Transliterated Igbo?
+- Themes of "transliterated"-ish Igbo?
 
