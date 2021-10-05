@@ -2,14 +2,14 @@
 title: Kant's Moral Philosophy
 tags: [Notebooks/Philosophy/core theme/05 extra, phil]
 created: '2021-03-24T12:25:30.668Z'
-modified: '2021-05-16T10:29:49.788Z'
+modified: '2021-10-03T17:40:17.051Z'
 ---
 
 # Kant's Moral Philosophy
 
 —Presentation by Sami
 
-—Notes by me, nahla
+—Notes by me
 
 **Framework for Kant’s moral philosophy**
 

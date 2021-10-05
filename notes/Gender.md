@@ -1,10 +1,10 @@
 ---
 title: Gender
-author: Nahla
 tags: [Notebooks/Philosophy/core theme/05 extra, phil]
 created: '2021-03-17T18:48:35.467Z'
-modified: '2021-03-17T18:49:18.369Z'
-header: ${title} - ${author}
+modified: '2021-10-03T17:37:15.489Z'
+author: Nahla
+header: 
 footer: ${pageNo}
 ---
 
@@ -12,11 +12,18 @@ footer: ${pageNo}
 
 ![img](https://emoji.discord.st/emojis/0bedf667-61c6-4cd6-9e45-dad233ef880c.png)
 
-—By me, [Nahla][]
+—By [me][]
 
-[Nahla]: https://github.com/jan-kasi
+[me]: https://github.com/jan-kasi
+
+
+
+**Table of Contents:**
+
 
 [toc]
+
+
 
 ## Some links between areas we studied in Core Theme
 
@@ -588,11 +595,15 @@ On the changing public views of feminism:
 
 You could do a lot, but now I’ll actually stop typing.
 
-# I’ll be adding more stuff though
 
 
 
-## Bibliography and Stuff you might find useful
+
+***I’ll be adding more later***
+
+
+
+# Bibliography and Stuff you might find useful
 
 Beauvoir, S. de (2011) *The Second Sex*. 1st edn. Translated by C. Borde and S. Malovany-Chevallier. New York: Random House, Inc.
 
