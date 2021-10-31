@@ -2,7 +2,7 @@
 title: 23 Meditation 3
 tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-06-16T08:53:41.187Z'
-modified: '2021-07-05T10:39:54.589Z'
+modified: '2021-10-11T11:09:32.932Z'
 ---
 
 # 23 Meditation 3
@@ -15,7 +15,7 @@ modified: '2021-07-05T10:39:54.589Z'
   2. The Will and emotions, plus volitions
    - "a particular thing which I take as the object of my thought, but my thought includes something more than the likeness of this thing". A different form of thought in which the idea is made the object of some volition/emotion
   3. Judgements
-   - Similar to volitions or emotions in that an idea is the object of thought, but instead it is judged as something instead of simply held.
+   - Similar to volitions or emotions in that an idea is the object of thought, but instead it is judged as something (does this correspond to formal reality?) instead of simply held.
 
 ### Type 1. Ideas
 

@@ -2,7 +2,7 @@
 title: 33 Ragland Paper Descartes' Theodicy
 tags: [Notebooks/Philosophy/Descartes]
 created: '2021-10-04T07:06:36.779Z'
-modified: '2021-10-05T21:22:55.681Z'
+modified: '2021-10-11T01:03:16.308Z'
 ---
 
 # 33 Ragland Paper Descartes' Theodicy
@@ -42,7 +42,7 @@ This argument: God would not even allow anyone else to cause error
 
 2. Descartes' takes himself to have demonstrated God's existence a posteriori. If it only calls this into question as unlikely then they do not need to call the previous M3 conclusions into doubt
 
-Descartes' cannot have both be true logical arguments as this would lead to an "antimony of pure reason", reason cannot probe from CDP a contradiction that God both does and doesn't exist.
+Descartes' cannot have both be true logical arguments as this would lead to an "antimony of pure reason", reason cannot prove from CDP a contradiction that God both does and doesn't exist.
 Descartes' needs to construct a theodicy that reason is reliable, God truly exists, and hence all CDPs are true.
 
 ### Descartes' general strategy and eternal truths
