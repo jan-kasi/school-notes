@@ -2,7 +2,7 @@
 title: 38 SEP Circularity and Descartes
 tags: [Notebooks/Philosophy/Descartes]
 created: '2021-11-04T20:20:49.906Z'
-modified: '2021-11-04T21:49:14.068Z'
+modified: '2021-11-18T22:55:24.984Z'
 ---
 
 # 38 SEP Circularity and Descartes
@@ -16,6 +16,13 @@ Indirect doubt
 ### 6.1 The Cartesian Circle
 
 A longstanding (and most likely incorrect) interpretation of Descartes involves the worry that he presupposes the rule that CDP are true in his effort to prove the CDP rule. Scholarship tends to resist this vicious circularity interpretation based on textual consideration; putting these aside, it is surprising that the central argument of the project would be circular.
+
+CDP -(proves)-> God
+- M3, p40, par 4, "from the mere fact that I exist and have within me an idea of a most perfect being, that is, God, provides a very clear proof that God indeed exists."
+
+God -(provides)-> CDP
+- M4, p49, par 4, "This is because every clear and distinct perception is undoubtedly something [real and positive (in Fr version)], and hence cannot come from nothing but must necessarily have God for its author".
+- M4, p47, Final par, "the power of understanding or the natural light which God gave me".
 
 Every plausible interpretation must concede that the two main steps of the broader argument unfold in a manner *suggestive* of a circle. Let them be called arcs.
 
@@ -46,7 +53,9 @@ There are 2 main kind of non-circular strategies that are attributed to Descarte
 > *1B*: conclusion is derived from CDP premises--indeed, premises belonging to a special class of truths that are fully immune to doubt prior to establishing the general veracity of CDP propositions.
 > **Arc 2**
 
-1B clarifies Arc 1 by construing hyperbolic doubt as *bounded*. In this reading, Evil Deceiver Doubt is bounded in the sense that its skeptical power doesn't extend to all judgements: there is a special class of truths outside the bounds of doubt. One such example is the *cogito*; more importantly, the premises of M3 proofs for God are within this same category. These special propositions can be perfectly known, even by atheists.
+1B clarifies Arc 1 by construing hyperbolic doubt as *bounded*. In this reading, Evil Deceiver Doubt is bounded in the sense that its skeptical power doesn't extend to all judgements: there is a special class of truths outside the bounds of doubt. The premises of M3 proofs for God are within this category. These special propositions can be perfectly known, even by atheists.
+
+There is a special doubt-proof class of premises prior to accepting CDR. (premise "God exists" as analytic)
 
 There is no circularity with Bounded Doubt interpretation because the truths serving as premises in the argument for CDR are perfectly knowable *independently* of that rule. i.e., the premises employed throughout Arcs 1 and 2 count as perfectly knowable *prior* to the knowledge of the CDR they help establish.
 
@@ -64,6 +73,7 @@ More awkwardly, the *cogito* is included in the list of examples that the same f
 
 #### Unboudned Doubt interpretations
 > *1C*: i.e., conclusion is derived from premises that are accepted despite being vulnerable to Evil Deceiver Doubt, because our cognitive nature compels us to assent to clearly and distinctly perceived propositions
+
 > **Arc 2**
 
 1C adds to Arc 1 by construing hyperbolic doubt as *unbounded*. In this interpretation, Evil Deceiver Doubt is unbounded in the sense that it undermines *all* manner of judgements when the mind is no longer attending to them clearly and distinctly--even the cogito, even the premises of M3 proofs for God.
@@ -72,7 +82,7 @@ The meditator assents to the steps of the proofs not because of having an unders
 
 Importantly, if doubt is thus unbounded there is no circularity. The arguments in Arc 1 do not presuppose the general veracity of the CDR.
 
-The premises contributing to the conclusion of an all-prefect God remain vulnerable to hyperbolic doubt, in this stage of the inquiry none of the meditator's judgements based in CDP constitutes perfect knowledge. It is the unboundedness of hyperbolic doubt that underwrites the No Atheistic Perfect Knowledge Thesis (no perfect knowlege as all these propositions can so far be doubted).
+The premises contributing to the conclusion of an all-prefect God remain vulnerable to hyperbolic doubt, in this stage of the inquiry none of the meditator's judgements based in CDP constitutes perfect knowledge. It is the unboundedness of hyperbolic doubt that underwrites the No Atheistic Perfect Knowledge Thesis (no perfect knowledge as all these propositions can so far be doubted by EDe).
 
 The reason why the arguments in Arc 1 are accepted by the meditator if Evil Deceiver Doubt is still in play lies in the way which doubt *indirectly* undermines CDP.
 
@@ -89,6 +99,8 @@ This means it is possible to run the Evil Deceiver on the conclusions of Arcs 1 
 Self-Evident God interpretation purports to solve this problem.
 
 ### 6.2 Self-Evident God interpretation
+Answer unbounded.
+Newman and Nelson, 1999.
 
 Descartes rejects that we could overcome the problem via uninterrupted CDP, "my nature is such that I cannot fix my mental vision continually on the same thing, so as to keep perceiving it clearly; and often the memory of a previously made judgement may come back, when I am no longer attending to the arguments which led me to make it."
 
@@ -123,9 +135,11 @@ Michael Della Rocca recently argued that a further circle arises from considerat
 Two questions:
 1. Why should we not assent to ideas that are not CDP? And,
 2. Why is there no such obligation not to assent to CDP ideas?
+
 Descartes seems to say that:
+
 1. We shouldn't assent to non-CDP ideas because they are not guaranteed to be true, unlike CDP ideas.
-2. Because 
+
 
 As Della Rocca understands M4, the claim that we should only assent to what we clearly and distinctly perceive is an essential step in the ongoing argument to establish divine guarantee of CDP. Since this step presupposes the eventual conclusion, that conclusion is based on circular reasoning.
 
