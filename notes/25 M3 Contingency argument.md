@@ -2,34 +2,10 @@
 title: 25 M3 Contingency argument
 tags: [Notebooks/Philosophy/Descartes, phil]
 created: '2021-06-25T11:33:52.118Z'
-modified: '2021-09-09T14:13:04.400Z'
+modified: '2022-01-06T21:03:06.231Z'
 ---
 
 # 25 M3 Contingency argument
-## Causal argument
-p38-39
-1. If I caused my existence, I would have all perfections
-2. I do not have all perfections (finite substance)
-3. Therefore, I am not the cause of my existence
-
-no imperfections -> me
-not no imperfections
-therefore not me
-
-2 is a posteriori
-
-NB: for IB, causal argument = trademark + contingency argument
-(some scholars will talk about the Causal Argument as only the Trademark Argument, but the IB is clear that for Paper 2 it is both Trademark and Contingency)
-
-p39("I do not escape...) 2 par.
-
-1. The same power is needed to create and preserve
-2. If I have always existed I or something else must have this power
-3. If I had this power I would know (premiss about clarity about mind)
-4. I don't know that I have this power
-5. I do not have this power
-6. I depend on an external being for my existence
-
 ## Contingency argument
 Distinction between creation and preservation is a conceptual human error
 "a lifespan can be divided into countless parts, each completely independent of the others"
@@ -56,6 +32,49 @@ i.e.
 4. Therefore some cause must be the cause of its own existence
 5. What is the cause of its own existence (so mine) is God.
 
+## Causal argument = contingency + trademark
+1. Causal Adequacy Principle (a posteriori), how it applies to ideas.
+- "there is at least as much reality in the efficient and total cause as in its effect" (Causal adequacy)
+- this applies to ideas because they cannot come from nothing, as they are something (innate, adventitious, and factious all come from "something")
+2. Trademark
+- "something something I find within me the idea of the infinite..."
+- idea of the infinite, but I am a finite being because I have imperfections. If I was infinite I wouldn't therefore I'm not the cause of my own existence nor of this idea.
+- Idea of the infinite must come from something infinite, God. Therefore infinite idea is a trademark God placed within me.
+3. Contingency
+- "a lifespan can be divided into countless parts, each completely independent of the others", existence at one point doesn't entail existence at another point. There must be something preserving my existence.
+- Preservation and creation are the same power
+- As I cannot and have not created myself, I cannot preserve myself (refer to 2, I am not infinite), therefore I am reliant on something else to preserve me.
+- Whatever caused me must have an idea of the infinite, i.e. it *is* the infinite or it is finite with infinite idea.
+- If I am caused by a finite thing, with the idea of the infinite, it must be caused by something else with the idea of infinite.
+- There cannot be an infinite regress, so there must be an infinite causer (with attributes of God, therefore God) (which caused its own existence Causal Adequacy).
+- Ultimately I am caused and preserved by God.
+
+### mini summary
+p38-39
+
+1. I have an idea of the infinite.
+2. It cannot come from me as I would have to be perfect/ be the infinite, which I am not.
+3. Trademark progresses to God put idea of infinite in me.
+4. I am not the cause of my own existence.
+5. The thing which caused me must be God
+6. I have an idea placed in me of God, who is the thing which caused and preserves me.
+
+no imperfections -> me
+not no imperfections
+therefore not me
+
+
+NB: for IB, causal argument = trademark + contingency argument
+(some scholars will talk about the Causal Argument as only the Trademark Argument, but the IB is clear that for Paper 2 it is both Trademark and Contingency)
+
+p39("I do not escape...) 2 par.
+
+1. The same power is needed to create and preserve
+2. If I have always existed I or something else must have this power
+3. If I had this power I would know (premiss about clarity about mind)
+4. I don't know that I have this power
+5. I do not have this power
+6. I depend on an external being for my existence
 
 ## Linking to God
 Formal/Representational reality
