@@ -1,8 +1,8 @@
 ---
 title: '24 M3: The Trademark Argument'
 tags: [Notebooks/Philosophy/Descartes, phil]
-created: '2021-06-18T09:51:05.550Z'
-modified: '2021-07-05T10:39:49.684Z'
+created: 2021-06-18T09:51:05.550Z
+modified: 2022-03-04T14:28:57.137Z
 ---
 
 # 24 M3: The Trademark Argument
@@ -31,6 +31,9 @@ Levels of reality:
 1 can cause 2. 1 can cause 3. 2 can cause 3.
 
 Dotted line between 2 and 3, 3 is rep. 2 and 1 are formal.
+
+actuality: being done
+potentiality: could be done
 
 1 is Fully Actualised (actuality). Top.
 2 has both actuality and potentiality. Has extension (Primary Quality). In formal reality.

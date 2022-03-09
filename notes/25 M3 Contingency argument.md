@@ -1,8 +1,8 @@
 ---
 title: 25 M3 Contingency argument
 tags: [Notebooks/Philosophy/Descartes, phil]
-created: '2021-06-25T11:33:52.118Z'
-modified: '2022-01-06T21:03:06.231Z'
+created: 2021-06-25T11:33:52.118Z
+modified: 2022-03-04T14:38:30.699Z
 ---
 
 # 25 M3 Contingency argument
@@ -82,4 +82,6 @@ Ontological levels of reality
 Ideas, will and judgement
 
 
+Infinite is God: because of the Thomist thinking that God is fully actualised and the only thing possible to be fully actualised, as to be infinite *is* fully actualised.
 
+First Cause is God: Thomist thinking that to be causa sui one must be fully actualised.

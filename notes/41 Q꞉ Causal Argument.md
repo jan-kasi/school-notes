@@ -1,8 +1,8 @@
 ---
 title: '41 Q: Causal Argument'
 tags: [Notebooks/Philosophy/Descartes]
-created: '2021-12-01T11:38:04.576Z'
-modified: '2021-12-02T15:43:38.400Z'
+created: 2021-12-01T11:38:04.576Z
+modified: 2022-03-04T15:01:15.888Z
 ---
 
 # 41 Q: Causal Argument
@@ -33,8 +33,11 @@ Sections:
 - If I am caused by a finite thing, with the idea of the infinite, it must be caused by something else with the idea of infinite.
 - There cannot be an infinite regress, so there must be an infinite causer (with attributes of God, therefore God) (which caused its own existence Causal Adequacy).
 - Ultimately I am caused and preserved by God.
+4. God exists as the Infinite First Cause who cased/preserves my existence
+- Attack possible with Catton, original in the first place started with an assumption based on theological belief (which Descartes' is purporting to prove, and not use as this is for the atheist).
 
 ## B
+Order Innate ideas X; Causation X contingency in general X; Catton X 
 
 Hume: criticism of a posteriori claims, criticism of causality, criticism of cosmological arguments (applicable?), criticism of idea of infinite/god, criticism of no needed cause. Targets both CAP, Trademark and Contingency
 
