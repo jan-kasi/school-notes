@@ -2,13 +2,16 @@
 title: '41 Q: Causal Argument'
 tags: [Notebooks/Philosophy/Descartes]
 created: 2021-12-01T11:38:04.576Z
-modified: 2022-03-04T15:01:15.888Z
+modified: 2022-04-20T10:42:22.761Z
 ---
 
 # 41 Q: Causal Argument
 
 a. Explain Descartes' causal argument.
 b. Evaluate Descartes' causal argument.
+
+Fallacy of Composition. Bertrand Russel: Just because each man has a mother doesn't mean the human race has a mother. The same is true of the universe, just because everything in the universe displays cause and effect, the universe itself doesn't need to be caused or an effect; it just exists and nothing less. 
+
 
 ## A
 

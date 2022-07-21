@@ -1,8 +1,8 @@
 ---
 title: 28 Meditation 4
 tags: [Notebooks/Philosophy/Descartes]
-created: '2021-09-09T14:08:36.094Z'
-modified: '2021-09-10T14:45:18.483Z'
+created: 2021-09-09T14:08:36.094Z
+modified: 2022-03-14T12:44:22.052Z
 ---
 
 # 28 Meditation 4
@@ -49,7 +49,10 @@ i.e. it is an incorrect overapplication of the will on things which are not clea
 Therefore error lies in the "operation of the will in so far as it proceeds from me, but not in the faculty of will which I received from God, nor even in its operation, in so far as it depends on him."
 
 The scope of the will is what the will is intended to be used for/the correct use of the will, what it is able to apply to. It is only to be used on things which we have "sufficiently clear knowledge" for.
-  - 
+  - Scope = the range of things it can apply to/function on.
+	- The will can sometimes act on things without information out of confusion or ignorance.
+	- Confusion: lack of distinction between ideas. Lack of clear ideas/clarity.
+	- Ignorance: link to Aquinas; vincible ignorance (can be changed, immoral to willingly be wrong and not change this, error from these is human fault), invincible ignorance (can't be changed. Not immoral to be vincibly ignorant, but it is your own error to use the will on such ideas).
 
 Link to philosophy of religion of God "letting" people make these wrong decisions/allowing us to apply the will incorrectly.
 Assumptions about God's nature?

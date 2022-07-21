@@ -1,8 +1,8 @@
 ---
 title: 32 Meditation 6
 tags: [Notebooks/Philosophy/Descartes]
-created: '2021-09-24T14:11:56.546Z'
-modified: '2021-09-27T11:54:29.162Z'
+created: 2021-09-24T14:11:56.546Z
+modified: 2022-03-25T09:04:48.062Z
 ---
 
 # 32 Meditation 6
@@ -23,7 +23,7 @@ I am a thinking thing/I am, I exist is a self verifying thought
 ### p1
 
 ### p2
-Distinction between imagination as visualisation of an idea in the mind's eye, and pure understanding.
+Distinction between imagination as visualisation of an idea in the mind's eye of mixing ideas and sense perceptions, and pure understanding.
 
 
 ### p3
@@ -62,6 +62,15 @@ I couldn't have sensory awareness if I wanted to, I can only have it if it is pr
 ### Stage 3: Sensations originate in matter (60-63)
 "without my cooperation and ... against my will" (bottom of 62). Apprehension is triggered by the sensation (which is external in matter)
 Link to mind/body distinction, it isn't in mind it is in body (matter)
+If they originate externally then they can either come from 
+1. God
+2. Some other created creature
+3. Another substance (the material)
+
+1 and 3 would invoke God as a deceiver, as we have no faculty "for recognising any such source for these ideas" and indeed "have a great propensity to believe" they come from the material. God wouldn’t allow us to be mistaken if the assent is a natural consequence of our God-given cognitive nature.
+
+This means that we do not err when we have in our nature a propensity to believe, and no faculty with which to correct these beliefs. This proof is similar to a CDP's divine guarantee in that we cannot but assent to them, so they must be true unless God is a deceiver. It also mirrors the error theory's theodicy, as when we err we both do not have a propensity to believe and do have faculties with which to correct these.
+
 "the only alternative is that there is another substance distinct from me"
 
 ### Stage 4: Material objects possess mathematical and geometric properties (61-66)

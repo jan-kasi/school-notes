@@ -1,8 +1,8 @@
 ---
 title: 09 Empiricism
 tags: [Notebooks/Philosophy/Descartes, phil]
-created: '2021-04-23T11:21:12.814Z'
-modified: '2021-06-18T09:52:16.682Z'
+created: 2021-04-23T11:21:12.814Z
+modified: 2022-04-20T11:03:19.226Z
 ---
 
 # 09 Empiricism
@@ -17,15 +17,15 @@ Two concerns emerge:
 If the demon hypothesis can cast doubt on basic ideas, then should it not cast doubt on our capacity to make basic logical inferences?
 - e.g. the inference that a supremely good god would not deceive us about mathematics. Surely this means we must doubt the operation of reason itself? Cartesian skepticism comes to a halt – transcendental arguments?
 
-What if the evil demon’s deception is so good that it is indistinguishable from actual reality?
+What if the evil demon’s deception is so good that it is indistinguishable from actual reality? Mention distinction between representational and formal, then just leave it there (unless it's about M6 reality, but maybe don't do that Q).
 - Imagine a counterfeit £10 that cannot be identified as counterfeit.
 - Is there any real sense in which something can meaningfully be called a ‘fake’ when it will do everything a real £10 note would do and is indistinguishable.
   - Discussion between metaphysics and ontology (?) --> is it meaningfully different because it *comes* from somewhere else/has a different origin but the same nature.  
-- What if the same is true for reality? If Descartes’ demon can create the perfect illusion, then surely it is identical to what we call reality. Therefore the evil demon hypothesis is empty nonesense, or not a false reality at all. 
+- What if the same is true for reality? If Descartes’ demon can create the perfect illusion, then surely it is identical to what we call reality. Therefore the evil demon hypothesis is empty nonsense, or not a false reality at all. 
   - You can doubt doubt and you can also call the evil demon hypothesis empty.  
 - You cannot access it (the difference between "real" and "fake" reality) – but does lack of access (ignorance of the reality) mean that it is not important?
 
-### John Locke  
+### John Locke
 
 Rejects entirely the notion of innate knowledge in *An Essay On Human Understanding*
 Innate knowledge is sometimes hidden/we have to search for it to "know" it.

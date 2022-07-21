@@ -1,8 +1,8 @@
 ---
 title: 33 Ragland Paper Descartes' Theodicy
 tags: [Notebooks/Philosophy/Descartes]
-created: '2021-10-04T07:06:36.779Z'
-modified: '2021-10-11T01:03:16.308Z'
+created: 2021-10-04T07:06:36.779Z
+modified: 2022-03-14T12:57:01.629Z
 ---
 
 # 33 Ragland Paper Descartes' Theodicy
@@ -54,7 +54,7 @@ Error is absence of knowledge.
 "error is not a pure negation," i.e. not the pure absence of a property, "but a privation or lack of some knowledge which somehow should be in me."
 The nature of God means that he wouldn't have placed some imperfect faculty in us or a faculty which lacks a perfection it should have.
 God is not obligated to give any creature all perfections there are, and doing so is logically impossible (as necessary existence is a perfection for Descartes' but cannot be 'given')
-It's fine for GOd to make a creature with negations (absence of something), but not privations (absence of something which is required to make it perfect of its kind).
+It's fine for God to make a creature with **negations** (absence of something), but not **privations** (absence of something which is required to make it perfect of its kind).
 
 God could allow error for a morally sufficient reason (MSR).
 > An MSR for some error E would be a good (which outweighs E) that God could not instantiate without allowing E, or an evil (as bad or worse than E) that God could not avoid without allowing E

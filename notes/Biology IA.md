@@ -1,8 +1,9 @@
 ---
 title: Biology IA
 tags: [Notebooks/Biology/IA]
-created: '2021-03-12T15:41:50.023Z'
-modified: '2021-03-15T10:06:12.704Z'
+deleted: true
+created: 2021-03-12T15:41:50.023Z
+modified: 2022-05-13T09:06:19.084Z
 ---
 
 # Biology IA

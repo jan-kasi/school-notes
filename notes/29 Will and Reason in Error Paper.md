@@ -1,12 +1,13 @@
 ---
 title: 29 Will and Reason in Error Paper
 tags: [Notebooks/Philosophy/Descartes]
-created: '2021-09-12T20:29:41.302Z'
-modified: '2021-09-12T21:41:33.659Z'
+created: 2021-09-12T20:29:41.302Z
+modified: 2022-03-14T12:35:06.801Z
 ---
 
 # 29 Will and Reason in Error Paper
 Link to paper: https://www.jstor.org/stable/2025241
+Caton
 
 ## Main Argument
 

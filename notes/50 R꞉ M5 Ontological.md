@@ -1,11 +1,11 @@
 ---
-title: 50 R꞉ Ontological
+title: 50 R꞉ M5 Ontological
 tags: [Notebooks/Philosophy/Descartes]
 created: 2022-03-09T11:37:48.909Z
-modified: 2022-03-09T12:16:23.284Z
+modified: 2022-03-23T12:08:35.217Z
 ---
 
-# 50 R꞉ Ontological
+# 50 R꞉ M5 Ontological
 
 Three dangers, things to not do:
 - Wrong version
